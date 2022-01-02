@@ -6,11 +6,11 @@ By Fardowsa, Isabelle, Kim, Lydia, Wendy & Yehjoon
 
 **Full details of our project aims, implementation and analysis can be found in the pdf report:**
 
-Broadband Variations Report
+*Broadband Variations Report*
 
 **The source code is located in the Jupyter Notebook:**
 
-Broadband Variations Project
+*Broadband Variation Project*
 
 **The relevant source data files needed to run the code are located in the main directory:**
 
@@ -44,7 +44,7 @@ Broadband Variations Project
 -  csv
 -  seaborn
 -  plotly
--   geojson_rewind
+-  geojson_rewind
   
 **3. Run the source code Jupyter Notebook :)**
 
