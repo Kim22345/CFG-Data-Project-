@@ -6,13 +6,15 @@ By Fardowsa, Isabelle, Kim, Lydia, Wendy & Yehjoon
 
 **Full details of our project aims, implementation and analysis can be found in the pdf report:**
 
-*Broadband Variations Report*
+CFG-Data-Project-/Project Report/Broadband Variations Report.pdf
 
 **The source code is located in the Jupyter Notebook:**
 
-*Broadband Variation Project*
+CFG-Data-Project-/Project Notebook and Data Files/Broadband Variations Project.ipynb
 
-**The relevant source data files needed to run the code are located in the main directory:**
+**The relevant source data files needed to run the code are located in the folder**
+
+**CFG-Data-Project-/Project Notebook and Data Files/ :**
 
 -  202105_fixed_laua_coverage_r01.csv 
 -  RUC11_LAD11_ENv2.xlsx 
@@ -24,7 +26,9 @@ By Fardowsa, Isabelle, Kim, Lydia, Wendy & Yehjoon
 -  2020_data.csv
 -  2021_data.csv
 
-**Our project also calls Data from the nomis api, copies of the resulting datasets are also provided in the main directory files:**
+**Our project also calls Data from the nomis api, copies of the resulting datasets are also provided in the folder**
+
+**CFG-Data-Project-/Project Notebook and Data Files/ :**
 
 -  Uncleaned Data.csv
 -  Semi-Cleaned Data.csv
