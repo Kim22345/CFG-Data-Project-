@@ -1,0 +1,2095 @@
+,Region,Area,Accuracy,Date,Observed Annual Income,Information
+0,Yorkshire,BARNSLEY,Value,2016,24313.0,Normal Value
+1,Yorkshire,BARNSLEY,Value,2017,25107.0,Normal Value
+2,Yorkshire,BARNSLEY,Value,2018,25370.0,Normal Value
+3,Yorkshire,BARNSLEY,Value,2019,26466.0,Normal Value
+4,Yorkshire,BARNSLEY,Value,2020,27181.0,Normal Value
+5,Yorkshire,BARNSLEY,Value,2021,27723.0,Normal Value
+12,Yorkshire,BRADFORD,Value,2016,24189.0,Normal Value
+13,Yorkshire,BRADFORD,Value,2017,24896.0,Normal Value
+14,Yorkshire,BRADFORD,Value,2018,25137.0,Normal Value
+15,Yorkshire,BRADFORD,Value,2019,26029.0,Normal Value
+16,Yorkshire,BRADFORD,Value,2020,27974.0,Normal Value
+17,Yorkshire,BRADFORD,Value,2021,28421.0,Normal Value
+24,Yorkshire,CALDERDALE,Value,2016,27751.0,Normal Value
+25,Yorkshire,CALDERDALE,Value,2017,27089.0,Normal Value
+26,Yorkshire,CALDERDALE,Value,2018,28101.0,Normal Value
+27,Yorkshire,CALDERDALE,Value,2019,28514.0,Normal Value
+28,Yorkshire,CALDERDALE,Value,2020,28030.0,Normal Value
+29,Yorkshire,CALDERDALE,Value,2021,27899.0,Normal Value
+36,Yorkshire,CRAVEN,Value,2016,22991.0,Normal Value
+38,Yorkshire,CRAVEN,Value,2018,25028.0,Normal Value
+39,Yorkshire,CRAVEN,Value,2019,25434.0,Normal Value
+40,Yorkshire,CRAVEN,Value,2020,26188.0,Normal Value
+41,Yorkshire,CRAVEN,Value,2021,26891.0,Normal Value
+48,Yorkshire,DONCASTER,Value,2016,24616.0,Normal Value
+49,Yorkshire,DONCASTER,Value,2017,24897.0,Normal Value
+50,Yorkshire,DONCASTER,Value,2018,26980.0,Normal Value
+51,Yorkshire,DONCASTER,Value,2019,27388.0,Normal Value
+52,Yorkshire,DONCASTER,Value,2020,29008.0,Normal Value
+53,Yorkshire,DONCASTER,Value,2021,28761.0,Normal Value
+60,Yorkshire,EAST RIDING OF YORKSHIRE,Value,2016,26989.0,Normal Value
+61,Yorkshire,EAST RIDING OF YORKSHIRE,Value,2017,27500.0,Normal Value
+62,Yorkshire,EAST RIDING OF YORKSHIRE,Value,2018,28753.0,Normal Value
+63,Yorkshire,EAST RIDING OF YORKSHIRE,Value,2019,30446.0,Normal Value
+64,Yorkshire,EAST RIDING OF YORKSHIRE,Value,2020,31667.0,Normal Value
+65,Yorkshire,EAST RIDING OF YORKSHIRE,Value,2021,30361.0,Normal Value
+72,Yorkshire,HAMBLETON,Value,2016,27784.0,Normal Value
+73,Yorkshire,HAMBLETON,Value,2017,26578.0,Normal Value
+74,Yorkshire,HAMBLETON,Value,2018,28404.0,Normal Value
+75,Yorkshire,HAMBLETON,Value,2019,28205.0,Normal Value
+76,Yorkshire,HAMBLETON,Value,2020,30579.0,Normal Value
+77,Yorkshire,HAMBLETON,Value,2021,28409.0,Normal Value
+84,Yorkshire,HARROGATE,Value,2016,29109.0,Normal Value
+85,Yorkshire,HARROGATE,Value,2017,30000.0,Normal Value
+86,Yorkshire,HARROGATE,Value,2018,31123.0,Normal Value
+87,Yorkshire,HARROGATE,Value,2019,33259.0,Normal Value
+88,Yorkshire,HARROGATE,Value,2020,32670.0,Normal Value
+89,Yorkshire,HARROGATE,Value,2021,32778.0,Normal Value
+96,Yorkshire,"KINGSTON UPON HULL, CITY OF",Value,2016,23580.0,Normal Value
+97,Yorkshire,"KINGSTON UPON HULL, CITY OF",Value,2017,23127.0,Normal Value
+98,Yorkshire,"KINGSTON UPON HULL, CITY OF",Value,2018,23689.0,Normal Value
+99,Yorkshire,"KINGSTON UPON HULL, CITY OF",Value,2019,25461.0,Normal Value
+100,Yorkshire,"KINGSTON UPON HULL, CITY OF",Value,2020,24820.0,Normal Value
+101,Yorkshire,"KINGSTON UPON HULL, CITY OF",Value,2021,26048.0,Normal Value
+108,Yorkshire,KIRKLEES,Value,2016,25599.0,Normal Value
+109,Yorkshire,KIRKLEES,Value,2017,26318.0,Normal Value
+110,Yorkshire,KIRKLEES,Value,2018,27176.0,Normal Value
+111,Yorkshire,KIRKLEES,Value,2019,27458.0,Normal Value
+112,Yorkshire,KIRKLEES,Value,2020,28851.0,Normal Value
+113,Yorkshire,KIRKLEES,Value,2021,27968.0,Normal Value
+120,Yorkshire,LEEDS,Value,2016,27815.0,Normal Value
+121,Yorkshire,LEEDS,Value,2017,27818.0,Normal Value
+122,Yorkshire,LEEDS,Value,2018,28042.0,Normal Value
+123,Yorkshire,LEEDS,Value,2019,28908.0,Normal Value
+124,Yorkshire,LEEDS,Value,2020,30249.0,Normal Value
+125,Yorkshire,LEEDS,Value,2021,30889.0,Normal Value
+132,Yorkshire,NORTH EAST LINCOLNSHIRE,Value,2016,26400.0,Normal Value
+133,Yorkshire,NORTH EAST LINCOLNSHIRE,Value,2017,23432.0,Normal Value
+134,Yorkshire,NORTH EAST LINCOLNSHIRE,Value,2018,25582.0,Normal Value
+135,Yorkshire,NORTH EAST LINCOLNSHIRE,Value,2019,27457.0,Normal Value
+136,Yorkshire,NORTH EAST LINCOLNSHIRE,Value,2020,28583.0,Normal Value
+137,Yorkshire,NORTH EAST LINCOLNSHIRE,Value,2021,28110.0,Normal Value
+144,Yorkshire,NORTH LINCOLNSHIRE,Value,2016,28091.0,Normal Value
+145,Yorkshire,NORTH LINCOLNSHIRE,Value,2017,27246.0,Normal Value
+146,Yorkshire,NORTH LINCOLNSHIRE,Value,2018,28464.0,Normal Value
+147,Yorkshire,NORTH LINCOLNSHIRE,Value,2019,28468.0,Normal Value
+148,Yorkshire,NORTH LINCOLNSHIRE,Value,2020,29204.0,Normal Value
+149,Yorkshire,NORTH LINCOLNSHIRE,Value,2021,29530.0,Normal Value
+156,Yorkshire,RICHMONDSHIRE,Value,2016,29372.0,Normal Value
+157,Yorkshire,RICHMONDSHIRE,Value,2017,25188.0,Normal Value
+158,Yorkshire,RICHMONDSHIRE,Value,2018,27392.0,Normal Value
+159,Yorkshire,RICHMONDSHIRE,Value,2019,31087.0,Normal Value
+160,Yorkshire,RICHMONDSHIRE,Value,2020,25027.0,Normal Value
+161,Yorkshire,RICHMONDSHIRE,Value,2021,26798.0,Normal Value
+168,Yorkshire,ROTHERHAM,Value,2016,24839.0,Normal Value
+169,Yorkshire,ROTHERHAM,Value,2017,25803.0,Normal Value
+170,Yorkshire,ROTHERHAM,Value,2018,25959.0,Normal Value
+171,Yorkshire,ROTHERHAM,Value,2019,26317.0,Normal Value
+172,Yorkshire,ROTHERHAM,Value,2020,28404.0,Normal Value
+173,Yorkshire,ROTHERHAM,Value,2021,27583.0,Normal Value
+180,Yorkshire,RYEDALE,Value,2016,23173.0,Normal Value
+181,Yorkshire,RYEDALE,Value,2017,22951.0,Normal Value
+182,Yorkshire,RYEDALE,Value,2018,24650.0,Normal Value
+183,Yorkshire,RYEDALE,Value,2019,26298.0,Normal Value
+184,Yorkshire,RYEDALE,Value,2020,26326.0,Normal Value
+185,Yorkshire,RYEDALE,Value,2021,26069.0,Normal Value
+192,Yorkshire,SCARBOROUGH,Value,2016,24797.0,Normal Value
+193,Yorkshire,SCARBOROUGH,Value,2017,25880.0,Normal Value
+194,Yorkshire,SCARBOROUGH,Value,2018,25390.0,Normal Value
+195,Yorkshire,SCARBOROUGH,Value,2019,25845.0,Normal Value
+197,Yorkshire,SCARBOROUGH,Value,2021,28434.0,Normal Value
+204,Yorkshire,SELBY,Value,2016,28898.0,Normal Value
+205,Yorkshire,SELBY,Value,2017,29588.0,Normal Value
+206,Yorkshire,SELBY,Value,2018,31303.0,Normal Value
+207,Yorkshire,SELBY,Value,2019,32195.0,Normal Value
+208,Yorkshire,SELBY,Value,2020,34106.0,Normal Value
+209,Yorkshire,SELBY,Value,2021,33062.0,Normal Value
+216,Yorkshire,SHEFFIELD,Value,2016,26069.0,Normal Value
+217,Yorkshire,SHEFFIELD,Value,2017,26897.0,Normal Value
+218,Yorkshire,SHEFFIELD,Value,2018,27665.0,Normal Value
+219,Yorkshire,SHEFFIELD,Value,2019,28438.0,Normal Value
+220,Yorkshire,SHEFFIELD,Value,2020,28360.0,Normal Value
+221,Yorkshire,SHEFFIELD,Value,2021,30625.0,Normal Value
+228,Yorkshire,WAKEFIELD,Value,2016,24287.0,Normal Value
+229,Yorkshire,WAKEFIELD,Value,2017,24933.0,Normal Value
+230,Yorkshire,WAKEFIELD,Value,2018,26033.0,Normal Value
+231,Yorkshire,WAKEFIELD,Value,2019,26632.0,Normal Value
+232,Yorkshire,WAKEFIELD,Value,2020,26106.0,Normal Value
+233,Yorkshire,WAKEFIELD,Value,2021,28166.0,Normal Value
+240,Yorkshire,YORK,Value,2016,26096.0,Normal Value
+241,Yorkshire,YORK,Value,2017,25956.0,Normal Value
+242,Yorkshire,YORK,Value,2018,26688.0,Normal Value
+243,Yorkshire,YORK,Value,2019,28555.0,Normal Value
+244,Yorkshire,YORK,Value,2020,30054.0,Normal Value
+245,Yorkshire,YORK,Value,2021,30878.0,Normal Value
+253,East,BABERGH,Value,2017,31086.0,Normal Value
+254,East,BABERGH,Value,2018,29634.0,Normal Value
+255,East,BABERGH,Value,2019,31581.0,Normal Value
+256,East,BABERGH,Value,2020,31799.0,Normal Value
+257,East,BABERGH,Value,2021,30053.0,Normal Value
+264,East,BASILDON,Value,2016,30560.0,Normal Value
+265,East,BASILDON,Value,2017,29839.0,Normal Value
+266,East,BASILDON,Value,2018,31084.0,Normal Value
+267,East,BASILDON,Value,2019,32748.0,Normal Value
+268,East,BASILDON,Value,2020,32597.0,Normal Value
+269,East,BASILDON,Value,2021,32745.0,Normal Value
+276,East,BEDFORD,Value,2016,29564.0,Normal Value
+277,East,BEDFORD,Value,2017,30250.0,Normal Value
+278,East,BEDFORD,Value,2018,29741.0,Normal Value
+279,East,BEDFORD,Value,2019,31624.0,Normal Value
+280,East,BEDFORD,Value,2020,34562.0,Normal Value
+281,East,BEDFORD,Value,2021,31036.0,Normal Value
+288,East,BRAINTREE,Value,2016,31481.0,Normal Value
+289,East,BRAINTREE,Value,2017,31793.0,Normal Value
+290,East,BRAINTREE,Value,2018,32464.0,Normal Value
+291,East,BRAINTREE,Value,2019,33681.0,Normal Value
+292,East,BRAINTREE,Value,2020,33294.0,Normal Value
+293,East,BRAINTREE,Value,2021,31945.0,Normal Value
+300,East,BRECKLAND,Value,2016,24329.0,Normal Value
+301,East,BRECKLAND,Value,2017,24050.0,Normal Value
+302,East,BRECKLAND,Value,2018,26041.0,Normal Value
+303,East,BRECKLAND,Value,2019,26208.0,Normal Value
+304,East,BRECKLAND,Value,2020,26582.0,Normal Value
+305,East,BRECKLAND,Value,2021,26960.0,Normal Value
+312,East,BRENTWOOD,Value,2016,41929.0,Normal Value
+313,East,BRENTWOOD,Value,2017,41499.0,Normal Value
+315,East,BRENTWOOD,Value,2019,41542.0,Normal Value
+316,East,BRENTWOOD,Value,2020,44005.0,Normal Value
+324,East,BROADLAND,Value,2016,27525.0,Normal Value
+325,East,BROADLAND,Value,2017,27417.0,Normal Value
+326,East,BROADLAND,Value,2018,29091.0,Normal Value
+327,East,BROADLAND,Value,2019,30717.0,Normal Value
+328,East,BROADLAND,Value,2020,32001.0,Normal Value
+329,East,BROADLAND,Value,2021,30400.0,Normal Value
+336,East,BROXBOURNE,Value,2016,32020.0,Normal Value
+337,East,BROXBOURNE,Value,2017,32285.0,Normal Value
+338,East,BROXBOURNE,Value,2018,33541.0,Normal Value
+339,East,BROXBOURNE,Value,2019,33300.0,Normal Value
+340,East,BROXBOURNE,Value,2020,37847.0,Normal Value
+341,East,BROXBOURNE,Value,2021,34615.0,Normal Value
+348,East,CAMBRIDGE,Value,2016,31014.0,Normal Value
+349,East,CAMBRIDGE,Value,2017,32247.0,Normal Value
+350,East,CAMBRIDGE,Value,2018,32980.0,Normal Value
+351,East,CAMBRIDGE,Value,2019,34275.0,Normal Value
+352,East,CAMBRIDGE,Value,2020,34919.0,Normal Value
+353,East,CAMBRIDGE,Value,2021,36913.0,Normal Value
+360,East,CASTLE POINT,Value,2016,28429.0,Normal Value
+361,East,CASTLE POINT,Value,2017,32700.0,Normal Value
+362,East,CASTLE POINT,Value,2018,31036.0,Normal Value
+363,East,CASTLE POINT,Value,2019,33472.0,Normal Value
+364,East,CASTLE POINT,Value,2020,33985.0,Normal Value
+372,East,CENTRAL BEDFORDSHIRE,Value,2016,32266.0,Normal Value
+373,East,CENTRAL BEDFORDSHIRE,Value,2017,31507.0,Normal Value
+374,East,CENTRAL BEDFORDSHIRE,Value,2018,32266.0,Normal Value
+375,East,CENTRAL BEDFORDSHIRE,Value,2019,34868.0,Normal Value
+376,East,CENTRAL BEDFORDSHIRE,Value,2020,36229.0,Normal Value
+377,East,CENTRAL BEDFORDSHIRE,Value,2021,35000.0,Normal Value
+384,East,CHELMSFORD,Value,2016,31822.0,Normal Value
+385,East,CHELMSFORD,Value,2017,31767.0,Normal Value
+386,East,CHELMSFORD,Value,2018,30812.0,Normal Value
+387,East,CHELMSFORD,Value,2019,32562.0,Normal Value
+388,East,CHELMSFORD,Value,2020,35023.0,Normal Value
+389,East,CHELMSFORD,Value,2021,37345.0,Normal Value
+396,East,COLCHESTER,Value,2016,29032.0,Normal Value
+397,East,COLCHESTER,Value,2017,30923.0,Normal Value
+398,East,COLCHESTER,Value,2018,30906.0,Normal Value
+399,East,COLCHESTER,Value,2019,31091.0,Normal Value
+400,East,COLCHESTER,Value,2020,32523.0,Normal Value
+401,East,COLCHESTER,Value,2021,31445.0,Normal Value
+408,East,DACORUM,Value,2016,33747.0,Normal Value
+409,East,DACORUM,Value,2017,33337.0,Normal Value
+410,East,DACORUM,Value,2018,33918.0,Normal Value
+411,East,DACORUM,Value,2019,32943.0,Normal Value
+412,East,DACORUM,Value,2020,35265.0,Normal Value
+413,East,DACORUM,Value,2021,33924.0,Normal Value
+420,East,EAST CAMBRIDGESHIRE,Value,2016,28252.0,Normal Value
+421,East,EAST CAMBRIDGESHIRE,Value,2017,30180.0,Normal Value
+422,East,EAST CAMBRIDGESHIRE,Value,2018,29474.0,Normal Value
+423,East,EAST CAMBRIDGESHIRE,Value,2019,32182.0,Normal Value
+424,East,EAST CAMBRIDGESHIRE,Value,2020,32743.0,Normal Value
+425,East,EAST CAMBRIDGESHIRE,Value,2021,32523.0,Normal Value
+432,East,EAST HERTFORDSHIRE,Value,2016,34805.0,Normal Value
+433,East,EAST HERTFORDSHIRE,Value,2017,35349.0,Normal Value
+434,East,EAST HERTFORDSHIRE,Value,2018,36006.0,Normal Value
+435,East,EAST HERTFORDSHIRE,Value,2019,39364.0,Normal Value
+436,East,EAST HERTFORDSHIRE,Value,2020,40268.0,Normal Value
+437,East,EAST HERTFORDSHIRE,Value,2021,38763.0,Normal Value
+446,East,EAST SUFFOLK,Value,2018,27325.0,Normal Value
+447,East,EAST SUFFOLK,Value,2019,29687.0,Normal Value
+448,East,EAST SUFFOLK,Value,2020,30001.0,Normal Value
+449,East,EAST SUFFOLK,Value,2021,28968.0,Normal Value
+456,East,EPPING FOREST,Value,2016,35876.0,Normal Value
+457,East,EPPING FOREST,Value,2017,35106.0,Normal Value
+458,East,EPPING FOREST,Value,2018,35363.0,Normal Value
+459,East,EPPING FOREST,Value,2019,37466.0,Normal Value
+460,East,EPPING FOREST,Value,2020,36688.0,Normal Value
+461,East,EPPING FOREST,Value,2021,36691.0,Normal Value
+468,East,FENLAND,Value,2016,26454.0,Normal Value
+469,East,FENLAND,Value,2017,26419.0,Normal Value
+470,East,FENLAND,Value,2018,27708.0,Normal Value
+471,East,FENLAND,Value,2019,27935.0,Normal Value
+472,East,FENLAND,Value,2020,28678.0,Normal Value
+473,East,FENLAND,Value,2021,27655.0,Normal Value
+480,East,GREAT YARMOUTH,Value,2016,24446.0,Normal Value
+481,East,GREAT YARMOUTH,Value,2017,24415.0,Normal Value
+483,East,GREAT YARMOUTH,Value,2019,25942.0,Normal Value
+484,East,GREAT YARMOUTH,Value,2020,28120.0,Normal Value
+485,East,GREAT YARMOUTH,Value,2021,27900.0,Normal Value
+492,East,HARLOW,Value,2016,26993.0,Normal Value
+493,East,HARLOW,Value,2017,27271.0,Normal Value
+494,East,HARLOW,Value,2018,27558.0,Normal Value
+495,East,HARLOW,Value,2019,27704.0,Normal Value
+496,East,HARLOW,Value,2020,27678.0,Normal Value
+497,East,HARLOW,Value,2021,29234.0,Normal Value
+504,East,HERTSMERE,Value,2016,30220.0,Normal Value
+505,East,HERTSMERE,Value,2017,31496.0,Normal Value
+506,East,HERTSMERE,Value,2018,32942.0,Normal Value
+507,East,HERTSMERE,Value,2019,34632.0,Normal Value
+508,East,HERTSMERE,Value,2020,35774.0,Normal Value
+509,East,HERTSMERE,Value,2021,35275.0,Normal Value
+516,East,HUNTINGDONSHIRE,Value,2016,29445.0,Normal Value
+517,East,HUNTINGDONSHIRE,Value,2017,30694.0,Normal Value
+518,East,HUNTINGDONSHIRE,Value,2018,31760.0,Normal Value
+519,East,HUNTINGDONSHIRE,Value,2019,31699.0,Normal Value
+520,East,HUNTINGDONSHIRE,Value,2020,31140.0,Normal Value
+521,East,HUNTINGDONSHIRE,Value,2021,30577.0,Normal Value
+528,East,IPSWICH,Value,2016,26824.0,Normal Value
+529,East,IPSWICH,Value,2017,26673.0,Normal Value
+530,East,IPSWICH,Value,2018,26941.0,Normal Value
+531,East,IPSWICH,Value,2019,28353.0,Normal Value
+532,East,IPSWICH,Value,2020,27512.0,Normal Value
+533,East,IPSWICH,Value,2021,28222.0,Normal Value
+540,East,KING'S LYNN AND WEST NORFOLK,Value,2016,26405.0,Normal Value
+541,East,KING'S LYNN AND WEST NORFOLK,Value,2017,25353.0,Normal Value
+542,East,KING'S LYNN AND WEST NORFOLK,Value,2018,27216.0,Normal Value
+543,East,KING'S LYNN AND WEST NORFOLK,Value,2019,27430.0,Normal Value
+544,East,KING'S LYNN AND WEST NORFOLK,Value,2020,31123.0,Normal Value
+545,East,KING'S LYNN AND WEST NORFOLK,Value,2021,28115.0,Normal Value
+552,East,LUTON,Value,2016,26735.0,Normal Value
+553,East,LUTON,Value,2017,28777.0,Normal Value
+554,East,LUTON,Value,2018,27934.0,Normal Value
+555,East,LUTON,Value,2019,29940.0,Normal Value
+556,East,LUTON,Value,2020,29472.0,Normal Value
+557,East,LUTON,Value,2021,29258.0,Normal Value
+564,East,MALDON,Value,2016,35097.0,Normal Value
+565,East,MALDON,Value,2017,32823.0,Normal Value
+566,East,MALDON,Value,2018,31913.0,Normal Value
+568,East,MALDON,Value,2020,37197.0,Normal Value
+569,East,MALDON,Value,2021,36562.0,Normal Value
+576,East,MID SUFFOLK,Value,2016,26853.0,Normal Value
+577,East,MID SUFFOLK,Value,2017,25948.0,Normal Value
+578,East,MID SUFFOLK,Value,2018,27479.0,Normal Value
+579,East,MID SUFFOLK,Value,2019,29480.0,Normal Value
+580,East,MID SUFFOLK,Value,2020,30805.0,Normal Value
+581,East,MID SUFFOLK,Value,2021,30000.0,Normal Value
+588,East,NORTH HERTFORDSHIRE,Value,2016,35102.0,Normal Value
+589,East,NORTH HERTFORDSHIRE,Value,2017,36029.0,Normal Value
+590,East,NORTH HERTFORDSHIRE,Value,2018,34796.0,Normal Value
+591,East,NORTH HERTFORDSHIRE,Value,2019,38643.0,Normal Value
+592,East,NORTH HERTFORDSHIRE,Value,2020,39756.0,Normal Value
+593,East,NORTH HERTFORDSHIRE,Value,2021,38477.0,Normal Value
+600,East,NORTH NORFOLK,Value,2016,23266.0,Normal Value
+601,East,NORTH NORFOLK,Value,2017,24479.0,Normal Value
+602,East,NORTH NORFOLK,Value,2018,24529.0,Normal Value
+603,East,NORTH NORFOLK,Value,2019,25724.0,Normal Value
+604,East,NORTH NORFOLK,Value,2020,27213.0,Normal Value
+605,East,NORTH NORFOLK,Value,2021,28019.0,Normal Value
+612,East,NORWICH,Value,2016,25289.0,Normal Value
+614,East,NORWICH,Value,2018,25247.0,Normal Value
+615,East,NORWICH,Value,2019,26812.0,Normal Value
+616,East,NORWICH,Value,2020,27812.0,Normal Value
+617,East,NORWICH,Value,2021,29482.0,Normal Value
+624,East,PETERBOROUGH,Value,2016,24760.0,Normal Value
+625,East,PETERBOROUGH,Value,2017,24245.0,Normal Value
+626,East,PETERBOROUGH,Value,2018,25250.0,Normal Value
+627,East,PETERBOROUGH,Value,2019,27235.0,Normal Value
+628,East,PETERBOROUGH,Value,2020,27996.0,Normal Value
+629,East,PETERBOROUGH,Value,2021,28646.0,Normal Value
+636,East,ROCHFORD,Value,2016,34173.0,Normal Value
+637,East,ROCHFORD,Value,2017,34496.0,Normal Value
+638,East,ROCHFORD,Value,2018,37711.0,Normal Value
+639,East,ROCHFORD,Value,2019,37410.0,Normal Value
+641,East,ROCHFORD,Value,2021,39293.0,Normal Value
+648,East,SOUTH CAMBRIDGESHIRE,Value,2016,35425.0,Normal Value
+649,East,SOUTH CAMBRIDGESHIRE,Value,2017,35432.0,Normal Value
+650,East,SOUTH CAMBRIDGESHIRE,Value,2018,37414.0,Normal Value
+651,East,SOUTH CAMBRIDGESHIRE,Value,2019,40052.0,Normal Value
+652,East,SOUTH CAMBRIDGESHIRE,Value,2020,38726.0,Normal Value
+653,East,SOUTH CAMBRIDGESHIRE,Value,2021,39853.0,Normal Value
+660,East,SOUTH NORFOLK,Value,2016,29934.0,Normal Value
+661,East,SOUTH NORFOLK,Value,2017,27314.0,Normal Value
+662,East,SOUTH NORFOLK,Value,2018,30903.0,Normal Value
+663,East,SOUTH NORFOLK,Value,2019,30393.0,Normal Value
+664,East,SOUTH NORFOLK,Value,2020,30305.0,Normal Value
+665,East,SOUTH NORFOLK,Value,2021,32028.0,Normal Value
+672,East,SOUTHEND-ON-SEA,Value,2016,29592.0,Normal Value
+673,East,SOUTHEND-ON-SEA,Value,2017,30099.0,Normal Value
+674,East,SOUTHEND-ON-SEA,Value,2018,31968.0,Normal Value
+675,East,SOUTHEND-ON-SEA,Value,2019,32252.0,Normal Value
+676,East,SOUTHEND-ON-SEA,Value,2020,33092.0,Normal Value
+677,East,SOUTHEND-ON-SEA,Value,2021,35588.0,Normal Value
+684,East,ST ALBANS,Value,2016,38863.0,Normal Value
+685,East,ST ALBANS,Value,2017,39906.0,Normal Value
+686,East,ST ALBANS,Value,2018,42600.0,Normal Value
+687,East,ST ALBANS,Value,2019,41503.0,Normal Value
+689,East,ST ALBANS,Value,2021,45727.0,Normal Value
+696,East,STEVENAGE,Value,2016,28831.0,Normal Value
+697,East,STEVENAGE,Value,2017,28946.0,Normal Value
+699,East,STEVENAGE,Value,2019,28982.0,Normal Value
+700,East,STEVENAGE,Value,2020,33705.0,Normal Value
+701,East,STEVENAGE,Value,2021,27449.0,Normal Value
+708,East,TENDRING,Value,2016,25818.0,Normal Value
+709,East,TENDRING,Value,2017,27554.0,Normal Value
+710,East,TENDRING,Value,2018,27011.0,Normal Value
+711,East,TENDRING,Value,2019,28786.0,Normal Value
+712,East,TENDRING,Value,2020,28979.0,Normal Value
+713,East,TENDRING,Value,2021,29994.0,Normal Value
+720,East,THREE RIVERS,Value,2016,32312.0,Normal Value
+721,East,THREE RIVERS,Value,2017,32371.0,Normal Value
+722,East,THREE RIVERS,Value,2018,34391.0,Normal Value
+723,East,THREE RIVERS,Value,2019,32531.0,Normal Value
+724,East,THREE RIVERS,Value,2020,37929.0,Normal Value
+725,East,THREE RIVERS,Value,2021,35093.0,Normal Value
+732,East,THURROCK,Value,2016,29643.0,Normal Value
+733,East,THURROCK,Value,2017,29696.0,Normal Value
+734,East,THURROCK,Value,2018,30248.0,Normal Value
+735,East,THURROCK,Value,2019,31553.0,Normal Value
+736,East,THURROCK,Value,2020,33574.0,Normal Value
+737,East,THURROCK,Value,2021,35027.0,Normal Value
+744,East,UTTLESFORD,Value,2016,35342.0,Normal Value
+745,East,UTTLESFORD,Value,2017,36704.0,Normal Value
+746,East,UTTLESFORD,Value,2018,34560.0,Normal Value
+748,East,UTTLESFORD,Value,2020,36479.0,Normal Value
+749,East,UTTLESFORD,Value,2021,37446.0,Normal Value
+756,East,WATFORD,Value,2016,34006.0,Normal Value
+757,East,WATFORD,Value,2017,34920.0,Normal Value
+758,East,WATFORD,Value,2018,30760.0,Normal Value
+759,East,WATFORD,Value,2019,34329.0,Normal Value
+760,East,WATFORD,Value,2020,34782.0,Normal Value
+761,East,WATFORD,Value,2021,30876.0,Normal Value
+768,East,WELWYN HATFIELD,Value,2016,31346.0,Normal Value
+769,East,WELWYN HATFIELD,Value,2017,32453.0,Normal Value
+770,East,WELWYN HATFIELD,Value,2018,32453.0,Normal Value
+771,East,WELWYN HATFIELD,Value,2019,32782.0,Normal Value
+772,East,WELWYN HATFIELD,Value,2020,34193.0,Normal Value
+773,East,WELWYN HATFIELD,Value,2021,31635.0,Normal Value
+782,East,WEST SUFFOLK,Value,2018,28558.0,Normal Value
+783,East,WEST SUFFOLK,Value,2019,28240.0,Normal Value
+784,East,WEST SUFFOLK,Value,2020,29477.0,Normal Value
+785,East,WEST SUFFOLK,Value,2021,29436.0,Normal Value
+792,East Midlands,AMBER VALLEY,Value,2016,27832.0,Normal Value
+793,East Midlands,AMBER VALLEY,Value,2017,30031.0,Normal Value
+794,East Midlands,AMBER VALLEY,Value,2018,29696.0,Normal Value
+795,East Midlands,AMBER VALLEY,Value,2019,29602.0,Normal Value
+796,East Midlands,AMBER VALLEY,Value,2020,33614.0,Normal Value
+797,East Midlands,AMBER VALLEY,Value,2021,31174.0,Normal Value
+804,East Midlands,ASHFIELD,Value,2016,24258.0,Normal Value
+805,East Midlands,ASHFIELD,Value,2017,24664.0,Normal Value
+806,East Midlands,ASHFIELD,Value,2018,25348.0,Normal Value
+807,East Midlands,ASHFIELD,Value,2019,26074.0,Normal Value
+808,East Midlands,ASHFIELD,Value,2020,26446.0,Normal Value
+809,East Midlands,ASHFIELD,Value,2021,27366.0,Normal Value
+816,East Midlands,BASSETLAW,Value,2016,26444.0,Normal Value
+817,East Midlands,BASSETLAW,Value,2017,26056.0,Normal Value
+818,East Midlands,BASSETLAW,Value,2018,28436.0,Normal Value
+819,East Midlands,BASSETLAW,Value,2019,28231.0,Normal Value
+820,East Midlands,BASSETLAW,Value,2020,28975.0,Normal Value
+828,East Midlands,BLABY,Value,2016,30372.0,Normal Value
+829,East Midlands,BLABY,Value,2017,30294.0,Normal Value
+830,East Midlands,BLABY,Value,2018,29618.0,Normal Value
+831,East Midlands,BLABY,Value,2019,30834.0,Normal Value
+832,East Midlands,BLABY,Value,2020,35234.0,Normal Value
+833,East Midlands,BLABY,Value,2021,29137.0,Normal Value
+840,East Midlands,BOLSOVER,Value,2016,24659.0,Normal Value
+841,East Midlands,BOLSOVER,Value,2017,23587.0,Normal Value
+842,East Midlands,BOLSOVER,Value,2018,24912.0,Normal Value
+843,East Midlands,BOLSOVER,Value,2019,25781.0,Normal Value
+844,East Midlands,BOLSOVER,Value,2020,27576.0,Normal Value
+845,East Midlands,BOLSOVER,Value,2021,26718.0,Normal Value
+852,East Midlands,BOSTON,Value,2016,21837.0,Normal Value
+853,East Midlands,BOSTON,Value,2017,21089.0,Normal Value
+854,East Midlands,BOSTON,Value,2018,21491.0,Normal Value
+855,East Midlands,BOSTON,Value,2019,22459.0,Normal Value
+856,East Midlands,BOSTON,Value,2020,24275.0,Normal Value
+857,East Midlands,BOSTON,Value,2021,24655.0,Normal Value
+864,East Midlands,BROXTOWE,Value,2016,30678.0,Normal Value
+865,East Midlands,BROXTOWE,Value,2017,29428.0,Normal Value
+866,East Midlands,BROXTOWE,Value,2018,29195.0,Normal Value
+867,East Midlands,BROXTOWE,Value,2019,31669.0,Normal Value
+868,East Midlands,BROXTOWE,Value,2020,31847.0,Normal Value
+869,East Midlands,BROXTOWE,Value,2021,32458.0,Normal Value
+876,East Midlands,CHARNWOOD,Value,2016,28462.0,Normal Value
+877,East Midlands,CHARNWOOD,Value,2017,27279.0,Normal Value
+878,East Midlands,CHARNWOOD,Value,2018,29660.0,Normal Value
+879,East Midlands,CHARNWOOD,Value,2019,31622.0,Normal Value
+880,East Midlands,CHARNWOOD,Value,2020,30232.0,Normal Value
+881,East Midlands,CHARNWOOD,Value,2021,29279.0,Normal Value
+888,East Midlands,CHESTERFIELD,Value,2016,25775.0,Normal Value
+889,East Midlands,CHESTERFIELD,Value,2017,25843.0,Normal Value
+890,East Midlands,CHESTERFIELD,Value,2018,26008.0,Normal Value
+891,East Midlands,CHESTERFIELD,Value,2019,26551.0,Normal Value
+892,East Midlands,CHESTERFIELD,Value,2020,27590.0,Normal Value
+893,East Midlands,CHESTERFIELD,Value,2021,26646.0,Normal Value
+900,East Midlands,DERBY,Value,2016,28376.0,Normal Value
+901,East Midlands,DERBY,Value,2017,28633.0,Normal Value
+902,East Midlands,DERBY,Value,2018,31954.0,Normal Value
+903,East Midlands,DERBY,Value,2019,30365.0,Normal Value
+904,East Midlands,DERBY,Value,2020,31465.0,Normal Value
+905,East Midlands,DERBY,Value,2021,30739.0,Normal Value
+912,East Midlands,DERBYSHIRE DALES,Value,2016,31058.0,Normal Value
+913,East Midlands,DERBYSHIRE DALES,Value,2017,31356.0,Normal Value
+914,East Midlands,DERBYSHIRE DALES,Value,2018,30906.0,Normal Value
+915,East Midlands,DERBYSHIRE DALES,Value,2019,31887.0,Normal Value
+916,East Midlands,DERBYSHIRE DALES,Value,2020,35011.0,Normal Value
+917,East Midlands,DERBYSHIRE DALES,Value,2021,28282.0,Normal Value
+924,East Midlands,EAST LINDSEY,Value,2016,25017.0,Normal Value
+925,East Midlands,EAST LINDSEY,Value,2017,24468.0,Normal Value
+926,East Midlands,EAST LINDSEY,Value,2018,25676.0,Normal Value
+927,East Midlands,EAST LINDSEY,Value,2019,25659.0,Normal Value
+928,East Midlands,EAST LINDSEY,Value,2020,26304.0,Normal Value
+929,East Midlands,EAST LINDSEY,Value,2021,25737.0,Normal Value
+936,East Midlands,EREWASH,Value,2016,26940.0,Normal Value
+937,East Midlands,EREWASH,Value,2017,26863.0,Normal Value
+938,East Midlands,EREWASH,Value,2018,27622.0,Normal Value
+939,East Midlands,EREWASH,Value,2019,29222.0,Normal Value
+940,East Midlands,EREWASH,Value,2020,29529.0,Normal Value
+941,East Midlands,EREWASH,Value,2021,30255.0,Normal Value
+948,East Midlands,GEDLING,Value,2016,27746.0,Normal Value
+949,East Midlands,GEDLING,Value,2017,27680.0,Normal Value
+950,East Midlands,GEDLING,Value,2018,28628.0,Normal Value
+951,East Midlands,GEDLING,Value,2019,29339.0,Normal Value
+952,East Midlands,GEDLING,Value,2020,30042.0,Normal Value
+953,East Midlands,GEDLING,Value,2021,30372.0,Normal Value
+960,East Midlands,HARBOROUGH,Value,2016,33032.0,Normal Value
+961,East Midlands,HARBOROUGH,Value,2017,36117.0,Normal Value
+962,East Midlands,HARBOROUGH,Value,2018,35000.0,Normal Value
+963,East Midlands,HARBOROUGH,Value,2019,34701.0,Normal Value
+964,East Midlands,HARBOROUGH,Value,2020,36747.0,Normal Value
+965,East Midlands,HARBOROUGH,Value,2021,36004.0,Normal Value
+972,East Midlands,HIGH PEAK,Value,2016,25429.0,Normal Value
+973,East Midlands,HIGH PEAK,Value,2017,28654.0,Normal Value
+974,East Midlands,HIGH PEAK,Value,2018,28246.0,Normal Value
+975,East Midlands,HIGH PEAK,Value,2019,27581.0,Normal Value
+976,East Midlands,HIGH PEAK,Value,2020,29357.0,Normal Value
+977,East Midlands,HIGH PEAK,Value,2021,28665.0,Normal Value
+984,East Midlands,HINCKLEY AND BOSWORTH,Value,2016,26085.0,Normal Value
+985,East Midlands,HINCKLEY AND BOSWORTH,Value,2017,27384.0,Normal Value
+986,East Midlands,HINCKLEY AND BOSWORTH,Value,2018,28713.0,Normal Value
+987,East Midlands,HINCKLEY AND BOSWORTH,Value,2019,29453.0,Normal Value
+988,East Midlands,HINCKLEY AND BOSWORTH,Value,2020,29174.0,Normal Value
+989,East Midlands,HINCKLEY AND BOSWORTH,Value,2021,30866.0,Normal Value
+996,East Midlands,LEICESTER,Value,2016,21996.0,Normal Value
+997,East Midlands,LEICESTER,Value,2017,21830.0,Normal Value
+998,East Midlands,LEICESTER,Value,2018,22189.0,Normal Value
+999,East Midlands,LEICESTER,Value,2019,23748.0,Normal Value
+1000,East Midlands,LEICESTER,Value,2020,24711.0,Normal Value
+1001,East Midlands,LEICESTER,Value,2021,25355.0,Normal Value
+1008,East Midlands,LINCOLN,Value,2016,24465.0,Normal Value
+1009,East Midlands,LINCOLN,Value,2017,23272.0,Normal Value
+1010,East Midlands,LINCOLN,Value,2018,24908.0,Normal Value
+1011,East Midlands,LINCOLN,Value,2019,26326.0,Normal Value
+1012,East Midlands,LINCOLN,Value,2020,28777.0,Normal Value
+1013,East Midlands,LINCOLN,Value,2021,25632.0,Normal Value
+1020,East Midlands,MANSFIELD,Value,2016,22519.0,Normal Value
+1021,East Midlands,MANSFIELD,Value,2017,23374.0,Normal Value
+1023,East Midlands,MANSFIELD,Value,2019,24348.0,Normal Value
+1024,East Midlands,MANSFIELD,Value,2020,25173.0,Normal Value
+1025,East Midlands,MANSFIELD,Value,2021,27099.0,Normal Value
+1032,East Midlands,MELTON,Value,2016,25468.0,Normal Value
+1033,East Midlands,MELTON,Value,2017,26815.0,Normal Value
+1034,East Midlands,MELTON,Value,2018,27112.0,Normal Value
+1035,East Midlands,MELTON,Value,2019,26209.0,Normal Value
+1036,East Midlands,MELTON,Value,2020,27673.0,Normal Value
+1037,East Midlands,MELTON,Value,2021,24017.0,Normal Value
+1044,East Midlands,NEWARK AND SHERWOOD,Value,2016,25125.0,Normal Value
+1045,East Midlands,NEWARK AND SHERWOOD,Value,2017,24785.0,Normal Value
+1046,East Midlands,NEWARK AND SHERWOOD,Value,2018,27562.0,Normal Value
+1047,East Midlands,NEWARK AND SHERWOOD,Value,2019,26578.0,Normal Value
+1048,East Midlands,NEWARK AND SHERWOOD,Value,2020,30703.0,Normal Value
+1049,East Midlands,NEWARK AND SHERWOOD,Value,2021,30437.0,Normal Value
+1056,East Midlands,NORTH EAST DERBYSHIRE,Value,2016,27838.0,Normal Value
+1057,East Midlands,NORTH EAST DERBYSHIRE,Value,2017,26523.0,Normal Value
+1058,East Midlands,NORTH EAST DERBYSHIRE,Value,2018,28919.0,Normal Value
+1059,East Midlands,NORTH EAST DERBYSHIRE,Value,2019,28442.0,Normal Value
+1061,East Midlands,NORTH EAST DERBYSHIRE,Value,2021,29595.0,Normal Value
+1069,East Midlands,NORTH KESTEVEN,Value,2017,27441.0,Normal Value
+1070,East Midlands,NORTH KESTEVEN,Value,2018,30667.0,Normal Value
+1071,East Midlands,NORTH KESTEVEN,Value,2019,28434.0,Normal Value
+1072,East Midlands,NORTH KESTEVEN,Value,2020,31089.0,Normal Value
+1073,East Midlands,NORTH KESTEVEN,Value,2021,31291.0,Normal Value
+1084,East Midlands,NORTH NORTHAMPTONSHIRE,Value,2020,29609.0,Normal Value
+1085,East Midlands,NORTH NORTHAMPTONSHIRE,Value,2021,29597.0,Normal Value
+1092,East Midlands,NORTH WEST LEICESTERSHIRE,Value,2016,25975.0,Normal Value
+1093,East Midlands,NORTH WEST LEICESTERSHIRE,Value,2017,26638.0,Normal Value
+1094,East Midlands,NORTH WEST LEICESTERSHIRE,Value,2018,29870.0,Normal Value
+1095,East Midlands,NORTH WEST LEICESTERSHIRE,Value,2019,30092.0,Normal Value
+1096,East Midlands,NORTH WEST LEICESTERSHIRE,Value,2020,30209.0,Normal Value
+1097,East Midlands,NORTH WEST LEICESTERSHIRE,Value,2021,31381.0,Normal Value
+1104,East Midlands,NOTTINGHAM,Value,2016,23360.0,Normal Value
+1105,East Midlands,NOTTINGHAM,Value,2017,23493.0,Normal Value
+1106,East Midlands,NOTTINGHAM,Value,2018,23293.0,Normal Value
+1107,East Midlands,NOTTINGHAM,Value,2019,25078.0,Normal Value
+1108,East Midlands,NOTTINGHAM,Value,2020,25216.0,Normal Value
+1109,East Midlands,NOTTINGHAM,Value,2021,25196.0,Normal Value
+1116,East Midlands,OADBY AND WIGSTON,Value,2016,24000.0,Normal Value
+1118,East Midlands,OADBY AND WIGSTON,Value,2018,27031.0,Normal Value
+1119,East Midlands,OADBY AND WIGSTON,Value,2019,27051.0,Normal Value
+1120,East Midlands,OADBY AND WIGSTON,Value,2020,34204.0,Normal Value
+1121,East Midlands,OADBY AND WIGSTON,Value,2021,26346.0,Normal Value
+1128,East Midlands,RUSHCLIFFE,Value,2016,35113.0,Normal Value
+1129,East Midlands,RUSHCLIFFE,Value,2017,36520.0,Normal Value
+1130,East Midlands,RUSHCLIFFE,Value,2018,34891.0,Normal Value
+1131,East Midlands,RUSHCLIFFE,Value,2019,35545.0,Normal Value
+1132,East Midlands,RUSHCLIFFE,Value,2020,35262.0,Normal Value
+1133,East Midlands,RUSHCLIFFE,Value,2021,34425.0,Normal Value
+1140,East Midlands,RUTLAND,Value,2016,27953.0,Normal Value
+1141,East Midlands,RUTLAND,Value,2017,28814.0,Normal Value
+1142,East Midlands,RUTLAND,Value,2018,27880.0,Normal Value
+1143,East Midlands,RUTLAND,Value,2019,30175.0,Normal Value
+1144,East Midlands,RUTLAND,Value,2020,32489.0,Normal Value
+1145,East Midlands,RUTLAND,Value,2021,32597.0,Normal Value
+1152,East Midlands,SOUTH DERBYSHIRE,Value,2016,29290.0,Normal Value
+1153,East Midlands,SOUTH DERBYSHIRE,Value,2017,30028.0,Normal Value
+1154,East Midlands,SOUTH DERBYSHIRE,Value,2018,32974.0,Normal Value
+1155,East Midlands,SOUTH DERBYSHIRE,Value,2019,32047.0,Normal Value
+1156,East Midlands,SOUTH DERBYSHIRE,Value,2020,35269.0,Normal Value
+1157,East Midlands,SOUTH DERBYSHIRE,Value,2021,32744.0,Normal Value
+1164,East Midlands,SOUTH HOLLAND,Value,2016,25292.0,Normal Value
+1165,East Midlands,SOUTH HOLLAND,Value,2017,24936.0,Normal Value
+1166,East Midlands,SOUTH HOLLAND,Value,2018,25781.0,Normal Value
+1167,East Midlands,SOUTH HOLLAND,Value,2019,26830.0,Normal Value
+1168,East Midlands,SOUTH HOLLAND,Value,2020,30182.0,Normal Value
+1169,East Midlands,SOUTH HOLLAND,Value,2021,30880.0,Normal Value
+1177,East Midlands,SOUTH KESTEVEN,Value,2017,26470.0,Normal Value
+1178,East Midlands,SOUTH KESTEVEN,Value,2018,26482.0,Normal Value
+1179,East Midlands,SOUTH KESTEVEN,Value,2019,28700.0,Normal Value
+1180,East Midlands,SOUTH KESTEVEN,Value,2020,27416.0,Normal Value
+1181,East Midlands,SOUTH KESTEVEN,Value,2021,28411.0,Normal Value
+1188,East Midlands,WEST LINDSEY,Value,2016,25486.0,Normal Value
+1189,East Midlands,WEST LINDSEY,Value,2017,27959.0,Normal Value
+1190,East Midlands,WEST LINDSEY,Value,2018,29330.0,Normal Value
+1191,East Midlands,WEST LINDSEY,Value,2019,29789.0,Normal Value
+1192,East Midlands,WEST LINDSEY,Value,2020,30286.0,Normal Value
+1193,East Midlands,WEST LINDSEY,Value,2021,31829.0,Normal Value
+1204,East Midlands,WEST NORTHAMPTONSHIRE,Value,2020,30299.0,Normal Value
+1205,East Midlands,WEST NORTHAMPTONSHIRE,Value,2021,30514.0,Normal Value
+1212,West Midlands,BIRMINGHAM,Value,2016,25994.0,Normal Value
+1213,West Midlands,BIRMINGHAM,Value,2017,26738.0,Normal Value
+1214,West Midlands,BIRMINGHAM,Value,2018,27853.0,Normal Value
+1215,West Midlands,BIRMINGHAM,Value,2019,27501.0,Normal Value
+1216,West Midlands,BIRMINGHAM,Value,2020,29341.0,Normal Value
+1217,West Midlands,BIRMINGHAM,Value,2021,28998.0,Normal Value
+1224,West Midlands,BROMSGROVE,Value,2016,30984.0,Normal Value
+1225,West Midlands,BROMSGROVE,Value,2017,33752.0,Normal Value
+1226,West Midlands,BROMSGROVE,Value,2018,34328.0,Normal Value
+1227,West Midlands,BROMSGROVE,Value,2019,34491.0,Normal Value
+1228,West Midlands,BROMSGROVE,Value,2020,34047.0,Normal Value
+1229,West Midlands,BROMSGROVE,Value,2021,34490.0,Normal Value
+1236,West Midlands,CANNOCK CHASE,Value,2016,26140.0,Normal Value
+1237,West Midlands,CANNOCK CHASE,Value,2017,27851.0,Normal Value
+1238,West Midlands,CANNOCK CHASE,Value,2018,26947.0,Normal Value
+1239,West Midlands,CANNOCK CHASE,Value,2019,27986.0,Normal Value
+1240,West Midlands,CANNOCK CHASE,Value,2020,27352.0,Normal Value
+1241,West Midlands,CANNOCK CHASE,Value,2021,29308.0,Normal Value
+1248,West Midlands,COVENTRY,Value,2016,27969.0,Normal Value
+1249,West Midlands,COVENTRY,Value,2017,28412.0,Normal Value
+1250,West Midlands,COVENTRY,Value,2018,28746.0,Normal Value
+1251,West Midlands,COVENTRY,Value,2019,28747.0,Normal Value
+1252,West Midlands,COVENTRY,Value,2020,29589.0,Normal Value
+1253,West Midlands,COVENTRY,Value,2021,30763.0,Normal Value
+1260,West Midlands,DUDLEY,Value,2016,26845.0,Normal Value
+1261,West Midlands,DUDLEY,Value,2017,27258.0,Normal Value
+1262,West Midlands,DUDLEY,Value,2018,27275.0,Normal Value
+1263,West Midlands,DUDLEY,Value,2019,29218.0,Normal Value
+1264,West Midlands,DUDLEY,Value,2020,31091.0,Normal Value
+1265,West Midlands,DUDLEY,Value,2021,29438.0,Normal Value
+1272,West Midlands,EAST STAFFORDSHIRE,Value,2016,26765.0,Normal Value
+1273,West Midlands,EAST STAFFORDSHIRE,Value,2017,26103.0,Normal Value
+1274,West Midlands,EAST STAFFORDSHIRE,Value,2018,26360.0,Normal Value
+1275,West Midlands,EAST STAFFORDSHIRE,Value,2019,26662.0,Normal Value
+1276,West Midlands,EAST STAFFORDSHIRE,Value,2020,29485.0,Normal Value
+1277,West Midlands,EAST STAFFORDSHIRE,Value,2021,28232.0,Normal Value
+1284,West Midlands,"HEREFORDSHIRE, COUNTY OF",Value,2016,25004.0,Normal Value
+1285,West Midlands,"HEREFORDSHIRE, COUNTY OF",Value,2017,23328.0,Normal Value
+1286,West Midlands,"HEREFORDSHIRE, COUNTY OF",Value,2018,25153.0,Normal Value
+1287,West Midlands,"HEREFORDSHIRE, COUNTY OF",Value,2019,26235.0,Normal Value
+1288,West Midlands,"HEREFORDSHIRE, COUNTY OF",Value,2020,28463.0,Normal Value
+1289,West Midlands,"HEREFORDSHIRE, COUNTY OF",Value,2021,29258.0,Normal Value
+1296,West Midlands,LICHFIELD,Value,2016,31725.0,Normal Value
+1297,West Midlands,LICHFIELD,Value,2017,30369.0,Normal Value
+1298,West Midlands,LICHFIELD,Value,2018,31700.0,Normal Value
+1299,West Midlands,LICHFIELD,Value,2019,34038.0,Normal Value
+1300,West Midlands,LICHFIELD,Value,2020,36396.0,Normal Value
+1301,West Midlands,LICHFIELD,Value,2021,35714.0,Normal Value
+1308,West Midlands,MALVERN HILLS,Value,2016,26380.0,Normal Value
+1309,West Midlands,MALVERN HILLS,Value,2017,31469.0,Normal Value
+1310,West Midlands,MALVERN HILLS,Value,2018,26803.0,Normal Value
+1312,West Midlands,MALVERN HILLS,Value,2020,29550.0,Normal Value
+1313,West Midlands,MALVERN HILLS,Value,2021,31181.0,Normal Value
+1320,West Midlands,NEWCASTLE-UNDER-LYME,Value,2016,25862.0,Normal Value
+1321,West Midlands,NEWCASTLE-UNDER-LYME,Value,2017,24907.0,Normal Value
+1322,West Midlands,NEWCASTLE-UNDER-LYME,Value,2018,26274.0,Normal Value
+1323,West Midlands,NEWCASTLE-UNDER-LYME,Value,2019,26619.0,Normal Value
+1324,West Midlands,NEWCASTLE-UNDER-LYME,Value,2020,29040.0,Normal Value
+1325,West Midlands,NEWCASTLE-UNDER-LYME,Value,2021,29615.0,Normal Value
+1332,West Midlands,NORTH WARWICKSHIRE,Value,2016,29010.0,Normal Value
+1333,West Midlands,NORTH WARWICKSHIRE,Value,2017,29884.0,Normal Value
+1334,West Midlands,NORTH WARWICKSHIRE,Value,2018,29749.0,Normal Value
+1335,West Midlands,NORTH WARWICKSHIRE,Value,2019,32968.0,Normal Value
+1336,West Midlands,NORTH WARWICKSHIRE,Value,2020,31388.0,Normal Value
+1337,West Midlands,NORTH WARWICKSHIRE,Value,2021,31332.0,Normal Value
+1344,West Midlands,NUNEATON AND BEDWORTH,Value,2016,25031.0,Normal Value
+1345,West Midlands,NUNEATON AND BEDWORTH,Value,2017,27541.0,Normal Value
+1346,West Midlands,NUNEATON AND BEDWORTH,Value,2018,26927.0,Normal Value
+1347,West Midlands,NUNEATON AND BEDWORTH,Value,2019,27771.0,Normal Value
+1348,West Midlands,NUNEATON AND BEDWORTH,Value,2020,28734.0,Normal Value
+1349,West Midlands,NUNEATON AND BEDWORTH,Value,2021,28928.0,Normal Value
+1357,West Midlands,REDDITCH,Value,2017,24529.0,Normal Value
+1358,West Midlands,REDDITCH,Value,2018,24482.0,Normal Value
+1359,West Midlands,REDDITCH,Value,2019,25894.0,Normal Value
+1360,West Midlands,REDDITCH,Value,2020,26202.0,Normal Value
+1361,West Midlands,REDDITCH,Value,2021,25960.0,Normal Value
+1368,West Midlands,RUGBY,Value,2016,28813.0,Normal Value
+1369,West Midlands,RUGBY,Value,2017,30708.0,Normal Value
+1370,West Midlands,RUGBY,Value,2018,32537.0,Normal Value
+1371,West Midlands,RUGBY,Value,2019,32029.0,Normal Value
+1372,West Midlands,RUGBY,Value,2020,32429.0,Normal Value
+1373,West Midlands,RUGBY,Value,2021,33364.0,Normal Value
+1380,West Midlands,SANDWELL,Value,2016,23201.0,Normal Value
+1381,West Midlands,SANDWELL,Value,2017,23832.0,Normal Value
+1382,West Midlands,SANDWELL,Value,2018,24668.0,Normal Value
+1383,West Midlands,SANDWELL,Value,2019,24878.0,Normal Value
+1384,West Midlands,SANDWELL,Value,2020,25938.0,Normal Value
+1385,West Midlands,SANDWELL,Value,2021,26630.0,Normal Value
+1392,West Midlands,SHROPSHIRE,Value,2016,27264.0,Normal Value
+1393,West Midlands,SHROPSHIRE,Value,2017,27193.0,Normal Value
+1394,West Midlands,SHROPSHIRE,Value,2018,27633.0,Normal Value
+1395,West Midlands,SHROPSHIRE,Value,2019,29584.0,Normal Value
+1396,West Midlands,SHROPSHIRE,Value,2020,30105.0,Normal Value
+1397,West Midlands,SHROPSHIRE,Value,2021,29558.0,Normal Value
+1404,West Midlands,SOLIHULL,Value,2016,32000.0,Normal Value
+1405,West Midlands,SOLIHULL,Value,2017,31906.0,Normal Value
+1406,West Midlands,SOLIHULL,Value,2018,33763.0,Normal Value
+1407,West Midlands,SOLIHULL,Value,2019,34150.0,Normal Value
+1408,West Midlands,SOLIHULL,Value,2020,34671.0,Normal Value
+1409,West Midlands,SOLIHULL,Value,2021,35516.0,Normal Value
+1416,West Midlands,SOUTH STAFFORDSHIRE,Value,2016,28811.0,Normal Value
+1417,West Midlands,SOUTH STAFFORDSHIRE,Value,2017,30322.0,Normal Value
+1418,West Midlands,SOUTH STAFFORDSHIRE,Value,2018,30942.0,Normal Value
+1419,West Midlands,SOUTH STAFFORDSHIRE,Value,2019,32611.0,Normal Value
+1420,West Midlands,SOUTH STAFFORDSHIRE,Value,2020,36519.0,Normal Value
+1421,West Midlands,SOUTH STAFFORDSHIRE,Value,2021,33075.0,Normal Value
+1428,West Midlands,STAFFORD,Value,2016,28793.0,Normal Value
+1429,West Midlands,STAFFORD,Value,2017,28581.0,Normal Value
+1430,West Midlands,STAFFORD,Value,2018,29323.0,Normal Value
+1431,West Midlands,STAFFORD,Value,2019,30800.0,Normal Value
+1432,West Midlands,STAFFORD,Value,2020,31066.0,Normal Value
+1433,West Midlands,STAFFORD,Value,2021,31356.0,Normal Value
+1440,West Midlands,STAFFORDSHIRE MOORLANDS,Value,2016,26953.0,Normal Value
+1441,West Midlands,STAFFORDSHIRE MOORLANDS,Value,2017,27525.0,Normal Value
+1442,West Midlands,STAFFORDSHIRE MOORLANDS,Value,2018,27389.0,Normal Value
+1443,West Midlands,STAFFORDSHIRE MOORLANDS,Value,2019,30738.0,Normal Value
+1445,West Midlands,STAFFORDSHIRE MOORLANDS,Value,2021,31220.0,Normal Value
+1452,West Midlands,STOKE-ON-TRENT,Value,2016,22786.0,Normal Value
+1453,West Midlands,STOKE-ON-TRENT,Value,2017,23739.0,Normal Value
+1454,West Midlands,STOKE-ON-TRENT,Value,2018,24865.0,Normal Value
+1455,West Midlands,STOKE-ON-TRENT,Value,2019,25391.0,Normal Value
+1456,West Midlands,STOKE-ON-TRENT,Value,2020,26995.0,Normal Value
+1457,West Midlands,STOKE-ON-TRENT,Value,2021,26766.0,Normal Value
+1464,West Midlands,STRATFORD-ON-AVON,Value,2016,31137.0,Normal Value
+1465,West Midlands,STRATFORD-ON-AVON,Value,2017,31649.0,Normal Value
+1466,West Midlands,STRATFORD-ON-AVON,Value,2018,31996.0,Normal Value
+1467,West Midlands,STRATFORD-ON-AVON,Value,2019,32773.0,Normal Value
+1468,West Midlands,STRATFORD-ON-AVON,Value,2020,33371.0,Normal Value
+1469,West Midlands,STRATFORD-ON-AVON,Value,2021,33923.0,Normal Value
+1476,West Midlands,TAMWORTH,Value,2016,25616.0,Normal Value
+1477,West Midlands,TAMWORTH,Value,2017,25100.0,Normal Value
+1478,West Midlands,TAMWORTH,Value,2018,27503.0,Normal Value
+1479,West Midlands,TAMWORTH,Value,2019,27436.0,Normal Value
+1480,West Midlands,TAMWORTH,Value,2020,25604.0,Normal Value
+1481,West Midlands,TAMWORTH,Value,2021,27879.0,Normal Value
+1488,West Midlands,TELFORD AND WREKIN,Value,2016,25472.0,Normal Value
+1489,West Midlands,TELFORD AND WREKIN,Value,2017,24246.0,Normal Value
+1490,West Midlands,TELFORD AND WREKIN,Value,2018,25923.0,Normal Value
+1491,West Midlands,TELFORD AND WREKIN,Value,2019,27671.0,Normal Value
+1492,West Midlands,TELFORD AND WREKIN,Value,2020,27902.0,Normal Value
+1493,West Midlands,TELFORD AND WREKIN,Value,2021,28450.0,Normal Value
+1500,West Midlands,WALSALL,Value,2016,24268.0,Normal Value
+1501,West Midlands,WALSALL,Value,2017,24081.0,Normal Value
+1502,West Midlands,WALSALL,Value,2018,24846.0,Normal Value
+1503,West Midlands,WALSALL,Value,2019,26334.0,Normal Value
+1504,West Midlands,WALSALL,Value,2020,27755.0,Normal Value
+1505,West Midlands,WALSALL,Value,2021,28515.0,Normal Value
+1512,West Midlands,WARWICK,Value,2016,31416.0,Normal Value
+1513,West Midlands,WARWICK,Value,2017,32926.0,Normal Value
+1514,West Midlands,WARWICK,Value,2018,33449.0,Normal Value
+1515,West Midlands,WARWICK,Value,2019,33762.0,Normal Value
+1516,West Midlands,WARWICK,Value,2020,35675.0,Normal Value
+1517,West Midlands,WARWICK,Value,2021,36862.0,Normal Value
+1524,West Midlands,WOLVERHAMPTON,Value,2016,23085.0,Normal Value
+1525,West Midlands,WOLVERHAMPTON,Value,2017,24047.0,Normal Value
+1526,West Midlands,WOLVERHAMPTON,Value,2018,24964.0,Normal Value
+1527,West Midlands,WOLVERHAMPTON,Value,2019,25463.0,Normal Value
+1528,West Midlands,WOLVERHAMPTON,Value,2020,25609.0,Normal Value
+1529,West Midlands,WOLVERHAMPTON,Value,2021,27503.0,Normal Value
+1536,West Midlands,WORCESTER,Value,2016,26522.0,Normal Value
+1537,West Midlands,WORCESTER,Value,2017,28578.0,Normal Value
+1538,West Midlands,WORCESTER,Value,2018,28441.0,Normal Value
+1539,West Midlands,WORCESTER,Value,2019,29011.0,Normal Value
+1540,West Midlands,WORCESTER,Value,2020,27598.0,Normal Value
+1541,West Midlands,WORCESTER,Value,2021,29984.0,Normal Value
+1548,West Midlands,WYCHAVON,Value,2016,28019.0,Normal Value
+1549,West Midlands,WYCHAVON,Value,2017,28968.0,Normal Value
+1550,West Midlands,WYCHAVON,Value,2018,29998.0,Normal Value
+1551,West Midlands,WYCHAVON,Value,2019,30723.0,Normal Value
+1552,West Midlands,WYCHAVON,Value,2020,28601.0,Normal Value
+1553,West Midlands,WYCHAVON,Value,2021,28189.0,Normal Value
+1560,West Midlands,WYRE FOREST,Value,2016,25259.0,Normal Value
+1561,West Midlands,WYRE FOREST,Value,2017,25060.0,Normal Value
+1562,West Midlands,WYRE FOREST,Value,2018,26024.0,Normal Value
+1563,West Midlands,WYRE FOREST,Value,2019,27233.0,Normal Value
+1564,West Midlands,WYRE FOREST,Value,2020,30212.0,Normal Value
+1565,West Midlands,WYRE FOREST,Value,2021,29010.0,Normal Value
+1572,North East,COUNTY DURHAM,Value,2016,25011.0,Normal Value
+1573,North East,COUNTY DURHAM,Value,2017,25667.0,Normal Value
+1574,North East,COUNTY DURHAM,Value,2018,26331.0,Normal Value
+1575,North East,COUNTY DURHAM,Value,2019,27557.0,Normal Value
+1576,North East,COUNTY DURHAM,Value,2020,28239.0,Normal Value
+1577,North East,COUNTY DURHAM,Value,2021,28259.0,Normal Value
+1584,North East,DARLINGTON,Value,2016,27514.0,Normal Value
+1585,North East,DARLINGTON,Value,2017,27797.0,Normal Value
+1586,North East,DARLINGTON,Value,2018,26445.0,Normal Value
+1587,North East,DARLINGTON,Value,2019,27703.0,Normal Value
+1588,North East,DARLINGTON,Value,2020,27039.0,Normal Value
+1596,North East,GATESHEAD,Value,2016,25049.0,Normal Value
+1597,North East,GATESHEAD,Value,2017,25802.0,Normal Value
+1598,North East,GATESHEAD,Value,2018,25985.0,Normal Value
+1599,North East,GATESHEAD,Value,2019,26504.0,Normal Value
+1600,North East,GATESHEAD,Value,2020,26476.0,Normal Value
+1601,North East,GATESHEAD,Value,2021,26937.0,Normal Value
+1608,North East,HARTLEPOOL,Value,2016,25970.0,Normal Value
+1609,North East,HARTLEPOOL,Value,2017,25525.0,Normal Value
+1610,North East,HARTLEPOOL,Value,2018,26929.0,Normal Value
+1611,North East,HARTLEPOOL,Value,2019,26523.0,Normal Value
+1612,North East,HARTLEPOOL,Value,2020,28653.0,Normal Value
+1613,North East,HARTLEPOOL,Value,2021,27717.0,Normal Value
+1620,North East,MIDDLESBROUGH,Value,2016,24966.0,Normal Value
+1621,North East,MIDDLESBROUGH,Value,2017,24141.0,Normal Value
+1622,North East,MIDDLESBROUGH,Value,2018,25434.0,Normal Value
+1623,North East,MIDDLESBROUGH,Value,2019,26044.0,Normal Value
+1624,North East,MIDDLESBROUGH,Value,2020,26645.0,Normal Value
+1625,North East,MIDDLESBROUGH,Value,2021,26393.0,Normal Value
+1632,North East,NEWCASTLE UPON TYNE,Value,2016,26577.0,Normal Value
+1633,North East,NEWCASTLE UPON TYNE,Value,2017,26691.0,Normal Value
+1634,North East,NEWCASTLE UPON TYNE,Value,2018,26928.0,Normal Value
+1635,North East,NEWCASTLE UPON TYNE,Value,2019,28024.0,Normal Value
+1636,North East,NEWCASTLE UPON TYNE,Value,2020,29050.0,Normal Value
+1637,North East,NEWCASTLE UPON TYNE,Value,2021,30264.0,Normal Value
+1644,North East,NORTH TYNESIDE,Value,2016,26092.0,Normal Value
+1645,North East,NORTH TYNESIDE,Value,2017,27855.0,Normal Value
+1646,North East,NORTH TYNESIDE,Value,2018,28726.0,Normal Value
+1647,North East,NORTH TYNESIDE,Value,2019,29525.0,Normal Value
+1648,North East,NORTH TYNESIDE,Value,2020,29523.0,Normal Value
+1649,North East,NORTH TYNESIDE,Value,2021,29029.0,Normal Value
+1656,North East,NORTHUMBERLAND,Value,2016,26454.0,Normal Value
+1657,North East,NORTHUMBERLAND,Value,2017,27113.0,Normal Value
+1658,North East,NORTHUMBERLAND,Value,2018,27460.0,Normal Value
+1659,North East,NORTHUMBERLAND,Value,2019,27430.0,Normal Value
+1660,North East,NORTHUMBERLAND,Value,2020,28472.0,Normal Value
+1661,North East,NORTHUMBERLAND,Value,2021,28229.0,Normal Value
+1668,North East,REDCAR AND CLEVELAND,Value,2016,24403.0,Normal Value
+1669,North East,REDCAR AND CLEVELAND,Value,2017,25390.0,Normal Value
+1670,North East,REDCAR AND CLEVELAND,Value,2018,24973.0,Normal Value
+1671,North East,REDCAR AND CLEVELAND,Value,2019,25836.0,Normal Value
+1672,North East,REDCAR AND CLEVELAND,Value,2020,26675.0,Normal Value
+1673,North East,REDCAR AND CLEVELAND,Value,2021,24781.0,Normal Value
+1680,North East,SOUTH TYNESIDE,Value,2016,23744.0,Normal Value
+1681,North East,SOUTH TYNESIDE,Value,2017,25301.0,Normal Value
+1682,North East,SOUTH TYNESIDE,Value,2018,24979.0,Normal Value
+1683,North East,SOUTH TYNESIDE,Value,2019,25930.0,Normal Value
+1684,North East,SOUTH TYNESIDE,Value,2020,26529.0,Normal Value
+1685,North East,SOUTH TYNESIDE,Value,2021,27356.0,Normal Value
+1692,North East,STOCKTON-ON-TEES,Value,2016,27752.0,Normal Value
+1693,North East,STOCKTON-ON-TEES,Value,2017,26538.0,Normal Value
+1694,North East,STOCKTON-ON-TEES,Value,2018,26889.0,Normal Value
+1695,North East,STOCKTON-ON-TEES,Value,2019,29477.0,Normal Value
+1696,North East,STOCKTON-ON-TEES,Value,2020,29450.0,Normal Value
+1697,North East,STOCKTON-ON-TEES,Value,2021,27834.0,Normal Value
+1704,North East,SUNDERLAND,Value,2016,25171.0,Normal Value
+1705,North East,SUNDERLAND,Value,2017,24914.0,Normal Value
+1706,North East,SUNDERLAND,Value,2018,25649.0,Normal Value
+1707,North East,SUNDERLAND,Value,2019,25456.0,Normal Value
+1708,North East,SUNDERLAND,Value,2020,26626.0,Normal Value
+1709,North East,SUNDERLAND,Value,2021,24961.0,Normal Value
+1716,North West,ALLERDALE,Value,2016,29315.0,Normal Value
+1717,North West,ALLERDALE,Value,2017,29363.0,Normal Value
+1718,North West,ALLERDALE,Value,2018,29730.0,Normal Value
+1719,North West,ALLERDALE,Value,2019,30474.0,Normal Value
+1720,North West,ALLERDALE,Value,2020,33339.0,Normal Value
+1721,North West,ALLERDALE,Value,2021,35461.0,Normal Value
+1728,North West,BARROW-IN-FURNESS,Value,2016,25885.0,Normal Value
+1729,North West,BARROW-IN-FURNESS,Value,2017,30025.0,Normal Value
+1730,North West,BARROW-IN-FURNESS,Value,2018,33580.0,Normal Value
+1731,North West,BARROW-IN-FURNESS,Value,2019,31929.0,Normal Value
+1732,North West,BARROW-IN-FURNESS,Value,2020,35230.0,Normal Value
+1733,North West,BARROW-IN-FURNESS,Value,2021,34664.0,Normal Value
+1740,North West,BLACKBURN WITH DARWEN,Value,2016,22768.0,Normal Value
+1741,North West,BLACKBURN WITH DARWEN,Value,2017,23183.0,Normal Value
+1742,North West,BLACKBURN WITH DARWEN,Value,2018,23449.0,Normal Value
+1743,North West,BLACKBURN WITH DARWEN,Value,2019,25121.0,Normal Value
+1744,North West,BLACKBURN WITH DARWEN,Value,2020,24554.0,Normal Value
+1745,North West,BLACKBURN WITH DARWEN,Value,2021,25902.0,Normal Value
+1752,North West,BLACKPOOL,Value,2016,21429.0,Normal Value
+1753,North West,BLACKPOOL,Value,2017,23055.0,Normal Value
+1754,North West,BLACKPOOL,Value,2018,22943.0,Normal Value
+1755,North West,BLACKPOOL,Value,2019,24795.0,Normal Value
+1756,North West,BLACKPOOL,Value,2020,24526.0,Normal Value
+1757,North West,BLACKPOOL,Value,2021,22833.0,Normal Value
+1764,North West,BOLTON,Value,2016,24815.0,Normal Value
+1765,North West,BOLTON,Value,2017,24364.0,Normal Value
+1766,North West,BOLTON,Value,2018,25007.0,Normal Value
+1767,North West,BOLTON,Value,2019,26554.0,Normal Value
+1768,North West,BOLTON,Value,2020,27066.0,Normal Value
+1769,North West,BOLTON,Value,2021,26965.0,Normal Value
+1776,North West,BURNLEY,Value,2016,24142.0,Normal Value
+1777,North West,BURNLEY,Value,2017,23659.0,Normal Value
+1778,North West,BURNLEY,Value,2018,24795.0,Normal Value
+1779,North West,BURNLEY,Value,2019,28050.0,Normal Value
+1780,North West,BURNLEY,Value,2020,25334.0,Normal Value
+1781,North West,BURNLEY,Value,2021,26983.0,Normal Value
+1788,North West,BURY,Value,2016,28069.0,Normal Value
+1789,North West,BURY,Value,2017,27652.0,Normal Value
+1790,North West,BURY,Value,2018,29347.0,Normal Value
+1791,North West,BURY,Value,2019,29650.0,Normal Value
+1792,North West,BURY,Value,2020,32267.0,Normal Value
+1793,North West,BURY,Value,2021,31341.0,Normal Value
+1800,North West,CARLISLE,Value,2016,23342.0,Normal Value
+1801,North West,CARLISLE,Value,2017,23192.0,Normal Value
+1802,North West,CARLISLE,Value,2018,24174.0,Normal Value
+1803,North West,CARLISLE,Value,2019,26437.0,Normal Value
+1804,North West,CARLISLE,Value,2020,29140.0,Normal Value
+1805,North West,CARLISLE,Value,2021,26396.0,Normal Value
+1812,North West,CHESHIRE EAST,Value,2016,28754.0,Normal Value
+1813,North West,CHESHIRE EAST,Value,2017,28682.0,Normal Value
+1814,North West,CHESHIRE EAST,Value,2018,29881.0,Normal Value
+1815,North West,CHESHIRE EAST,Value,2019,31960.0,Normal Value
+1816,North West,CHESHIRE EAST,Value,2020,32601.0,Normal Value
+1817,North West,CHESHIRE EAST,Value,2021,32103.0,Normal Value
+1824,North West,CHESHIRE WEST AND CHESTER,Value,2016,28819.0,Normal Value
+1825,North West,CHESHIRE WEST AND CHESTER,Value,2017,29478.0,Normal Value
+1826,North West,CHESHIRE WEST AND CHESTER,Value,2018,29756.0,Normal Value
+1827,North West,CHESHIRE WEST AND CHESTER,Value,2019,30970.0,Normal Value
+1828,North West,CHESHIRE WEST AND CHESTER,Value,2020,31389.0,Normal Value
+1829,North West,CHESHIRE WEST AND CHESTER,Value,2021,32921.0,Normal Value
+1836,North West,CHORLEY,Value,2016,27486.0,Normal Value
+1837,North West,CHORLEY,Value,2017,27463.0,Normal Value
+1838,North West,CHORLEY,Value,2018,30169.0,Normal Value
+1839,North West,CHORLEY,Value,2019,31094.0,Normal Value
+1840,North West,CHORLEY,Value,2020,31157.0,Normal Value
+1841,North West,CHORLEY,Value,2021,33647.0,Normal Value
+1848,North West,COPELAND,Value,2016,38620.0,Normal Value
+1849,North West,COPELAND,Value,2017,43252.0,Normal Value
+1850,North West,COPELAND,Value,2018,44281.0,Normal Value
+1851,North West,COPELAND,Value,2019,33132.0,Normal Value
+1852,North West,COPELAND,Value,2020,45067.0,Normal Value
+1853,North West,COPELAND,Value,2021,42995.0,Normal Value
+1860,North West,EDEN,Value,2016,24257.0,Normal Value
+1861,North West,EDEN,Value,2017,24413.0,Normal Value
+1862,North West,EDEN,Value,2018,24506.0,Normal Value
+1863,North West,EDEN,Value,2019,29095.0,Normal Value
+1864,North West,EDEN,Value,2020,30683.0,Normal Value
+1865,North West,EDEN,Value,2021,31770.0,Normal Value
+1872,North West,FYLDE,Value,2016,26983.0,Normal Value
+1873,North West,FYLDE,Value,2017,30498.0,Normal Value
+1874,North West,FYLDE,Value,2018,31837.0,Normal Value
+1875,North West,FYLDE,Value,2019,31545.0,Normal Value
+1876,North West,FYLDE,Value,2020,33449.0,Normal Value
+1877,North West,FYLDE,Value,2021,30889.0,Normal Value
+1884,North West,HALTON,Value,2016,25250.0,Normal Value
+1885,North West,HALTON,Value,2017,26143.0,Normal Value
+1886,North West,HALTON,Value,2018,27592.0,Normal Value
+1887,North West,HALTON,Value,2019,27690.0,Normal Value
+1888,North West,HALTON,Value,2020,30405.0,Normal Value
+1889,North West,HALTON,Value,2021,28829.0,Normal Value
+1896,North West,HYNDBURN,Value,2016,23549.0,Normal Value
+1897,North West,HYNDBURN,Value,2017,25069.0,Normal Value
+1898,North West,HYNDBURN,Value,2018,22627.0,Normal Value
+1899,North West,HYNDBURN,Value,2019,24912.0,Normal Value
+1900,North West,HYNDBURN,Value,2020,24850.0,Normal Value
+1901,North West,HYNDBURN,Value,2021,26927.0,Normal Value
+1908,North West,KNOWSLEY,Value,2016,25135.0,Normal Value
+1909,North West,KNOWSLEY,Value,2017,26235.0,Normal Value
+1910,North West,KNOWSLEY,Value,2018,26880.0,Normal Value
+1911,North West,KNOWSLEY,Value,2019,25849.0,Normal Value
+1912,North West,KNOWSLEY,Value,2020,28502.0,Normal Value
+1913,North West,KNOWSLEY,Value,2021,29493.0,Normal Value
+1920,North West,LANCASTER,Value,2016,27915.0,Normal Value
+1921,North West,LANCASTER,Value,2017,27612.0,Normal Value
+1922,North West,LANCASTER,Value,2018,26995.0,Normal Value
+1923,North West,LANCASTER,Value,2019,28193.0,Normal Value
+1925,North West,LANCASTER,Value,2021,31121.0,Normal Value
+1932,North West,LIVERPOOL,Value,2016,25953.0,Normal Value
+1933,North West,LIVERPOOL,Value,2017,26017.0,Normal Value
+1934,North West,LIVERPOOL,Value,2018,26706.0,Normal Value
+1935,North West,LIVERPOOL,Value,2019,28800.0,Normal Value
+1936,North West,LIVERPOOL,Value,2020,30850.0,Normal Value
+1937,North West,LIVERPOOL,Value,2021,30000.0,Normal Value
+1944,North West,MANCHESTER,Value,2016,24185.0,Normal Value
+1945,North West,MANCHESTER,Value,2017,25000.0,Normal Value
+1946,North West,MANCHESTER,Value,2018,26199.0,Normal Value
+1947,North West,MANCHESTER,Value,2019,26629.0,Normal Value
+1948,North West,MANCHESTER,Value,2020,28143.0,Normal Value
+1949,North West,MANCHESTER,Value,2021,27502.0,Normal Value
+1956,North West,OLDHAM,Value,2016,24051.0,Normal Value
+1957,North West,OLDHAM,Value,2017,24907.0,Normal Value
+1958,North West,OLDHAM,Value,2018,25003.0,Normal Value
+1959,North West,OLDHAM,Value,2019,25375.0,Normal Value
+1960,North West,OLDHAM,Value,2020,26062.0,Normal Value
+1961,North West,OLDHAM,Value,2021,27594.0,Normal Value
+1968,North West,PENDLE,Value,2016,24132.0,Normal Value
+1969,North West,PENDLE,Value,2017,25344.0,Normal Value
+1971,North West,PENDLE,Value,2019,27038.0,Normal Value
+1972,North West,PENDLE,Value,2020,25559.0,Normal Value
+1973,North West,PENDLE,Value,2021,22950.0,Normal Value
+1980,North West,PRESTON,Value,2016,24680.0,Normal Value
+1981,North West,PRESTON,Value,2017,24176.0,Normal Value
+1982,North West,PRESTON,Value,2018,25880.0,Normal Value
+1983,North West,PRESTON,Value,2019,26057.0,Normal Value
+1984,North West,PRESTON,Value,2020,26887.0,Normal Value
+1985,North West,PRESTON,Value,2021,27425.0,Normal Value
+1992,North West,RIBBLE VALLEY,Value,2016,28215.0,Normal Value
+1993,North West,RIBBLE VALLEY,Value,2017,27955.0,Normal Value
+1994,North West,RIBBLE VALLEY,Value,2018,30783.0,Normal Value
+1996,North West,RIBBLE VALLEY,Value,2020,33963.0,Normal Value
+1997,North West,RIBBLE VALLEY,Value,2021,33595.0,Normal Value
+2004,North West,ROCHDALE,Value,2016,24421.0,Normal Value
+2005,North West,ROCHDALE,Value,2017,24603.0,Normal Value
+2006,North West,ROCHDALE,Value,2018,24904.0,Normal Value
+2007,North West,ROCHDALE,Value,2019,26291.0,Normal Value
+2008,North West,ROCHDALE,Value,2020,27305.0,Normal Value
+2009,North West,ROCHDALE,Value,2021,25742.0,Normal Value
+2016,North West,ROSSENDALE,Value,2016,24041.0,Normal Value
+2017,North West,ROSSENDALE,Value,2017,23379.0,Normal Value
+2018,North West,ROSSENDALE,Value,2018,25000.0,Normal Value
+2019,North West,ROSSENDALE,Value,2019,26093.0,Normal Value
+2020,North West,ROSSENDALE,Value,2020,27643.0,Normal Value
+2021,North West,ROSSENDALE,Value,2021,29019.0,Normal Value
+2028,North West,SALFORD,Value,2016,25288.0,Normal Value
+2029,North West,SALFORD,Value,2017,26097.0,Normal Value
+2030,North West,SALFORD,Value,2018,26173.0,Normal Value
+2031,North West,SALFORD,Value,2019,26944.0,Normal Value
+2032,North West,SALFORD,Value,2020,29507.0,Normal Value
+2033,North West,SALFORD,Value,2021,28081.0,Normal Value
+2040,North West,SEFTON,Value,2016,25517.0,Normal Value
+2041,North West,SEFTON,Value,2017,26801.0,Normal Value
+2042,North West,SEFTON,Value,2018,28330.0,Normal Value
+2043,North West,SEFTON,Value,2019,28015.0,Normal Value
+2044,North West,SEFTON,Value,2020,29543.0,Normal Value
+2045,North West,SEFTON,Value,2021,30585.0,Normal Value
+2052,North West,SOUTH LAKELAND,Value,2016,29611.0,Normal Value
+2054,North West,SOUTH LAKELAND,Value,2018,29404.0,Normal Value
+2055,North West,SOUTH LAKELAND,Value,2019,28582.0,Normal Value
+2056,North West,SOUTH LAKELAND,Value,2020,29411.0,Normal Value
+2057,North West,SOUTH LAKELAND,Value,2021,30022.0,Normal Value
+2064,North West,SOUTH RIBBLE,Value,2016,26884.0,Normal Value
+2065,North West,SOUTH RIBBLE,Value,2017,26750.0,Normal Value
+2066,North West,SOUTH RIBBLE,Value,2018,27733.0,Normal Value
+2067,North West,SOUTH RIBBLE,Value,2019,28014.0,Normal Value
+2068,North West,SOUTH RIBBLE,Value,2020,29086.0,Normal Value
+2069,North West,SOUTH RIBBLE,Value,2021,28260.0,Normal Value
+2076,North West,ST. HELENS,Value,2016,26008.0,Normal Value
+2077,North West,ST. HELENS,Value,2017,25352.0,Normal Value
+2078,North West,ST. HELENS,Value,2018,26224.0,Normal Value
+2079,North West,ST. HELENS,Value,2019,28796.0,Normal Value
+2080,North West,ST. HELENS,Value,2020,28435.0,Normal Value
+2081,North West,ST. HELENS,Value,2021,29355.0,Normal Value
+2088,North West,STOCKPORT,Value,2016,28171.0,Normal Value
+2089,North West,STOCKPORT,Value,2017,29048.0,Normal Value
+2090,North West,STOCKPORT,Value,2018,31027.0,Normal Value
+2091,North West,STOCKPORT,Value,2019,32246.0,Normal Value
+2092,North West,STOCKPORT,Value,2020,34021.0,Normal Value
+2093,North West,STOCKPORT,Value,2021,30724.0,Normal Value
+2100,North West,TAMESIDE,Value,2016,23419.0,Normal Value
+2101,North West,TAMESIDE,Value,2017,24289.0,Normal Value
+2102,North West,TAMESIDE,Value,2018,24401.0,Normal Value
+2103,North West,TAMESIDE,Value,2019,25770.0,Normal Value
+2104,North West,TAMESIDE,Value,2020,25825.0,Normal Value
+2105,North West,TAMESIDE,Value,2021,27706.0,Normal Value
+2112,North West,TRAFFORD,Value,2016,34069.0,Normal Value
+2113,North West,TRAFFORD,Value,2017,32047.0,Normal Value
+2114,North West,TRAFFORD,Value,2018,34004.0,Normal Value
+2115,North West,TRAFFORD,Value,2019,33791.0,Normal Value
+2116,North West,TRAFFORD,Value,2020,35065.0,Normal Value
+2117,North West,TRAFFORD,Value,2021,34936.0,Normal Value
+2124,North West,WARRINGTON,Value,2016,27856.0,Normal Value
+2125,North West,WARRINGTON,Value,2017,28168.0,Normal Value
+2126,North West,WARRINGTON,Value,2018,30776.0,Normal Value
+2127,North West,WARRINGTON,Value,2019,30877.0,Normal Value
+2128,North West,WARRINGTON,Value,2020,30245.0,Normal Value
+2129,North West,WARRINGTON,Value,2021,31517.0,Normal Value
+2136,North West,WEST LANCASHIRE,Value,2016,27798.0,Normal Value
+2137,North West,WEST LANCASHIRE,Value,2017,28445.0,Normal Value
+2138,North West,WEST LANCASHIRE,Value,2018,29902.0,Normal Value
+2139,North West,WEST LANCASHIRE,Value,2019,28396.0,Normal Value
+2140,North West,WEST LANCASHIRE,Value,2020,29616.0,Normal Value
+2141,North West,WEST LANCASHIRE,Value,2021,29454.0,Normal Value
+2148,North West,WIGAN,Value,2016,27094.0,Normal Value
+2149,North West,WIGAN,Value,2017,26957.0,Normal Value
+2150,North West,WIGAN,Value,2018,27031.0,Normal Value
+2151,North West,WIGAN,Value,2019,26999.0,Normal Value
+2152,North West,WIGAN,Value,2020,29366.0,Normal Value
+2153,North West,WIGAN,Value,2021,30809.0,Normal Value
+2160,North West,WIRRAL,Value,2016,28183.0,Normal Value
+2161,North West,WIRRAL,Value,2017,27561.0,Normal Value
+2162,North West,WIRRAL,Value,2018,27708.0,Normal Value
+2163,North West,WIRRAL,Value,2019,29463.0,Normal Value
+2164,North West,WIRRAL,Value,2020,28997.0,Normal Value
+2165,North West,WIRRAL,Value,2021,29653.0,Normal Value
+2172,North West,WYRE,Value,2016,24620.0,Normal Value
+2174,North West,WYRE,Value,2018,25191.0,Normal Value
+2175,North West,WYRE,Value,2019,26497.0,Normal Value
+2176,North West,WYRE,Value,2020,27240.0,Normal Value
+2177,North West,WYRE,Value,2021,29379.0,Normal Value
+2184,South West,BATH AND NORTH EAST SOMERSET,Value,2016,29888.0,Normal Value
+2185,South West,BATH AND NORTH EAST SOMERSET,Value,2017,29211.0,Normal Value
+2186,South West,BATH AND NORTH EAST SOMERSET,Value,2018,31902.0,Normal Value
+2187,South West,BATH AND NORTH EAST SOMERSET,Value,2019,32255.0,Normal Value
+2188,South West,BATH AND NORTH EAST SOMERSET,Value,2020,31098.0,Normal Value
+2189,South West,BATH AND NORTH EAST SOMERSET,Value,2021,30906.0,Normal Value
+2198,South West,"BOURNEMOUTH, CHRISTCHURCH AND POOLE",Value,2018,29853.0,Normal Value
+2199,South West,"BOURNEMOUTH, CHRISTCHURCH AND POOLE",Value,2019,31086.0,Normal Value
+2200,South West,"BOURNEMOUTH, CHRISTCHURCH AND POOLE",Value,2020,29242.0,Normal Value
+2201,South West,"BOURNEMOUTH, CHRISTCHURCH AND POOLE",Value,2021,28755.0,Normal Value
+2208,South West,"BRISTOL, CITY OF",Value,2016,27378.0,Normal Value
+2209,South West,"BRISTOL, CITY OF",Value,2017,27924.0,Normal Value
+2210,South West,"BRISTOL, CITY OF",Value,2018,29093.0,Normal Value
+2211,South West,"BRISTOL, CITY OF",Value,2019,30395.0,Normal Value
+2212,South West,"BRISTOL, CITY OF",Value,2020,32339.0,Normal Value
+2213,South West,"BRISTOL, CITY OF",Value,2021,32452.0,Normal Value
+2220,South West,CHELTENHAM,Value,2016,28264.0,Normal Value
+2221,South West,CHELTENHAM,Value,2017,29365.0,Normal Value
+2222,South West,CHELTENHAM,Value,2018,29861.0,Normal Value
+2223,South West,CHELTENHAM,Value,2019,33209.0,Normal Value
+2224,South West,CHELTENHAM,Value,2020,33694.0,Normal Value
+2225,South West,CHELTENHAM,Value,2021,34101.0,Normal Value
+2232,South West,CORNWALL,Value,2016,24574.0,Normal Value
+2233,South West,CORNWALL,Value,2017,25008.0,Normal Value
+2234,South West,CORNWALL,Value,2018,24781.0,Normal Value
+2235,South West,CORNWALL,Value,2019,25877.0,Normal Value
+2236,South West,CORNWALL,Value,2020,27244.0,Normal Value
+2237,South West,CORNWALL,Value,2021,25597.0,Normal Value
+2244,South West,COTSWOLD,Value,2016,28660.0,Normal Value
+2247,South West,COTSWOLD,Value,2019,31069.0,Normal Value
+2248,South West,COTSWOLD,Value,2020,32213.0,Normal Value
+2249,South West,COTSWOLD,Value,2021,31115.0,Normal Value
+2256,South West,DORSET,Value,2016,26414.0,Normal Value
+2257,South West,DORSET,Value,2017,26262.0,Normal Value
+2258,South West,DORSET,Value,2018,27633.0,Normal Value
+2259,South West,DORSET,Value,2019,28942.0,Normal Value
+2260,South West,DORSET,Value,2020,30869.0,Normal Value
+2261,South West,DORSET,Value,2021,30000.0,Normal Value
+2268,South West,EAST DEVON,Value,2016,27754.0,Normal Value
+2269,South West,EAST DEVON,Value,2017,26849.0,Normal Value
+2270,South West,EAST DEVON,Value,2018,27601.0,Normal Value
+2271,South West,EAST DEVON,Value,2019,29364.0,Normal Value
+2272,South West,EAST DEVON,Value,2020,29456.0,Normal Value
+2273,South West,EAST DEVON,Value,2021,29274.0,Normal Value
+2280,South West,EXETER,Value,2016,27275.0,Normal Value
+2281,South West,EXETER,Value,2017,26202.0,Normal Value
+2282,South West,EXETER,Value,2018,27965.0,Normal Value
+2283,South West,EXETER,Value,2019,29748.0,Normal Value
+2284,South West,EXETER,Value,2020,30897.0,Normal Value
+2285,South West,EXETER,Value,2021,30444.0,Normal Value
+2292,South West,FOREST OF DEAN,Value,2016,29039.0,Normal Value
+2293,South West,FOREST OF DEAN,Value,2017,31032.0,Normal Value
+2296,South West,FOREST OF DEAN,Value,2020,32397.0,Normal Value
+2297,South West,FOREST OF DEAN,Value,2021,29108.0,Normal Value
+2304,South West,GLOUCESTER,Value,2016,26494.0,Normal Value
+2305,South West,GLOUCESTER,Value,2017,26042.0,Normal Value
+2306,South West,GLOUCESTER,Value,2018,27203.0,Normal Value
+2307,South West,GLOUCESTER,Value,2019,28503.0,Normal Value
+2308,South West,GLOUCESTER,Value,2020,27491.0,Normal Value
+2309,South West,GLOUCESTER,Value,2021,27668.0,Normal Value
+2328,South West,MENDIP,Value,2016,27379.0,Normal Value
+2329,South West,MENDIP,Value,2017,27769.0,Normal Value
+2330,South West,MENDIP,Value,2018,30517.0,Normal Value
+2331,South West,MENDIP,Value,2019,29644.0,Normal Value
+2332,South West,MENDIP,Value,2020,29458.0,Normal Value
+2333,South West,MENDIP,Value,2021,28527.0,Normal Value
+2340,South West,MID DEVON,Value,2016,25618.0,Normal Value
+2341,South West,MID DEVON,Value,2017,27353.0,Normal Value
+2342,South West,MID DEVON,Value,2018,27961.0,Normal Value
+2343,South West,MID DEVON,Value,2019,27537.0,Normal Value
+2344,South West,MID DEVON,Value,2020,26961.0,Normal Value
+2345,South West,MID DEVON,Value,2021,27883.0,Normal Value
+2352,South West,NORTH DEVON,Value,2016,22554.0,Normal Value
+2354,South West,NORTH DEVON,Value,2018,23599.0,Normal Value
+2355,South West,NORTH DEVON,Value,2019,23932.0,Normal Value
+2356,South West,NORTH DEVON,Value,2020,24671.0,Normal Value
+2357,South West,NORTH DEVON,Value,2021,26106.0,Normal Value
+2364,South West,NORTH SOMERSET,Value,2016,30086.0,Normal Value
+2365,South West,NORTH SOMERSET,Value,2017,30944.0,Normal Value
+2366,South West,NORTH SOMERSET,Value,2018,30246.0,Normal Value
+2367,South West,NORTH SOMERSET,Value,2019,31067.0,Normal Value
+2368,South West,NORTH SOMERSET,Value,2020,34638.0,Normal Value
+2369,South West,NORTH SOMERSET,Value,2021,30359.0,Normal Value
+2376,South West,PLYMOUTH,Value,2016,24970.0,Normal Value
+2377,South West,PLYMOUTH,Value,2017,26979.0,Normal Value
+2378,South West,PLYMOUTH,Value,2018,27685.0,Normal Value
+2379,South West,PLYMOUTH,Value,2019,25837.0,Normal Value
+2380,South West,PLYMOUTH,Value,2020,28165.0,Normal Value
+2381,South West,PLYMOUTH,Value,2021,25903.0,Normal Value
+2388,South West,SEDGEMOOR,Value,2016,23390.0,Normal Value
+2389,South West,SEDGEMOOR,Value,2017,26166.0,Normal Value
+2390,South West,SEDGEMOOR,Value,2018,26981.0,Normal Value
+2391,South West,SEDGEMOOR,Value,2019,27468.0,Normal Value
+2392,South West,SEDGEMOOR,Value,2020,27702.0,Normal Value
+2393,South West,SEDGEMOOR,Value,2021,28048.0,Normal Value
+2402,South West,SOMERSET WEST AND TAUNTON,Value,2018,25834.0,Normal Value
+2403,South West,SOMERSET WEST AND TAUNTON,Value,2019,29657.0,Normal Value
+2404,South West,SOMERSET WEST AND TAUNTON,Value,2020,29072.0,Normal Value
+2405,South West,SOMERSET WEST AND TAUNTON,Value,2021,28672.0,Normal Value
+2412,South West,SOUTH GLOUCESTERSHIRE,Value,2016,29739.0,Normal Value
+2413,South West,SOUTH GLOUCESTERSHIRE,Value,2017,30238.0,Normal Value
+2414,South West,SOUTH GLOUCESTERSHIRE,Value,2018,30538.0,Normal Value
+2415,South West,SOUTH GLOUCESTERSHIRE,Value,2019,31636.0,Normal Value
+2416,South West,SOUTH GLOUCESTERSHIRE,Value,2020,31965.0,Normal Value
+2417,South West,SOUTH GLOUCESTERSHIRE,Value,2021,31714.0,Normal Value
+2424,South West,SOUTH HAMS,Value,2016,26413.0,Normal Value
+2425,South West,SOUTH HAMS,Value,2017,27275.0,Normal Value
+2426,South West,SOUTH HAMS,Value,2018,28182.0,Normal Value
+2427,South West,SOUTH HAMS,Value,2019,28448.0,Normal Value
+2428,South West,SOUTH HAMS,Value,2020,29781.0,Normal Value
+2429,South West,SOUTH HAMS,Value,2021,31341.0,Normal Value
+2436,South West,SOUTH SOMERSET,Value,2016,24148.0,Normal Value
+2437,South West,SOUTH SOMERSET,Value,2017,26186.0,Normal Value
+2438,South West,SOUTH SOMERSET,Value,2018,27406.0,Normal Value
+2439,South West,SOUTH SOMERSET,Value,2019,29460.0,Normal Value
+2440,South West,SOUTH SOMERSET,Value,2020,30901.0,Normal Value
+2441,South West,SOUTH SOMERSET,Value,2021,30108.0,Normal Value
+2448,South West,STROUD,Value,2016,26454.0,Normal Value
+2449,South West,STROUD,Value,2017,27821.0,Normal Value
+2450,South West,STROUD,Value,2018,28894.0,Normal Value
+2451,South West,STROUD,Value,2019,28308.0,Normal Value
+2452,South West,STROUD,Value,2020,31607.0,Normal Value
+2453,South West,STROUD,Value,2021,30183.0,Normal Value
+2460,South West,SWINDON,Value,2016,29248.0,Normal Value
+2461,South West,SWINDON,Value,2017,28736.0,Normal Value
+2462,South West,SWINDON,Value,2018,30018.0,Normal Value
+2463,South West,SWINDON,Value,2019,30659.0,Normal Value
+2464,South West,SWINDON,Value,2020,31912.0,Normal Value
+2465,South West,SWINDON,Value,2021,30662.0,Normal Value
+2472,South West,TEIGNBRIDGE,Value,2016,24931.0,Normal Value
+2473,South West,TEIGNBRIDGE,Value,2017,23401.0,Normal Value
+2474,South West,TEIGNBRIDGE,Value,2018,24516.0,Normal Value
+2475,South West,TEIGNBRIDGE,Value,2019,25304.0,Normal Value
+2476,South West,TEIGNBRIDGE,Value,2020,25136.0,Normal Value
+2477,South West,TEIGNBRIDGE,Value,2021,26930.0,Normal Value
+2485,South West,TEWKESBURY,Value,2017,31556.0,Normal Value
+2487,South West,TEWKESBURY,Value,2019,32222.0,Normal Value
+2488,South West,TEWKESBURY,Value,2020,34078.0,Normal Value
+2489,South West,TEWKESBURY,Value,2021,32608.0,Normal Value
+2496,South West,TORBAY,Value,2016,22412.0,Normal Value
+2497,South West,TORBAY,Value,2017,23878.0,Normal Value
+2498,South West,TORBAY,Value,2018,24232.0,Normal Value
+2499,South West,TORBAY,Value,2019,25912.0,Normal Value
+2500,South West,TORBAY,Value,2020,27029.0,Normal Value
+2501,South West,TORBAY,Value,2021,26416.0,Normal Value
+2508,South West,TORRIDGE,Value,2016,23211.0,Normal Value
+2509,South West,TORRIDGE,Value,2017,24710.0,Normal Value
+2510,South West,TORRIDGE,Value,2018,24136.0,Normal Value
+2511,South West,TORRIDGE,Value,2019,25101.0,Normal Value
+2512,South West,TORRIDGE,Value,2020,26932.0,Normal Value
+2513,South West,TORRIDGE,Value,2021,26537.0,Normal Value
+2520,South West,WEST DEVON,Value,2016,24492.0,Normal Value
+2521,South West,WEST DEVON,Value,2017,22757.0,Normal Value
+2522,South West,WEST DEVON,Value,2018,26619.0,Normal Value
+2523,South West,WEST DEVON,Value,2019,26346.0,Normal Value
+2524,South West,WEST DEVON,Value,2020,26500.0,Normal Value
+2525,South West,WEST DEVON,Value,2021,25588.0,Normal Value
+2532,South West,WILTSHIRE,Value,2016,26857.0,Normal Value
+2533,South West,WILTSHIRE,Value,2017,29132.0,Normal Value
+2534,South West,WILTSHIRE,Value,2018,29286.0,Normal Value
+2535,South West,WILTSHIRE,Value,2019,29894.0,Normal Value
+2536,South West,WILTSHIRE,Value,2020,31172.0,Normal Value
+2537,South West,WILTSHIRE,Value,2021,30399.0,Normal Value
+2544,South East,ADUR,Value,2016,24645.0,Normal Value
+2545,South East,ADUR,Value,2017,24527.0,Normal Value
+2546,South East,ADUR,Value,2018,26771.0,Normal Value
+2547,South East,ADUR,Value,2019,27919.0,Normal Value
+2548,South East,ADUR,Value,2020,30250.0,Normal Value
+2556,South East,ARUN,Value,2016,26109.0,Normal Value
+2557,South East,ARUN,Value,2017,26535.0,Normal Value
+2558,South East,ARUN,Value,2018,27914.0,Normal Value
+2559,South East,ARUN,Value,2019,25770.0,Normal Value
+2560,South East,ARUN,Value,2020,28876.0,Normal Value
+2561,South East,ARUN,Value,2021,28733.0,Normal Value
+2568,South East,ASHFORD,Value,2016,27751.0,Normal Value
+2569,South East,ASHFORD,Value,2017,29135.0,Normal Value
+2570,South East,ASHFORD,Value,2018,30198.0,Normal Value
+2571,South East,ASHFORD,Value,2019,31385.0,Normal Value
+2572,South East,ASHFORD,Value,2020,30198.0,Normal Value
+2573,South East,ASHFORD,Value,2021,29417.0,Normal Value
+2580,South East,BASINGSTOKE AND DEANE,Value,2016,33485.0,Normal Value
+2581,South East,BASINGSTOKE AND DEANE,Value,2017,33749.0,Normal Value
+2582,South East,BASINGSTOKE AND DEANE,Value,2018,33337.0,Normal Value
+2583,South East,BASINGSTOKE AND DEANE,Value,2019,36127.0,Normal Value
+2584,South East,BASINGSTOKE AND DEANE,Value,2020,36588.0,Normal Value
+2585,South East,BASINGSTOKE AND DEANE,Value,2021,36817.0,Normal Value
+2592,South East,BRACKNELL FOREST,Value,2016,30968.0,Normal Value
+2593,South East,BRACKNELL FOREST,Value,2017,33054.0,Normal Value
+2594,South East,BRACKNELL FOREST,Value,2018,31651.0,Normal Value
+2595,South East,BRACKNELL FOREST,Value,2019,35121.0,Normal Value
+2596,South East,BRACKNELL FOREST,Value,2020,36700.0,Normal Value
+2597,South East,BRACKNELL FOREST,Value,2021,37296.0,Normal Value
+2604,South East,BRIGHTON AND HOVE,Value,2016,30348.0,Normal Value
+2605,South East,BRIGHTON AND HOVE,Value,2017,30250.0,Normal Value
+2606,South East,BRIGHTON AND HOVE,Value,2018,30061.0,Normal Value
+2607,South East,BRIGHTON AND HOVE,Value,2019,31988.0,Normal Value
+2608,South East,BRIGHTON AND HOVE,Value,2020,33848.0,Normal Value
+2609,South East,BRIGHTON AND HOVE,Value,2021,32816.0,Normal Value
+2616,South East,BUCKINGHAMSHIRE,Value,2016,32663.0,Normal Value
+2617,South East,BUCKINGHAMSHIRE,Value,2017,34616.0,Normal Value
+2618,South East,BUCKINGHAMSHIRE,Value,2018,35135.0,Normal Value
+2619,South East,BUCKINGHAMSHIRE,Value,2019,35340.0,Normal Value
+2620,South East,BUCKINGHAMSHIRE,Value,2020,36349.0,Normal Value
+2621,South East,BUCKINGHAMSHIRE,Value,2021,35273.0,Normal Value
+2628,South East,CANTERBURY,Value,2016,28517.0,Normal Value
+2629,South East,CANTERBURY,Value,2017,32473.0,Normal Value
+2630,South East,CANTERBURY,Value,2018,30640.0,Normal Value
+2631,South East,CANTERBURY,Value,2019,34618.0,Normal Value
+2632,South East,CANTERBURY,Value,2020,30372.0,Normal Value
+2633,South East,CANTERBURY,Value,2021,30242.0,Normal Value
+2640,South East,CHERWELL,Value,2016,31184.0,Normal Value
+2642,South East,CHERWELL,Value,2018,31744.0,Normal Value
+2643,South East,CHERWELL,Value,2019,31012.0,Normal Value
+2644,South East,CHERWELL,Value,2020,33235.0,Normal Value
+2645,South East,CHERWELL,Value,2021,34278.0,Normal Value
+2652,South East,CHICHESTER,Value,2016,30244.0,Normal Value
+2653,South East,CHICHESTER,Value,2017,30676.0,Normal Value
+2654,South East,CHICHESTER,Value,2018,31356.0,Normal Value
+2655,South East,CHICHESTER,Value,2019,34273.0,Normal Value
+2656,South East,CHICHESTER,Value,2020,29953.0,Normal Value
+2657,South East,CHICHESTER,Value,2021,30000.0,Normal Value
+2664,South East,CRAWLEY,Value,2016,29626.0,Normal Value
+2665,South East,CRAWLEY,Value,2017,28009.0,Normal Value
+2666,South East,CRAWLEY,Value,2018,28066.0,Normal Value
+2667,South East,CRAWLEY,Value,2019,29388.0,Normal Value
+2668,South East,CRAWLEY,Value,2020,31493.0,Normal Value
+2669,South East,CRAWLEY,Value,2021,31335.0,Normal Value
+2676,South East,DARTFORD,Value,2016,32192.0,Normal Value
+2677,South East,DARTFORD,Value,2017,32836.0,Normal Value
+2678,South East,DARTFORD,Value,2018,34560.0,Normal Value
+2680,South East,DARTFORD,Value,2020,37970.0,Normal Value
+2681,South East,DARTFORD,Value,2021,34156.0,Normal Value
+2688,South East,DOVER,Value,2016,25126.0,Normal Value
+2689,South East,DOVER,Value,2017,25580.0,Normal Value
+2690,South East,DOVER,Value,2018,28882.0,Normal Value
+2691,South East,DOVER,Value,2019,30977.0,Normal Value
+2692,South East,DOVER,Value,2020,34496.0,Normal Value
+2693,South East,DOVER,Value,2021,30282.0,Normal Value
+2700,South East,EAST HAMPSHIRE,Value,2016,32054.0,Normal Value
+2701,South East,EAST HAMPSHIRE,Value,2017,34936.0,Normal Value
+2702,South East,EAST HAMPSHIRE,Value,2018,35552.0,Normal Value
+2703,South East,EAST HAMPSHIRE,Value,2019,35756.0,Normal Value
+2704,South East,EAST HAMPSHIRE,Value,2020,35802.0,Normal Value
+2705,South East,EAST HAMPSHIRE,Value,2021,33802.0,Normal Value
+2712,South East,EASTBOURNE,Value,2016,25224.0,Normal Value
+2713,South East,EASTBOURNE,Value,2017,26815.0,Normal Value
+2714,South East,EASTBOURNE,Value,2018,29498.0,Normal Value
+2715,South East,EASTBOURNE,Value,2019,29311.0,Normal Value
+2716,South East,EASTBOURNE,Value,2020,31417.0,Normal Value
+2717,South East,EASTBOURNE,Value,2021,28864.0,Normal Value
+2724,South East,EASTLEIGH,Value,2016,29658.0,Normal Value
+2725,South East,EASTLEIGH,Value,2017,30671.0,Normal Value
+2726,South East,EASTLEIGH,Value,2018,29959.0,Normal Value
+2727,South East,EASTLEIGH,Value,2019,30434.0,Normal Value
+2728,South East,EASTLEIGH,Value,2020,34938.0,Normal Value
+2729,South East,EASTLEIGH,Value,2021,34870.0,Normal Value
+2736,South East,ELMBRIDGE,Value,2016,37997.0,Normal Value
+2737,South East,ELMBRIDGE,Value,2017,38230.0,Normal Value
+2738,South East,ELMBRIDGE,Value,2018,42311.0,Normal Value
+2739,South East,ELMBRIDGE,Value,2019,43110.0,Normal Value
+2740,South East,ELMBRIDGE,Value,2020,41613.0,Normal Value
+2741,South East,ELMBRIDGE,Value,2021,41943.0,Normal Value
+2748,South East,EPSOM AND EWELL,Value,2016,34669.0,Normal Value
+2749,South East,EPSOM AND EWELL,Value,2017,36148.0,Normal Value
+2750,South East,EPSOM AND EWELL,Value,2018,36071.0,Normal Value
+2751,South East,EPSOM AND EWELL,Value,2019,37624.0,Normal Value
+2752,South East,EPSOM AND EWELL,Value,2020,36579.0,Normal Value
+2753,South East,EPSOM AND EWELL,Value,2021,35293.0,Normal Value
+2760,South East,FAREHAM,Value,2016,29464.0,Normal Value
+2761,South East,FAREHAM,Value,2017,30969.0,Normal Value
+2762,South East,FAREHAM,Value,2018,31230.0,Normal Value
+2764,South East,FAREHAM,Value,2020,32949.0,Normal Value
+2765,South East,FAREHAM,Value,2021,36852.0,Normal Value
+2772,South East,FOLKESTONE AND HYTHE,Value,2016,24503.0,Normal Value
+2773,South East,FOLKESTONE AND HYTHE,Value,2017,27374.0,Normal Value
+2774,South East,FOLKESTONE AND HYTHE,Value,2018,27247.0,Normal Value
+2775,South East,FOLKESTONE AND HYTHE,Value,2019,29669.0,Normal Value
+2776,South East,FOLKESTONE AND HYTHE,Value,2020,30893.0,Normal Value
+2777,South East,FOLKESTONE AND HYTHE,Value,2021,31946.0,Normal Value
+2784,South East,GOSPORT,Value,2016,27129.0,Normal Value
+2785,South East,GOSPORT,Value,2017,28134.0,Normal Value
+2786,South East,GOSPORT,Value,2018,27769.0,Normal Value
+2787,South East,GOSPORT,Value,2019,28783.0,Normal Value
+2788,South East,GOSPORT,Value,2020,30127.0,Normal Value
+2789,South East,GOSPORT,Value,2021,31495.0,Normal Value
+2796,South East,GRAVESHAM,Value,2016,29668.0,Normal Value
+2797,South East,GRAVESHAM,Value,2017,28945.0,Normal Value
+2798,South East,GRAVESHAM,Value,2018,30447.0,Normal Value
+2799,South East,GRAVESHAM,Value,2019,32577.0,Normal Value
+2800,South East,GRAVESHAM,Value,2020,29748.0,Normal Value
+2801,South East,GRAVESHAM,Value,2021,31314.0,Normal Value
+2808,South East,GUILDFORD,Value,2016,34883.0,Normal Value
+2809,South East,GUILDFORD,Value,2017,36626.0,Normal Value
+2810,South East,GUILDFORD,Value,2018,37895.0,Normal Value
+2811,South East,GUILDFORD,Value,2019,38365.0,Normal Value
+2812,South East,GUILDFORD,Value,2020,40435.0,Normal Value
+2813,South East,GUILDFORD,Value,2021,40401.0,Normal Value
+2820,South East,HART,Value,2016,35303.0,Normal Value
+2821,South East,HART,Value,2017,37801.0,Normal Value
+2822,South East,HART,Value,2018,37080.0,Normal Value
+2824,South East,HART,Value,2020,41311.0,Normal Value
+2825,South East,HART,Value,2021,40172.0,Normal Value
+2832,South East,HASTINGS,Value,2016,23722.0,Normal Value
+2833,South East,HASTINGS,Value,2017,23741.0,Normal Value
+2834,South East,HASTINGS,Value,2018,23725.0,Normal Value
+2835,South East,HASTINGS,Value,2019,24672.0,Normal Value
+2836,South East,HASTINGS,Value,2020,25845.0,Normal Value
+2837,South East,HASTINGS,Value,2021,26450.0,Normal Value
+2844,South East,HAVANT,Value,2016,27340.0,Normal Value
+2845,South East,HAVANT,Value,2017,29190.0,Normal Value
+2846,South East,HAVANT,Value,2018,29317.0,Normal Value
+2847,South East,HAVANT,Value,2019,29861.0,Normal Value
+2848,South East,HAVANT,Value,2020,29854.0,Normal Value
+2849,South East,HAVANT,Value,2021,29041.0,Normal Value
+2856,South East,HORSHAM,Value,2016,33430.0,Normal Value
+2857,South East,HORSHAM,Value,2017,32908.0,Normal Value
+2858,South East,HORSHAM,Value,2018,34111.0,Normal Value
+2859,South East,HORSHAM,Value,2019,34303.0,Normal Value
+2860,South East,HORSHAM,Value,2020,34266.0,Normal Value
+2861,South East,HORSHAM,Value,2021,35198.0,Normal Value
+2868,South East,ISLE OF WIGHT,Value,2016,25278.0,Normal Value
+2869,South East,ISLE OF WIGHT,Value,2017,26137.0,Normal Value
+2870,South East,ISLE OF WIGHT,Value,2018,25489.0,Normal Value
+2871,South East,ISLE OF WIGHT,Value,2019,26168.0,Normal Value
+2872,South East,ISLE OF WIGHT,Value,2020,28498.0,Normal Value
+2873,South East,ISLE OF WIGHT,Value,2021,27374.0,Normal Value
+2880,South East,LEWES,Value,2016,29479.0,Normal Value
+2881,South East,LEWES,Value,2017,32102.0,Normal Value
+2882,South East,LEWES,Value,2018,28661.0,Normal Value
+2883,South East,LEWES,Value,2019,32838.0,Normal Value
+2884,South East,LEWES,Value,2020,31443.0,Normal Value
+2885,South East,LEWES,Value,2021,34195.0,Normal Value
+2892,South East,MAIDSTONE,Value,2016,29634.0,Normal Value
+2893,South East,MAIDSTONE,Value,2017,29964.0,Normal Value
+2894,South East,MAIDSTONE,Value,2018,29987.0,Normal Value
+2895,South East,MAIDSTONE,Value,2019,30746.0,Normal Value
+2896,South East,MAIDSTONE,Value,2020,32404.0,Normal Value
+2897,South East,MAIDSTONE,Value,2021,32000.0,Normal Value
+2904,South East,MEDWAY,Value,2016,29244.0,Normal Value
+2905,South East,MEDWAY,Value,2017,30365.0,Normal Value
+2906,South East,MEDWAY,Value,2018,30514.0,Normal Value
+2907,South East,MEDWAY,Value,2019,31382.0,Normal Value
+2908,South East,MEDWAY,Value,2020,33266.0,Normal Value
+2909,South East,MEDWAY,Value,2021,30981.0,Normal Value
+2916,South East,MID SUSSEX,Value,2016,33088.0,Normal Value
+2918,South East,MID SUSSEX,Value,2018,36107.0,Normal Value
+2919,South East,MID SUSSEX,Value,2019,35425.0,Normal Value
+2920,South East,MID SUSSEX,Value,2020,36721.0,Normal Value
+2921,South East,MID SUSSEX,Value,2021,35136.0,Normal Value
+2928,South East,MILTON KEYNES,Value,2016,29118.0,Normal Value
+2929,South East,MILTON KEYNES,Value,2017,31436.0,Normal Value
+2930,South East,MILTON KEYNES,Value,2018,30162.0,Normal Value
+2931,South East,MILTON KEYNES,Value,2019,32270.0,Normal Value
+2932,South East,MILTON KEYNES,Value,2020,33256.0,Normal Value
+2933,South East,MILTON KEYNES,Value,2021,33927.0,Normal Value
+2941,South East,MOLE VALLEY,Value,2017,34675.0,Normal Value
+2942,South East,MOLE VALLEY,Value,2018,31383.0,Normal Value
+2943,South East,MOLE VALLEY,Value,2019,31897.0,Normal Value
+2944,South East,MOLE VALLEY,Value,2020,30680.0,Normal Value
+2945,South East,MOLE VALLEY,Value,2021,38810.0,Normal Value
+2952,South East,NEW FOREST,Value,2016,29545.0,Normal Value
+2953,South East,NEW FOREST,Value,2017,30545.0,Normal Value
+2954,South East,NEW FOREST,Value,2018,30144.0,Normal Value
+2955,South East,NEW FOREST,Value,2019,31145.0,Normal Value
+2956,South East,NEW FOREST,Value,2020,33676.0,Normal Value
+2957,South East,NEW FOREST,Value,2021,32425.0,Normal Value
+2964,South East,OXFORD,Value,2016,29753.0,Normal Value
+2965,South East,OXFORD,Value,2017,32486.0,Normal Value
+2966,South East,OXFORD,Value,2018,33779.0,Normal Value
+2967,South East,OXFORD,Value,2019,31558.0,Normal Value
+2968,South East,OXFORD,Value,2020,34053.0,Normal Value
+2969,South East,OXFORD,Value,2021,34896.0,Normal Value
+2976,South East,PORTSMOUTH,Value,2016,25861.0,Normal Value
+2977,South East,PORTSMOUTH,Value,2017,26655.0,Normal Value
+2978,South East,PORTSMOUTH,Value,2018,27402.0,Normal Value
+2979,South East,PORTSMOUTH,Value,2019,28569.0,Normal Value
+2980,South East,PORTSMOUTH,Value,2020,27197.0,Normal Value
+2981,South East,PORTSMOUTH,Value,2021,28827.0,Normal Value
+2988,South East,READING,Value,2016,31237.0,Normal Value
+2989,South East,READING,Value,2017,32234.0,Normal Value
+2990,South East,READING,Value,2018,33270.0,Normal Value
+2991,South East,READING,Value,2019,32812.0,Normal Value
+2992,South East,READING,Value,2020,33032.0,Normal Value
+2993,South East,READING,Value,2021,36500.0,Normal Value
+3000,South East,REIGATE AND BANSTEAD,Value,2016,32538.0,Normal Value
+3001,South East,REIGATE AND BANSTEAD,Value,2017,34095.0,Normal Value
+3002,South East,REIGATE AND BANSTEAD,Value,2018,37400.0,Normal Value
+3003,South East,REIGATE AND BANSTEAD,Value,2019,38369.0,Normal Value
+3004,South East,REIGATE AND BANSTEAD,Value,2020,39968.0,Normal Value
+3005,South East,REIGATE AND BANSTEAD,Value,2021,37684.0,Normal Value
+3012,South East,ROTHER,Value,2016,26702.0,Normal Value
+3014,South East,ROTHER,Value,2018,27582.0,Normal Value
+3015,South East,ROTHER,Value,2019,29128.0,Normal Value
+3016,South East,ROTHER,Value,2020,29154.0,Normal Value
+3017,South East,ROTHER,Value,2021,30094.0,Normal Value
+3024,South East,RUNNYMEDE,Value,2016,31163.0,Normal Value
+3025,South East,RUNNYMEDE,Value,2017,32919.0,Normal Value
+3026,South East,RUNNYMEDE,Value,2018,31712.0,Normal Value
+3027,South East,RUNNYMEDE,Value,2019,38899.0,Normal Value
+3028,South East,RUNNYMEDE,Value,2020,34112.0,Normal Value
+3029,South East,RUNNYMEDE,Value,2021,36627.0,Normal Value
+3036,South East,RUSHMOOR,Value,2016,28797.0,Normal Value
+3037,South East,RUSHMOOR,Value,2017,29468.0,Normal Value
+3038,South East,RUSHMOOR,Value,2018,32466.0,Normal Value
+3039,South East,RUSHMOOR,Value,2019,32083.0,Normal Value
+3040,South East,RUSHMOOR,Value,2020,35237.0,Normal Value
+3041,South East,RUSHMOOR,Value,2021,35076.0,Normal Value
+3048,South East,SEVENOAKS,Value,2016,30907.0,Normal Value
+3049,South East,SEVENOAKS,Value,2017,33182.0,Normal Value
+3050,South East,SEVENOAKS,Value,2018,31788.0,Normal Value
+3051,South East,SEVENOAKS,Value,2019,37470.0,Normal Value
+3052,South East,SEVENOAKS,Value,2020,37186.0,Normal Value
+3053,South East,SEVENOAKS,Value,2021,38798.0,Normal Value
+3060,South East,SLOUGH,Value,2016,28276.0,Normal Value
+3061,South East,SLOUGH,Value,2017,28651.0,Normal Value
+3062,South East,SLOUGH,Value,2018,31338.0,Normal Value
+3063,South East,SLOUGH,Value,2019,31990.0,Normal Value
+3064,South East,SLOUGH,Value,2020,32717.0,Normal Value
+3065,South East,SLOUGH,Value,2021,34371.0,Normal Value
+3072,South East,SOUTH OXFORDSHIRE,Value,2016,34257.0,Normal Value
+3073,South East,SOUTH OXFORDSHIRE,Value,2017,36910.0,Normal Value
+3074,South East,SOUTH OXFORDSHIRE,Value,2018,37318.0,Normal Value
+3075,South East,SOUTH OXFORDSHIRE,Value,2019,38925.0,Normal Value
+3076,South East,SOUTH OXFORDSHIRE,Value,2020,38600.0,Normal Value
+3077,South East,SOUTH OXFORDSHIRE,Value,2021,36732.0,Normal Value
+3084,South East,SOUTHAMPTON,Value,2016,26448.0,Normal Value
+3085,South East,SOUTHAMPTON,Value,2017,27430.0,Normal Value
+3086,South East,SOUTHAMPTON,Value,2018,26472.0,Normal Value
+3087,South East,SOUTHAMPTON,Value,2019,28665.0,Normal Value
+3088,South East,SOUTHAMPTON,Value,2020,29926.0,Normal Value
+3089,South East,SOUTHAMPTON,Value,2021,30615.0,Normal Value
+3096,South East,SPELTHORNE,Value,2016,34997.0,Normal Value
+3097,South East,SPELTHORNE,Value,2017,35250.0,Normal Value
+3098,South East,SPELTHORNE,Value,2018,34741.0,Normal Value
+3099,South East,SPELTHORNE,Value,2019,33591.0,Normal Value
+3100,South East,SPELTHORNE,Value,2020,34768.0,Normal Value
+3101,South East,SPELTHORNE,Value,2021,38832.0,Normal Value
+3108,South East,SURREY HEATH,Value,2016,35928.0,Normal Value
+3109,South East,SURREY HEATH,Value,2017,38979.0,Normal Value
+3110,South East,SURREY HEATH,Value,2018,39847.0,Normal Value
+3111,South East,SURREY HEATH,Value,2019,37636.0,Normal Value
+3112,South East,SURREY HEATH,Value,2020,39555.0,Normal Value
+3113,South East,SURREY HEATH,Value,2021,42219.0,Normal Value
+3120,South East,SWALE,Value,2016,27483.0,Normal Value
+3121,South East,SWALE,Value,2017,29766.0,Normal Value
+3122,South East,SWALE,Value,2018,30872.0,Normal Value
+3123,South East,SWALE,Value,2019,31281.0,Normal Value
+3124,South East,SWALE,Value,2020,31965.0,Normal Value
+3125,South East,SWALE,Value,2021,31586.0,Normal Value
+3132,South East,TANDRIDGE,Value,2016,34021.0,Normal Value
+3133,South East,TANDRIDGE,Value,2017,33602.0,Normal Value
+3134,South East,TANDRIDGE,Value,2018,35817.0,Normal Value
+3135,South East,TANDRIDGE,Value,2019,36113.0,Normal Value
+3136,South East,TANDRIDGE,Value,2020,37609.0,Normal Value
+3137,South East,TANDRIDGE,Value,2021,38435.0,Normal Value
+3144,South East,TEST VALLEY,Value,2016,32175.0,Normal Value
+3145,South East,TEST VALLEY,Value,2017,34501.0,Normal Value
+3146,South East,TEST VALLEY,Value,2018,33371.0,Normal Value
+3147,South East,TEST VALLEY,Value,2019,33677.0,Normal Value
+3148,South East,TEST VALLEY,Value,2020,35090.0,Normal Value
+3149,South East,TEST VALLEY,Value,2021,33186.0,Normal Value
+3156,South East,THANET,Value,2016,24113.0,Normal Value
+3157,South East,THANET,Value,2017,24919.0,Normal Value
+3158,South East,THANET,Value,2018,24303.0,Normal Value
+3159,South East,THANET,Value,2019,26381.0,Normal Value
+3160,South East,THANET,Value,2020,26864.0,Normal Value
+3161,South East,THANET,Value,2021,28176.0,Normal Value
+3168,South East,TONBRIDGE AND MALLING,Value,2016,33490.0,Normal Value
+3169,South East,TONBRIDGE AND MALLING,Value,2017,33864.0,Normal Value
+3170,South East,TONBRIDGE AND MALLING,Value,2018,35113.0,Normal Value
+3171,South East,TONBRIDGE AND MALLING,Value,2019,36248.0,Normal Value
+3173,South East,TONBRIDGE AND MALLING,Value,2021,36416.0,Normal Value
+3180,South East,TUNBRIDGE WELLS,Value,2016,30000.0,Normal Value
+3181,South East,TUNBRIDGE WELLS,Value,2017,31150.0,Normal Value
+3182,South East,TUNBRIDGE WELLS,Value,2018,35883.0,Normal Value
+3183,South East,TUNBRIDGE WELLS,Value,2019,37345.0,Normal Value
+3184,South East,TUNBRIDGE WELLS,Value,2020,43112.0,Normal Value
+3185,South East,TUNBRIDGE WELLS,Value,2021,35735.0,Normal Value
+3192,South East,VALE OF WHITE HORSE,Value,2016,33401.0,Normal Value
+3193,South East,VALE OF WHITE HORSE,Value,2017,35030.0,Normal Value
+3194,South East,VALE OF WHITE HORSE,Value,2018,36922.0,Normal Value
+3195,South East,VALE OF WHITE HORSE,Value,2019,37873.0,Normal Value
+3196,South East,VALE OF WHITE HORSE,Value,2020,37748.0,Normal Value
+3197,South East,VALE OF WHITE HORSE,Value,2021,35375.0,Normal Value
+3204,South East,WAVERLEY,Value,2016,40223.0,Normal Value
+3205,South East,WAVERLEY,Value,2017,39139.0,Normal Value
+3206,South East,WAVERLEY,Value,2018,40374.0,Normal Value
+3207,South East,WAVERLEY,Value,2019,40083.0,Normal Value
+3208,South East,WAVERLEY,Value,2020,41159.0,Normal Value
+3209,South East,WAVERLEY,Value,2021,41377.0,Normal Value
+3216,South East,WEALDEN,Value,2016,30305.0,Normal Value
+3217,South East,WEALDEN,Value,2017,31226.0,Normal Value
+3218,South East,WEALDEN,Value,2018,30274.0,Normal Value
+3219,South East,WEALDEN,Value,2019,31221.0,Normal Value
+3220,South East,WEALDEN,Value,2020,34654.0,Normal Value
+3221,South East,WEALDEN,Value,2021,31090.0,Normal Value
+3228,South East,WEST BERKSHIRE,Value,2016,33537.0,Normal Value
+3229,South East,WEST BERKSHIRE,Value,2017,33167.0,Normal Value
+3230,South East,WEST BERKSHIRE,Value,2018,32520.0,Normal Value
+3231,South East,WEST BERKSHIRE,Value,2019,36320.0,Normal Value
+3232,South East,WEST BERKSHIRE,Value,2020,35113.0,Normal Value
+3233,South East,WEST BERKSHIRE,Value,2021,34724.0,Normal Value
+3240,South East,WEST OXFORDSHIRE,Value,2016,31266.0,Normal Value
+3241,South East,WEST OXFORDSHIRE,Value,2017,31067.0,Normal Value
+3242,South East,WEST OXFORDSHIRE,Value,2018,34370.0,Normal Value
+3243,South East,WEST OXFORDSHIRE,Value,2019,34851.0,Normal Value
+3244,South East,WEST OXFORDSHIRE,Value,2020,33527.0,Normal Value
+3245,South East,WEST OXFORDSHIRE,Value,2021,32028.0,Normal Value
+3252,South East,WINCHESTER,Value,2016,36313.0,Normal Value
+3253,South East,WINCHESTER,Value,2017,36012.0,Normal Value
+3254,South East,WINCHESTER,Value,2018,39593.0,Normal Value
+3255,South East,WINCHESTER,Value,2019,37664.0,Normal Value
+3256,South East,WINCHESTER,Value,2020,35605.0,Normal Value
+3257,South East,WINCHESTER,Value,2021,37203.0,Normal Value
+3264,South East,WINDSOR AND MAIDENHEAD,Value,2016,37818.0,Normal Value
+3265,South East,WINDSOR AND MAIDENHEAD,Value,2017,38986.0,Normal Value
+3266,South East,WINDSOR AND MAIDENHEAD,Value,2018,39046.0,Normal Value
+3268,South East,WINDSOR AND MAIDENHEAD,Value,2020,41320.0,Normal Value
+3269,South East,WINDSOR AND MAIDENHEAD,Value,2021,38913.0,Normal Value
+3276,South East,WOKING,Value,2016,35063.0,Normal Value
+3277,South East,WOKING,Value,2017,36134.0,Normal Value
+3278,South East,WOKING,Value,2018,35170.0,Normal Value
+3280,South East,WOKING,Value,2020,40230.0,Normal Value
+3281,South East,WOKING,Value,2021,37142.0,Normal Value
+3289,South East,WOKINGHAM,Value,2017,36867.0,Normal Value
+3290,South East,WOKINGHAM,Value,2018,40392.0,Normal Value
+3291,South East,WOKINGHAM,Value,2019,37898.0,Normal Value
+3292,South East,WOKINGHAM,Value,2020,38261.0,Normal Value
+3293,South East,WOKINGHAM,Value,2021,38459.0,Normal Value
+3300,South East,WORTHING,Value,2016,28061.0,Normal Value
+3301,South East,WORTHING,Value,2017,26460.0,Normal Value
+3302,South East,WORTHING,Value,2018,28578.0,Normal Value
+3303,South East,WORTHING,Value,2019,29668.0,Normal Value
+3304,South East,WORTHING,Value,2020,29374.0,Normal Value
+3305,South East,WORTHING,Value,2021,30358.0,Normal Value
+3312,London,BARKING AND DAGENHAM,Value,2016,28012.0,Normal Value
+3313,London,BARKING AND DAGENHAM,Value,2017,30200.0,Normal Value
+3314,London,BARKING AND DAGENHAM,Value,2018,29313.0,Normal Value
+3315,London,BARKING AND DAGENHAM,Value,2019,29363.0,Normal Value
+3316,London,BARKING AND DAGENHAM,Value,2020,32852.0,Normal Value
+3317,London,BARKING AND DAGENHAM,Value,2021,32931.0,Normal Value
+3324,London,BARNET,Value,2016,33443.0,Normal Value
+3325,London,BARNET,Value,2017,37340.0,Normal Value
+3326,London,BARNET,Value,2018,35645.0,Normal Value
+3327,London,BARNET,Value,2019,36292.0,Normal Value
+3328,London,BARNET,Value,2020,36411.0,Normal Value
+3329,London,BARNET,Value,2021,35716.0,Normal Value
+3336,London,BEXLEY,Value,2016,34109.0,Normal Value
+3337,London,BEXLEY,Value,2017,33453.0,Normal Value
+3338,London,BEXLEY,Value,2018,34857.0,Normal Value
+3339,London,BEXLEY,Value,2019,36932.0,Normal Value
+3340,London,BEXLEY,Value,2020,39912.0,Normal Value
+3341,London,BEXLEY,Value,2021,37572.0,Normal Value
+3348,London,BRENT,Value,2016,29589.0,Normal Value
+3349,London,BRENT,Value,2017,30347.0,Normal Value
+3350,London,BRENT,Value,2018,30335.0,Normal Value
+3351,London,BRENT,Value,2019,31746.0,Normal Value
+3352,London,BRENT,Value,2020,34172.0,Normal Value
+3353,London,BRENT,Value,2021,33805.0,Normal Value
+3360,London,BROMLEY,Value,2016,37657.0,Normal Value
+3361,London,BROMLEY,Value,2017,40184.0,Normal Value
+3362,London,BROMLEY,Value,2018,40000.0,Normal Value
+3363,London,BROMLEY,Value,2019,41008.0,Normal Value
+3364,London,BROMLEY,Value,2020,43704.0,Normal Value
+3365,London,BROMLEY,Value,2021,41170.0,Normal Value
+3372,London,CAMDEN,Value,2016,39810.0,Normal Value
+3373,London,CAMDEN,Value,2017,39537.0,Normal Value
+3374,London,CAMDEN,Value,2018,41691.0,Normal Value
+3375,London,CAMDEN,Value,2019,42416.0,Normal Value
+3376,London,CAMDEN,Value,2020,41848.0,Normal Value
+3377,London,CAMDEN,Value,2021,39994.0,Normal Value
+3396,London,CROYDON,Value,2016,32523.0,Normal Value
+3397,London,CROYDON,Value,2017,33541.0,Normal Value
+3398,London,CROYDON,Value,2018,35861.0,Normal Value
+3399,London,CROYDON,Value,2019,35172.0,Normal Value
+3400,London,CROYDON,Value,2020,37570.0,Normal Value
+3401,London,CROYDON,Value,2021,36347.0,Normal Value
+3408,London,EALING,Value,2016,31237.0,Normal Value
+3409,London,EALING,Value,2017,32929.0,Normal Value
+3410,London,EALING,Value,2018,33019.0,Normal Value
+3411,London,EALING,Value,2019,31769.0,Normal Value
+3412,London,EALING,Value,2020,36482.0,Normal Value
+3413,London,EALING,Value,2021,34190.0,Normal Value
+3420,London,ENFIELD,Value,2016,30843.0,Normal Value
+3421,London,ENFIELD,Value,2017,30920.0,Normal Value
+3422,London,ENFIELD,Value,2018,30919.0,Normal Value
+3423,London,ENFIELD,Value,2019,32997.0,Normal Value
+3424,London,ENFIELD,Value,2020,33088.0,Normal Value
+3425,London,ENFIELD,Value,2021,35586.0,Normal Value
+3432,London,GREENWICH,Value,2016,32433.0,Normal Value
+3433,London,GREENWICH,Value,2017,33145.0,Normal Value
+3434,London,GREENWICH,Value,2018,35988.0,Normal Value
+3435,London,GREENWICH,Value,2019,35953.0,Normal Value
+3436,London,GREENWICH,Value,2020,36670.0,Normal Value
+3437,London,GREENWICH,Value,2021,35598.0,Normal Value
+3444,London,HACKNEY,Value,2016,32211.0,Normal Value
+3445,London,HACKNEY,Value,2017,34816.0,Normal Value
+3446,London,HACKNEY,Value,2018,33652.0,Normal Value
+3447,London,HACKNEY,Value,2019,35974.0,Normal Value
+3448,London,HACKNEY,Value,2020,37440.0,Normal Value
+3449,London,HACKNEY,Value,2021,36351.0,Normal Value
+3456,London,HAMMERSMITH AND FULHAM,Value,2016,38009.0,Normal Value
+3457,London,HAMMERSMITH AND FULHAM,Value,2017,40092.0,Normal Value
+3458,London,HAMMERSMITH AND FULHAM,Value,2018,39420.0,Normal Value
+3459,London,HAMMERSMITH AND FULHAM,Value,2019,42104.0,Normal Value
+3460,London,HAMMERSMITH AND FULHAM,Value,2020,41267.0,Normal Value
+3461,London,HAMMERSMITH AND FULHAM,Value,2021,39430.0,Normal Value
+3468,London,HARINGEY,Value,2016,30754.0,Normal Value
+3469,London,HARINGEY,Value,2017,32965.0,Normal Value
+3470,London,HARINGEY,Value,2018,33254.0,Normal Value
+3471,London,HARINGEY,Value,2019,35757.0,Normal Value
+3472,London,HARINGEY,Value,2020,35653.0,Normal Value
+3473,London,HARINGEY,Value,2021,35963.0,Normal Value
+3480,London,HARROW,Value,2016,33400.0,Normal Value
+3481,London,HARROW,Value,2017,34219.0,Normal Value
+3482,London,HARROW,Value,2018,35000.0,Normal Value
+3483,London,HARROW,Value,2019,35325.0,Normal Value
+3484,London,HARROW,Value,2020,38347.0,Normal Value
+3485,London,HARROW,Value,2021,38827.0,Normal Value
+3492,London,HAVERING,Value,2016,33234.0,Normal Value
+3493,London,HAVERING,Value,2017,32986.0,Normal Value
+3494,London,HAVERING,Value,2018,34145.0,Normal Value
+3495,London,HAVERING,Value,2019,33892.0,Normal Value
+3496,London,HAVERING,Value,2020,36017.0,Normal Value
+3497,London,HAVERING,Value,2021,35885.0,Normal Value
+3504,London,HILLINGDON,Value,2016,33500.0,Normal Value
+3505,London,HILLINGDON,Value,2017,31618.0,Normal Value
+3506,London,HILLINGDON,Value,2018,30605.0,Normal Value
+3507,London,HILLINGDON,Value,2019,31340.0,Normal Value
+3508,London,HILLINGDON,Value,2020,35155.0,Normal Value
+3509,London,HILLINGDON,Value,2021,35695.0,Normal Value
+3516,London,HOUNSLOW,Value,2016,30901.0,Normal Value
+3517,London,HOUNSLOW,Value,2017,31792.0,Normal Value
+3518,London,HOUNSLOW,Value,2018,32162.0,Normal Value
+3519,London,HOUNSLOW,Value,2019,34682.0,Normal Value
+3520,London,HOUNSLOW,Value,2020,34804.0,Normal Value
+3521,London,HOUNSLOW,Value,2021,32516.0,Normal Value
+3528,London,ISLINGTON,Value,2016,36635.0,Normal Value
+3529,London,ISLINGTON,Value,2017,37972.0,Normal Value
+3530,London,ISLINGTON,Value,2018,45000.0,Normal Value
+3531,London,ISLINGTON,Value,2019,43715.0,Normal Value
+3532,London,ISLINGTON,Value,2020,46706.0,Normal Value
+3533,London,ISLINGTON,Value,2021,42786.0,Normal Value
+3545,London,KENSINGTON AND CHELSEA,Value,2021,50337.0,Normal Value
+3552,London,KINGSTON UPON THAMES,Value,2016,38034.0,Normal Value
+3553,London,KINGSTON UPON THAMES,Value,2017,37594.0,Normal Value
+3554,London,KINGSTON UPON THAMES,Value,2018,38055.0,Normal Value
+3555,London,KINGSTON UPON THAMES,Value,2019,38561.0,Normal Value
+3556,London,KINGSTON UPON THAMES,Value,2020,41255.0,Normal Value
+3557,London,KINGSTON UPON THAMES,Value,2021,40572.0,Normal Value
+3564,London,LAMBETH,Value,2016,33315.0,Normal Value
+3565,London,LAMBETH,Value,2017,34266.0,Normal Value
+3566,London,LAMBETH,Value,2018,38000.0,Normal Value
+3567,London,LAMBETH,Value,2019,36969.0,Normal Value
+3568,London,LAMBETH,Value,2020,42040.0,Normal Value
+3569,London,LAMBETH,Value,2021,40511.0,Normal Value
+3576,London,LEWISHAM,Value,2016,33080.0,Normal Value
+3577,London,LEWISHAM,Value,2017,34201.0,Normal Value
+3578,London,LEWISHAM,Value,2018,33514.0,Normal Value
+3579,London,LEWISHAM,Value,2019,33754.0,Normal Value
+3580,London,LEWISHAM,Value,2020,37167.0,Normal Value
+3581,London,LEWISHAM,Value,2021,35365.0,Normal Value
+3588,London,MERTON,Value,2016,34011.0,Normal Value
+3589,London,MERTON,Value,2017,35708.0,Normal Value
+3590,London,MERTON,Value,2018,37106.0,Normal Value
+3591,London,MERTON,Value,2019,37906.0,Normal Value
+3592,London,MERTON,Value,2020,41998.0,Normal Value
+3593,London,MERTON,Value,2021,34127.0,Normal Value
+3600,London,NEWHAM,Value,2016,27773.0,Normal Value
+3601,London,NEWHAM,Value,2017,29107.0,Normal Value
+3602,London,NEWHAM,Value,2018,30871.0,Normal Value
+3603,London,NEWHAM,Value,2019,31807.0,Normal Value
+3604,London,NEWHAM,Value,2020,32909.0,Normal Value
+3605,London,NEWHAM,Value,2021,34869.0,Normal Value
+3612,London,REDBRIDGE,Value,2016,33742.0,Normal Value
+3613,London,REDBRIDGE,Value,2017,33201.0,Normal Value
+3614,London,REDBRIDGE,Value,2018,33632.0,Normal Value
+3615,London,REDBRIDGE,Value,2019,35534.0,Normal Value
+3616,London,REDBRIDGE,Value,2020,36573.0,Normal Value
+3617,London,REDBRIDGE,Value,2021,37118.0,Normal Value
+3624,London,RICHMOND UPON THAMES,Value,2016,42068.0,Normal Value
+3625,London,RICHMOND UPON THAMES,Value,2017,40818.0,Normal Value
+3626,London,RICHMOND UPON THAMES,Value,2018,42338.0,Normal Value
+3627,London,RICHMOND UPON THAMES,Value,2019,43069.0,Normal Value
+3628,London,RICHMOND UPON THAMES,Value,2020,49574.0,Normal Value
+3629,London,RICHMOND UPON THAMES,Value,2021,42151.0,Normal Value
+3636,London,SOUTHWARK,Value,2016,33975.0,Normal Value
+3637,London,SOUTHWARK,Value,2017,35012.0,Normal Value
+3638,London,SOUTHWARK,Value,2018,36159.0,Normal Value
+3639,London,SOUTHWARK,Value,2019,39130.0,Normal Value
+3640,London,SOUTHWARK,Value,2020,38403.0,Normal Value
+3641,London,SOUTHWARK,Value,2021,38030.0,Normal Value
+3648,London,SUTTON,Value,2016,32723.0,Normal Value
+3649,London,SUTTON,Value,2017,32425.0,Normal Value
+3650,London,SUTTON,Value,2018,35758.0,Normal Value
+3651,London,SUTTON,Value,2019,36547.0,Normal Value
+3652,London,SUTTON,Value,2020,34996.0,Normal Value
+3653,London,SUTTON,Value,2021,36459.0,Normal Value
+3660,London,TOWER HAMLETS,Value,2016,36089.0,Normal Value
+3661,London,TOWER HAMLETS,Value,2017,37643.0,Normal Value
+3662,London,TOWER HAMLETS,Value,2018,38108.0,Normal Value
+3663,London,TOWER HAMLETS,Value,2019,42608.0,Normal Value
+3664,London,TOWER HAMLETS,Value,2020,41590.0,Normal Value
+3665,London,TOWER HAMLETS,Value,2021,40533.0,Normal Value
+3672,London,WALTHAM FOREST,Value,2016,30746.0,Normal Value
+3673,London,WALTHAM FOREST,Value,2017,31419.0,Normal Value
+3674,London,WALTHAM FOREST,Value,2018,33212.0,Normal Value
+3675,London,WALTHAM FOREST,Value,2019,34917.0,Normal Value
+3676,London,WALTHAM FOREST,Value,2020,36875.0,Normal Value
+3677,London,WALTHAM FOREST,Value,2021,36096.0,Normal Value
+3684,London,WANDSWORTH,Value,2016,41325.0,Normal Value
+3685,London,WANDSWORTH,Value,2017,40123.0,Normal Value
+3686,London,WANDSWORTH,Value,2018,41724.0,Normal Value
+3687,London,WANDSWORTH,Value,2019,43449.0,Normal Value
+3688,London,WANDSWORTH,Value,2020,46430.0,Normal Value
+3689,London,WANDSWORTH,Value,2021,43651.0,Normal Value
+3696,London,WESTMINSTER,Value,2016,41729.0,Normal Value
+3697,London,WESTMINSTER,Value,2017,43105.0,Normal Value
+3698,London,WESTMINSTER,Value,2018,44712.0,Normal Value
+3699,London,WESTMINSTER,Value,2019,43990.0,Normal Value
+3700,London,WESTMINSTER,Value,2020,44544.0,Normal Value
+3701,London,WESTMINSTER,Value,2021,41977.0,Normal Value
+3708,Wales,BLAENAU GWENT,Value,2016,22953.0,Normal Value
+3709,Wales,BLAENAU GWENT,Value,2017,25998.0,Normal Value
+3710,Wales,BLAENAU GWENT,Value,2018,24967.0,Normal Value
+3711,Wales,BLAENAU GWENT,Value,2019,23549.0,Normal Value
+3712,Wales,BLAENAU GWENT,Value,2020,26204.0,Normal Value
+3713,Wales,BLAENAU GWENT,Value,2021,27747.0,Normal Value
+3720,Wales,BRIDGEND,Value,2016,26094.0,Normal Value
+3721,Wales,BRIDGEND,Value,2017,27353.0,Normal Value
+3722,Wales,BRIDGEND,Value,2018,28715.0,Normal Value
+3723,Wales,BRIDGEND,Value,2019,28190.0,Normal Value
+3724,Wales,BRIDGEND,Value,2020,28838.0,Normal Value
+3725,Wales,BRIDGEND,Value,2021,29667.0,Normal Value
+3732,Wales,CAERPHILLY,Value,2016,24449.0,Normal Value
+3733,Wales,CAERPHILLY,Value,2017,24967.0,Normal Value
+3734,Wales,CAERPHILLY,Value,2018,26056.0,Normal Value
+3735,Wales,CAERPHILLY,Value,2019,27341.0,Normal Value
+3736,Wales,CAERPHILLY,Value,2020,28309.0,Normal Value
+3737,Wales,CAERPHILLY,Value,2021,29289.0,Normal Value
+3744,Wales,CARDIFF,Value,2016,27521.0,Normal Value
+3745,Wales,CARDIFF,Value,2017,27910.0,Normal Value
+3746,Wales,CARDIFF,Value,2018,29404.0,Normal Value
+3747,Wales,CARDIFF,Value,2019,30468.0,Normal Value
+3748,Wales,CARDIFF,Value,2020,28785.0,Normal Value
+3749,Wales,CARDIFF,Value,2021,29288.0,Normal Value
+3756,Wales,CARMARTHENSHIRE,Value,2016,24551.0,Normal Value
+3757,Wales,CARMARTHENSHIRE,Value,2017,26641.0,Normal Value
+3758,Wales,CARMARTHENSHIRE,Value,2018,26098.0,Normal Value
+3759,Wales,CARMARTHENSHIRE,Value,2019,27133.0,Normal Value
+3760,Wales,CARMARTHENSHIRE,Value,2020,29356.0,Normal Value
+3761,Wales,CARMARTHENSHIRE,Value,2021,29769.0,Normal Value
+3768,Wales,CEREDIGION,Value,2016,23074.0,Normal Value
+3769,Wales,CEREDIGION,Value,2017,23120.0,Normal Value
+3770,Wales,CEREDIGION,Value,2018,24772.0,Normal Value
+3771,Wales,CEREDIGION,Value,2019,25455.0,Normal Value
+3772,Wales,CEREDIGION,Value,2020,26223.0,Normal Value
+3773,Wales,CEREDIGION,Value,2021,27902.0,Normal Value
+3781,Wales,CONWY,Value,2017,26418.0,Normal Value
+3782,Wales,CONWY,Value,2018,25599.0,Normal Value
+3783,Wales,CONWY,Value,2019,25938.0,Normal Value
+3784,Wales,CONWY,Value,2020,30644.0,Normal Value
+3785,Wales,CONWY,Value,2021,28473.0,Normal Value
+3792,Wales,DENBIGHSHIRE,Value,2016,23693.0,Normal Value
+3793,Wales,DENBIGHSHIRE,Value,2017,25157.0,Normal Value
+3794,Wales,DENBIGHSHIRE,Value,2018,25612.0,Normal Value
+3795,Wales,DENBIGHSHIRE,Value,2019,24604.0,Normal Value
+3796,Wales,DENBIGHSHIRE,Value,2020,26188.0,Normal Value
+3797,Wales,DENBIGHSHIRE,Value,2021,26974.0,Normal Value
+3804,Wales,FLINTSHIRE,Value,2016,28602.0,Normal Value
+3805,Wales,FLINTSHIRE,Value,2017,26988.0,Normal Value
+3806,Wales,FLINTSHIRE,Value,2018,26896.0,Normal Value
+3807,Wales,FLINTSHIRE,Value,2019,27179.0,Normal Value
+3808,Wales,FLINTSHIRE,Value,2020,28399.0,Normal Value
+3809,Wales,FLINTSHIRE,Value,2021,30054.0,Normal Value
+3816,Wales,GWYNEDD,Value,2016,22041.0,Normal Value
+3817,Wales,GWYNEDD,Value,2017,23641.0,Normal Value
+3819,Wales,GWYNEDD,Value,2019,24593.0,Normal Value
+3820,Wales,GWYNEDD,Value,2020,27245.0,Normal Value
+3821,Wales,GWYNEDD,Value,2021,24771.0,Normal Value
+3828,Wales,ISLE OF ANGLESEY,Value,2016,24075.0,Normal Value
+3829,Wales,ISLE OF ANGLESEY,Value,2017,25415.0,Normal Value
+3830,Wales,ISLE OF ANGLESEY,Value,2018,25396.0,Normal Value
+3831,Wales,ISLE OF ANGLESEY,Value,2019,27101.0,Normal Value
+3832,Wales,ISLE OF ANGLESEY,Value,2020,27319.0,Normal Value
+3833,Wales,ISLE OF ANGLESEY,Value,2021,28760.0,Normal Value
+3840,Wales,MERTHYR TYDFIL,Value,2016,22626.0,Normal Value
+3841,Wales,MERTHYR TYDFIL,Value,2017,24183.0,Normal Value
+3842,Wales,MERTHYR TYDFIL,Value,2018,23702.0,Normal Value
+3843,Wales,MERTHYR TYDFIL,Value,2019,25444.0,Normal Value
+3844,Wales,MERTHYR TYDFIL,Value,2020,25916.0,Normal Value
+3845,Wales,MERTHYR TYDFIL,Value,2021,27074.0,Normal Value
+3852,Wales,MONMOUTHSHIRE,Value,2016,31846.0,Normal Value
+3853,Wales,MONMOUTHSHIRE,Value,2017,31433.0,Normal Value
+3854,Wales,MONMOUTHSHIRE,Value,2018,33116.0,Normal Value
+3855,Wales,MONMOUTHSHIRE,Value,2019,34875.0,Normal Value
+3856,Wales,MONMOUTHSHIRE,Value,2020,34414.0,Normal Value
+3857,Wales,MONMOUTHSHIRE,Value,2021,34012.0,Normal Value
+3864,Wales,NEATH PORT TALBOT,Value,2016,24227.0,Normal Value
+3865,Wales,NEATH PORT TALBOT,Value,2017,25055.0,Normal Value
+3866,Wales,NEATH PORT TALBOT,Value,2018,25665.0,Normal Value
+3867,Wales,NEATH PORT TALBOT,Value,2019,28011.0,Normal Value
+3868,Wales,NEATH PORT TALBOT,Value,2020,27544.0,Normal Value
+3869,Wales,NEATH PORT TALBOT,Value,2021,30620.0,Normal Value
+3876,Wales,NEWPORT,Value,2016,25394.0,Normal Value
+3877,Wales,NEWPORT,Value,2017,26230.0,Normal Value
+3878,Wales,NEWPORT,Value,2018,27561.0,Normal Value
+3879,Wales,NEWPORT,Value,2019,28793.0,Normal Value
+3880,Wales,NEWPORT,Value,2020,29535.0,Normal Value
+3881,Wales,NEWPORT,Value,2021,29017.0,Normal Value
+3888,Wales,PEMBROKESHIRE,Value,2016,23184.0,Normal Value
+3889,Wales,PEMBROKESHIRE,Value,2017,24210.0,Normal Value
+3890,Wales,PEMBROKESHIRE,Value,2018,24992.0,Normal Value
+3891,Wales,PEMBROKESHIRE,Value,2019,24134.0,Normal Value
+3892,Wales,PEMBROKESHIRE,Value,2020,27934.0,Normal Value
+3893,Wales,PEMBROKESHIRE,Value,2021,29558.0,Normal Value
+3900,Wales,POWYS,Value,2016,25137.0,Normal Value
+3901,Wales,POWYS,Value,2017,25004.0,Normal Value
+3902,Wales,POWYS,Value,2018,26115.0,Normal Value
+3903,Wales,POWYS,Value,2019,26946.0,Normal Value
+3904,Wales,POWYS,Value,2020,28336.0,Normal Value
+3905,Wales,POWYS,Value,2021,27414.0,Normal Value
+3912,Wales,RHONDDA CYNON TAFF,Value,2016,25403.0,Normal Value
+3913,Wales,RHONDDA CYNON TAFF,Value,2017,26189.0,Normal Value
+3914,Wales,RHONDDA CYNON TAFF,Value,2018,25994.0,Normal Value
+3915,Wales,RHONDDA CYNON TAFF,Value,2019,26512.0,Normal Value
+3916,Wales,RHONDDA CYNON TAFF,Value,2020,27841.0,Normal Value
+3917,Wales,RHONDDA CYNON TAFF,Value,2021,27693.0,Normal Value
+3924,Wales,SWANSEA,Value,2016,25394.0,Normal Value
+3925,Wales,SWANSEA,Value,2017,26211.0,Normal Value
+3926,Wales,SWANSEA,Value,2018,28273.0,Normal Value
+3927,Wales,SWANSEA,Value,2019,28121.0,Normal Value
+3928,Wales,SWANSEA,Value,2020,27905.0,Normal Value
+3929,Wales,SWANSEA,Value,2021,28827.0,Normal Value
+3936,Wales,TORFAEN,Value,2016,25220.0,Normal Value
+3937,Wales,TORFAEN,Value,2017,27751.0,Normal Value
+3938,Wales,TORFAEN,Value,2018,27480.0,Normal Value
+3939,Wales,TORFAEN,Value,2019,27811.0,Normal Value
+3940,Wales,TORFAEN,Value,2020,29124.0,Normal Value
+3941,Wales,TORFAEN,Value,2021,26454.0,Normal Value
+3948,Wales,VALE OF GLAMORGAN,Value,2016,32184.0,Normal Value
+3949,Wales,VALE OF GLAMORGAN,Value,2017,31674.0,Normal Value
+3950,Wales,VALE OF GLAMORGAN,Value,2018,30063.0,Normal Value
+3951,Wales,VALE OF GLAMORGAN,Value,2019,31874.0,Normal Value
+3952,Wales,VALE OF GLAMORGAN,Value,2020,30016.0,Normal Value
+3953,Wales,VALE OF GLAMORGAN,Value,2021,29564.0,Normal Value
+3960,Wales,WREXHAM,Value,2016,25845.0,Normal Value
+3961,Wales,WREXHAM,Value,2017,25296.0,Normal Value
+3962,Wales,WREXHAM,Value,2018,27225.0,Normal Value
+3963,Wales,WREXHAM,Value,2019,28953.0,Normal Value
+3964,Wales,WREXHAM,Value,2020,29282.0,Normal Value
+3965,Wales,WREXHAM,Value,2021,27793.0,Normal Value
+3972,Scotland,ABERDEEN CITY,Value,2016,29350.0,Normal Value
+3973,Scotland,ABERDEEN CITY,Value,2017,28500.0,Normal Value
+3974,Scotland,ABERDEEN CITY,Value,2018,29829.0,Normal Value
+3975,Scotland,ABERDEEN CITY,Value,2019,30426.0,Normal Value
+3976,Scotland,ABERDEEN CITY,Value,2020,30615.0,Normal Value
+3977,Scotland,ABERDEEN CITY,Value,2021,29949.0,Normal Value
+3984,Scotland,ABERDEENSHIRE,Value,2016,29887.0,Normal Value
+3985,Scotland,ABERDEENSHIRE,Value,2017,29434.0,Normal Value
+3986,Scotland,ABERDEENSHIRE,Value,2018,30877.0,Normal Value
+3987,Scotland,ABERDEENSHIRE,Value,2019,32539.0,Normal Value
+3988,Scotland,ABERDEENSHIRE,Value,2020,33970.0,Normal Value
+3989,Scotland,ABERDEENSHIRE,Value,2021,32605.0,Normal Value
+3996,Scotland,ANGUS,Value,2016,27505.0,Normal Value
+3997,Scotland,ANGUS,Value,2017,27529.0,Normal Value
+3998,Scotland,ANGUS,Value,2018,29052.0,Normal Value
+3999,Scotland,ANGUS,Value,2019,29333.0,Normal Value
+4000,Scotland,ANGUS,Value,2020,29858.0,Normal Value
+4001,Scotland,ANGUS,Value,2021,30305.0,Normal Value
+4008,Scotland,ARGYLL AND BUTE,Value,2016,25592.0,Normal Value
+4009,Scotland,ARGYLL AND BUTE,Value,2017,24721.0,Normal Value
+4010,Scotland,ARGYLL AND BUTE,Value,2018,24517.0,Normal Value
+4011,Scotland,ARGYLL AND BUTE,Value,2019,27868.0,Normal Value
+4012,Scotland,ARGYLL AND BUTE,Value,2020,28321.0,Normal Value
+4013,Scotland,ARGYLL AND BUTE,Value,2021,26902.0,Normal Value
+4020,Scotland,CITY OF EDINBURGH,Value,2016,29426.0,Normal Value
+4021,Scotland,CITY OF EDINBURGH,Value,2017,30546.0,Normal Value
+4022,Scotland,CITY OF EDINBURGH,Value,2018,31521.0,Normal Value
+4023,Scotland,CITY OF EDINBURGH,Value,2019,32098.0,Normal Value
+4024,Scotland,CITY OF EDINBURGH,Value,2020,34124.0,Normal Value
+4025,Scotland,CITY OF EDINBURGH,Value,2021,33241.0,Normal Value
+4032,Scotland,CLACKMANNANSHIRE,Value,2016,25427.0,Normal Value
+4033,Scotland,CLACKMANNANSHIRE,Value,2017,26428.0,Normal Value
+4034,Scotland,CLACKMANNANSHIRE,Value,2018,24904.0,Normal Value
+4036,Scotland,CLACKMANNANSHIRE,Value,2020,29233.0,Normal Value
+4037,Scotland,CLACKMANNANSHIRE,Value,2021,30505.0,Normal Value
+4044,Scotland,DUMFRIES AND GALLOWAY,Value,2016,24414.0,Normal Value
+4045,Scotland,DUMFRIES AND GALLOWAY,Value,2017,24565.0,Normal Value
+4046,Scotland,DUMFRIES AND GALLOWAY,Value,2018,24130.0,Normal Value
+4047,Scotland,DUMFRIES AND GALLOWAY,Value,2019,24461.0,Normal Value
+4048,Scotland,DUMFRIES AND GALLOWAY,Value,2020,26142.0,Normal Value
+4049,Scotland,DUMFRIES AND GALLOWAY,Value,2021,27555.0,Normal Value
+4056,Scotland,DUNDEE CITY,Value,2016,24800.0,Normal Value
+4057,Scotland,DUNDEE CITY,Value,2017,26289.0,Normal Value
+4058,Scotland,DUNDEE CITY,Value,2018,26339.0,Normal Value
+4059,Scotland,DUNDEE CITY,Value,2019,27346.0,Normal Value
+4060,Scotland,DUNDEE CITY,Value,2020,29570.0,Normal Value
+4061,Scotland,DUNDEE CITY,Value,2021,28192.0,Normal Value
+4068,Scotland,EAST AYRSHIRE,Value,2016,28786.0,Normal Value
+4069,Scotland,EAST AYRSHIRE,Value,2017,27855.0,Normal Value
+4070,Scotland,EAST AYRSHIRE,Value,2018,30071.0,Normal Value
+4071,Scotland,EAST AYRSHIRE,Value,2019,29454.0,Normal Value
+4072,Scotland,EAST AYRSHIRE,Value,2020,32601.0,Normal Value
+4073,Scotland,EAST AYRSHIRE,Value,2021,32383.0,Normal Value
+4080,Scotland,EAST DUNBARTONSHIRE,Value,2016,33356.0,Normal Value
+4081,Scotland,EAST DUNBARTONSHIRE,Value,2017,31949.0,Normal Value
+4082,Scotland,EAST DUNBARTONSHIRE,Value,2018,34589.0,Normal Value
+4083,Scotland,EAST DUNBARTONSHIRE,Value,2019,36166.0,Normal Value
+4084,Scotland,EAST DUNBARTONSHIRE,Value,2020,36839.0,Normal Value
+4085,Scotland,EAST DUNBARTONSHIRE,Value,2021,37402.0,Normal Value
+4092,Scotland,EAST LOTHIAN,Value,2016,29737.0,Normal Value
+4093,Scotland,EAST LOTHIAN,Value,2017,31777.0,Normal Value
+4094,Scotland,EAST LOTHIAN,Value,2018,31628.0,Normal Value
+4095,Scotland,EAST LOTHIAN,Value,2019,31654.0,Normal Value
+4096,Scotland,EAST LOTHIAN,Value,2020,32098.0,Normal Value
+4097,Scotland,EAST LOTHIAN,Value,2021,30788.0,Normal Value
+4104,Scotland,EAST RENFREWSHIRE,Value,2016,35410.0,Normal Value
+4105,Scotland,EAST RENFREWSHIRE,Value,2017,36354.0,Normal Value
+4106,Scotland,EAST RENFREWSHIRE,Value,2018,38136.0,Normal Value
+4107,Scotland,EAST RENFREWSHIRE,Value,2019,40218.0,Normal Value
+4108,Scotland,EAST RENFREWSHIRE,Value,2020,43289.0,Normal Value
+4109,Scotland,EAST RENFREWSHIRE,Value,2021,44557.0,Normal Value
+4116,Scotland,FALKIRK,Value,2016,28248.0,Normal Value
+4117,Scotland,FALKIRK,Value,2017,27859.0,Normal Value
+4118,Scotland,FALKIRK,Value,2018,29327.0,Normal Value
+4119,Scotland,FALKIRK,Value,2019,29838.0,Normal Value
+4120,Scotland,FALKIRK,Value,2020,30079.0,Normal Value
+4121,Scotland,FALKIRK,Value,2021,30122.0,Normal Value
+4128,Scotland,FIFE,Value,2016,27584.0,Normal Value
+4129,Scotland,FIFE,Value,2017,27480.0,Normal Value
+4130,Scotland,FIFE,Value,2018,28300.0,Normal Value
+4131,Scotland,FIFE,Value,2019,29248.0,Normal Value
+4132,Scotland,FIFE,Value,2020,31147.0,Normal Value
+4133,Scotland,FIFE,Value,2021,30810.0,Normal Value
+4140,Scotland,GLASGOW CITY,Value,2016,26860.0,Normal Value
+4141,Scotland,GLASGOW CITY,Value,2017,27112.0,Normal Value
+4142,Scotland,GLASGOW CITY,Value,2018,27710.0,Normal Value
+4143,Scotland,GLASGOW CITY,Value,2019,29542.0,Normal Value
+4144,Scotland,GLASGOW CITY,Value,2020,31468.0,Normal Value
+4145,Scotland,GLASGOW CITY,Value,2021,31872.0,Normal Value
+4152,Scotland,HIGHLAND,Value,2016,27918.0,Normal Value
+4153,Scotland,HIGHLAND,Value,2017,28262.0,Normal Value
+4154,Scotland,HIGHLAND,Value,2018,29044.0,Normal Value
+4155,Scotland,HIGHLAND,Value,2019,29757.0,Normal Value
+4156,Scotland,HIGHLAND,Value,2020,32002.0,Normal Value
+4157,Scotland,HIGHLAND,Value,2021,31191.0,Normal Value
+4164,Scotland,INVERCLYDE,Value,2016,27955.0,Normal Value
+4165,Scotland,INVERCLYDE,Value,2017,28205.0,Normal Value
+4166,Scotland,INVERCLYDE,Value,2018,28908.0,Normal Value
+4167,Scotland,INVERCLYDE,Value,2019,27353.0,Normal Value
+4168,Scotland,INVERCLYDE,Value,2020,28242.0,Normal Value
+4169,Scotland,INVERCLYDE,Value,2021,31353.0,Normal Value
+4176,Scotland,MIDLOTHIAN,Value,2016,27501.0,Normal Value
+4177,Scotland,MIDLOTHIAN,Value,2017,28141.0,Normal Value
+4178,Scotland,MIDLOTHIAN,Value,2018,27587.0,Normal Value
+4179,Scotland,MIDLOTHIAN,Value,2019,28425.0,Normal Value
+4180,Scotland,MIDLOTHIAN,Value,2020,31061.0,Normal Value
+4181,Scotland,MIDLOTHIAN,Value,2021,30449.0,Normal Value
+4188,Scotland,MORAY,Value,2016,24519.0,Normal Value
+4189,Scotland,MORAY,Value,2017,27082.0,Normal Value
+4190,Scotland,MORAY,Value,2018,27269.0,Normal Value
+4191,Scotland,MORAY,Value,2019,28103.0,Normal Value
+4192,Scotland,MORAY,Value,2020,30024.0,Normal Value
+4193,Scotland,MORAY,Value,2021,28685.0,Normal Value
+4200,Scotland,NA H-EILEANAN SIAR,Value,2016,24808.0,Normal Value
+4201,Scotland,NA H-EILEANAN SIAR,Value,2017,24188.0,Normal Value
+4202,Scotland,NA H-EILEANAN SIAR,Value,2018,26006.0,Normal Value
+4203,Scotland,NA H-EILEANAN SIAR,Value,2019,27132.0,Normal Value
+4204,Scotland,NA H-EILEANAN SIAR,Value,2020,26823.0,Normal Value
+4205,Scotland,NA H-EILEANAN SIAR,Value,2021,33505.0,Normal Value
+4212,Scotland,NORTH AYRSHIRE,Value,2016,27282.0,Normal Value
+4213,Scotland,NORTH AYRSHIRE,Value,2017,29234.0,Normal Value
+4214,Scotland,NORTH AYRSHIRE,Value,2018,30361.0,Normal Value
+4215,Scotland,NORTH AYRSHIRE,Value,2019,29950.0,Normal Value
+4216,Scotland,NORTH AYRSHIRE,Value,2020,30857.0,Normal Value
+4217,Scotland,NORTH AYRSHIRE,Value,2021,32862.0,Normal Value
+4224,Scotland,NORTH LANARKSHIRE,Value,2016,26922.0,Normal Value
+4225,Scotland,NORTH LANARKSHIRE,Value,2017,27494.0,Normal Value
+4226,Scotland,NORTH LANARKSHIRE,Value,2018,28326.0,Normal Value
+4227,Scotland,NORTH LANARKSHIRE,Value,2019,29258.0,Normal Value
+4228,Scotland,NORTH LANARKSHIRE,Value,2020,31020.0,Normal Value
+4229,Scotland,NORTH LANARKSHIRE,Value,2021,31107.0,Normal Value
+4236,Scotland,ORKNEY ISLANDS,Value,2016,29306.0,Normal Value
+4237,Scotland,ORKNEY ISLANDS,Value,2017,26529.0,Normal Value
+4238,Scotland,ORKNEY ISLANDS,Value,2018,30556.0,Normal Value
+4239,Scotland,ORKNEY ISLANDS,Value,2019,30644.0,Normal Value
+4240,Scotland,ORKNEY ISLANDS,Value,2020,35080.0,Normal Value
+4241,Scotland,ORKNEY ISLANDS,Value,2021,26998.0,Normal Value
+4248,Scotland,PERTH AND KINROSS,Value,2016,27667.0,Normal Value
+4249,Scotland,PERTH AND KINROSS,Value,2017,27907.0,Normal Value
+4250,Scotland,PERTH AND KINROSS,Value,2018,29854.0,Normal Value
+4251,Scotland,PERTH AND KINROSS,Value,2019,31012.0,Normal Value
+4252,Scotland,PERTH AND KINROSS,Value,2020,30354.0,Normal Value
+4253,Scotland,PERTH AND KINROSS,Value,2021,30172.0,Normal Value
+4260,Scotland,RENFREWSHIRE,Value,2016,28930.0,Normal Value
+4261,Scotland,RENFREWSHIRE,Value,2017,30765.0,Normal Value
+4262,Scotland,RENFREWSHIRE,Value,2018,30971.0,Normal Value
+4263,Scotland,RENFREWSHIRE,Value,2019,32722.0,Normal Value
+4264,Scotland,RENFREWSHIRE,Value,2020,32580.0,Normal Value
+4265,Scotland,RENFREWSHIRE,Value,2021,34606.0,Normal Value
+4272,Scotland,SCOTTISH BORDERS,Value,2016,25733.0,Normal Value
+4273,Scotland,SCOTTISH BORDERS,Value,2017,27081.0,Normal Value
+4274,Scotland,SCOTTISH BORDERS,Value,2018,27234.0,Normal Value
+4275,Scotland,SCOTTISH BORDERS,Value,2019,27826.0,Normal Value
+4276,Scotland,SCOTTISH BORDERS,Value,2020,28138.0,Normal Value
+4277,Scotland,SCOTTISH BORDERS,Value,2021,28226.0,Normal Value
+4284,Scotland,SHETLAND ISLANDS,Value,2016,31992.0,Normal Value
+4285,Scotland,SHETLAND ISLANDS,Value,2017,31644.0,Normal Value
+4286,Scotland,SHETLAND ISLANDS,Value,2018,33411.0,Normal Value
+4287,Scotland,SHETLAND ISLANDS,Value,2019,31768.0,Normal Value
+4288,Scotland,SHETLAND ISLANDS,Value,2020,34125.0,Normal Value
+4289,Scotland,SHETLAND ISLANDS,Value,2021,33729.0,Normal Value
+4296,Scotland,SOUTH AYRSHIRE,Value,2016,28907.0,Normal Value
+4297,Scotland,SOUTH AYRSHIRE,Value,2017,29505.0,Normal Value
+4298,Scotland,SOUTH AYRSHIRE,Value,2018,30913.0,Normal Value
+4299,Scotland,SOUTH AYRSHIRE,Value,2019,31648.0,Normal Value
+4300,Scotland,SOUTH AYRSHIRE,Value,2020,33445.0,Normal Value
+4301,Scotland,SOUTH AYRSHIRE,Value,2021,34065.0,Normal Value
+4308,Scotland,SOUTH LANARKSHIRE,Value,2016,27993.0,Normal Value
+4309,Scotland,SOUTH LANARKSHIRE,Value,2017,28743.0,Normal Value
+4310,Scotland,SOUTH LANARKSHIRE,Value,2018,29497.0,Normal Value
+4311,Scotland,SOUTH LANARKSHIRE,Value,2019,30522.0,Normal Value
+4312,Scotland,SOUTH LANARKSHIRE,Value,2020,32998.0,Normal Value
+4313,Scotland,SOUTH LANARKSHIRE,Value,2021,33630.0,Normal Value
+4320,Scotland,STIRLING,Value,2016,31541.0,Normal Value
+4321,Scotland,STIRLING,Value,2017,31705.0,Normal Value
+4322,Scotland,STIRLING,Value,2018,31714.0,Normal Value
+4324,Scotland,STIRLING,Value,2020,32523.0,Normal Value
+4325,Scotland,STIRLING,Value,2021,34265.0,Normal Value
+4332,Scotland,WEST DUNBARTONSHIRE,Value,2016,26664.0,Normal Value
+4333,Scotland,WEST DUNBARTONSHIRE,Value,2017,26678.0,Normal Value
+4334,Scotland,WEST DUNBARTONSHIRE,Value,2018,26974.0,Normal Value
+4335,Scotland,WEST DUNBARTONSHIRE,Value,2019,27102.0,Normal Value
+4336,Scotland,WEST DUNBARTONSHIRE,Value,2020,28884.0,Normal Value
+4337,Scotland,WEST DUNBARTONSHIRE,Value,2021,31093.0,Normal Value
+4344,Scotland,WEST LOTHIAN,Value,2016,26124.0,Normal Value
+4345,Scotland,WEST LOTHIAN,Value,2017,28034.0,Normal Value
+4346,Scotland,WEST LOTHIAN,Value,2018,28723.0,Normal Value
+4347,Scotland,WEST LOTHIAN,Value,2019,29245.0,Normal Value
+4348,Scotland,WEST LOTHIAN,Value,2020,31044.0,Normal Value
+4349,Scotland,WEST LOTHIAN,Value,2021,30623.0,Normal Value
