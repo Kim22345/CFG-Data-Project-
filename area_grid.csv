@@ -1,0 +1,375 @@
+District,County,District Code,Latitude,Longitude,Postcodes,Active Postcodes,Households,Population,Type
+"Aberdeen City","",S12000033,57.149502,-2.13305,14396,6273,103304,222604,Council Area
+"Aberdeenshire","",S12000034,57.353298,-2.32247,21516,9777,104592,252583,Council Area
+"Adur","West Sussex",E07000223,50.833099,-0.285009,3027,1793,26952,61167,Local Authority District
+"Allerdale","Cumbria",E07000026,54.7131,-3.36135,5540,4086,42362,96468,Local Authority District
+"Amber Valley","Derbyshire",E07000032,53.037701,-1.42446,4982,2831,52602,122335,Local Authority District
+"Angus","",S12000041,56.6194,-2.74928,4581,3995,51537,115791,Council Area
+"Antrim and Newtownabbey","",N09000001,54.698299,-6.05229,4195,3359,53535,137413,District
+"Ards and North Down","",N09000011,54.6073,-5.66684,5476,4082,64022,155307,District
+"Argyll and Bute","",S12000035,56.033199,-5.21312,4159,3416,40013,87912,Council Area
+"Armagh City, Banbridge and Craigavon","",N09000002,54.385201,-6.42142,5964,5178,74395,196898,District
+"Arun","West Sussex",E07000224,50.808701,-0.597137,6535,4995,66705,149515,Local Authority District
+"Ashfield","Nottinghamshire",E07000170,53.087299,-1.24892,3195,2699,50945,119534,Local Authority District
+"Ashford","Kent",E07000105,51.1353,0.837573,5808,3925,47773,117922,Local Authority District
+"Babergh","Suffolk",E07000200,52.038898,0.880917,4490,3364,37493,87666,Local Authority District
+"Barking and Dagenham","Greater London",E09000002,51.546398,0.124824,4575,2966,69687,185974,London Borough
+"Barnet","Greater London",E09000003,51.605499,-0.207788,16181,8915,135834,356094,London Borough
+"Barnsley","South Yorkshire",E08000016,53.546299,-1.46774,8592,6779,100705,231171,Metropolitan District
+"Barrow-in-Furness","Cumbria",E07000027,54.126202,-3.21589,2527,2094,31231,69105,Local Authority District
+"Basildon","Essex",E07000066,51.590099,0.465385,6057,4150,72736,174571,Local Authority District
+"Basingstoke and Deane","Hampshire",E07000084,51.2869,-1.14625,8614,4963,69312,167791,Local Authority District
+"Bassetlaw","Nottinghamshire",E07000171,53.331799,-1.02233,4635,3760,47666,112853,Local Authority District
+"Bath and North East Somerset","Somerset",E06000022,51.364101,-2.43751,9772,5921,73507,175976,Unitary Authority
+"Bedford","Bedfordshire",E06000055,52.144501,-0.472823,6762,4712,63805,157466,Unitary Authority
+"Belfast","",N09000003,54.593498,-5.93321,10599,7287,140765,332026,District
+"Bexley","Greater London",E09000004,51.459202,0.136331,6428,4411,92606,231975,London Borough
+"Birmingham","West Midlands",E08000025,52.480801,-1.88504,34459,21579,410669,1072905,Metropolitan District
+"Blaby","Leicestershire",E07000129,52.588699,-1.20092,4059,2320,38641,93793,Local Authority District
+"Blackburn with Darwen","Lancashire",E06000008,53.729198,-2.47694,4979,3352,57352,147523,Unitary Authority
+"Blackpool","Lancashire",E06000009,53.8176,-3.03833,5048,3522,64372,142081,Unitary Authority
+"Blaenau Gwent","Gwent",W06000019,51.767601,-3.19178,4032,1840,30409,69792,Unitary Authority
+"Bolsover","Derbyshire",E07000033,53.207298,-1.27521,2348,2019,32786,75836,Local Authority District
+"Bolton","Greater Manchester",E08000001,53.5774,-2.44805,9855,7227,116384,276820,Metropolitan District
+"Boston","Lincolnshire",E07000136,52.9702,-0.028513,2597,2063,27294,64646,Local Authority District
+"Bournemouth, Christchurch and Poole","Dorset",E06000058,50.735802,-1.88506,14463,9467,167350,378809,Unitary Authority
+"Bracknell Forest","Berkshire",E06000036,51.401402,-0.761039,6667,2998,45818,113065,Unitary Authority
+"Bradford","West Yorkshire",E08000032,53.8214,-1.80243,20670,14713,199276,522430,Metropolitan District
+"Braintree","Essex",E07000067,51.888302,0.591057,6896,4427,61052,147108,Local Authority District
+"Breckland","Norfolk",E07000143,52.581001,0.86837,5245,4535,54522,130502,Local Authority District
+"Brent","Greater London",E09000005,51.551701,-0.257337,10613,5855,110283,311224,London Borough
+"Brentwood","Essex",E07000068,51.630798,0.317368,3175,2161,30632,73561,Local Authority District
+"Bridgend","Mid Glamorgan",W06000013,51.531502,-3.6052,4231,3279,58507,139161,Unitary Authority
+"Brighton and Hove","East Sussex",E06000043,50.832199,-0.148068,10353,5082,121561,273416,Unitary Authority
+"Bristol, City of","Bristol",E06000023,51.460499,-2.58743,17507,11653,182770,428296,Unitary Authority
+"Broadland","Norfolk",E07000144,52.674,1.3203,5474,4044,53314,124588,Local Authority District
+"Bromley","Greater London",E09000006,51.3918,0.026206,11359,7256,130767,309225,London Borough
+"Bromsgrove","Worcestershire",E07000234,52.355301,-2.02956,3452,2862,38279,93646,Local Authority District
+"Broxbourne","Hertfordshire",E07000095,51.723999,-0.029526,3791,2433,37625,93520,Local Authority District
+"Broxtowe","Nottinghamshire",E07000172,52.954899,-1.24992,3386,2548,46844,109516,Local Authority District
+"Buckinghamshire","Buckinghamshire",E06000060,51.7076,-0.742187,24178,16084,200715,505277,Unitary Authority
+"Burnley","Lancashire",E07000117,53.791901,-2.25088,3439,2360,37523,86985,Local Authority District
+"Bury","Greater Manchester",E08000002,53.570099,-2.30334,8594,4988,78108,185045,Metropolitan District
+"Caerphilly","Gwent",W06000018,51.645699,-3.20438,9096,4347,74473,178802,Unitary Authority
+"Calderdale","West Yorkshire",E08000033,53.717499,-1.90145,9528,7266,88638,203864,Metropolitan District
+"Cambridge","Cambridgeshire",E07000008,52.202301,0.137341,5884,2819,46682,123798,Local Authority District
+"Camden","Greater London",E09000007,51.534401,-0.143305,16124,8207,97555,220387,London Borough
+"Cannock Chase","Staffordshire",E07000192,52.707401,-1.99409,3984,2227,40672,97477,Local Authority District
+"Canterbury","Kent",E07000106,51.313099,1.08817,6024,4449,60760,151115,Local Authority District
+"Cardiff","South Glamorgan",W06000015,51.498402,-3.1853,17935,7618,142596,346186,Unitary Authority
+"Carlisle","Cumbria",E07000028,54.9067,-2.89636,4885,3745,48334,107513,Local Authority District
+"Carmarthenshire","Dyfed",W06000010,51.823002,-4.16857,7954,6698,78837,183797,Unitary Authority
+"Castle Point","Essex",E07000069,51.5457,0.583041,2753,2036,36395,87920,Local Authority District
+"Causeway Coast and Glens","",N09000004,55.097198,-6.62775,4417,4023,52778,138635,District
+"Central Bedfordshire","Bedfordshire",E06000056,51.979698,-0.474492,9770,6632,104391,254337,Unitary Authority
+"Ceredigion","Dyfed",W06000008,52.237801,-4.21509,3743,3083,31559,75913,Unitary Authority
+"Charnwood","Leicestershire",E07000130,52.738098,-1.16748,5486,3789,66477,166011,Local Authority District
+"Chelmsford","Essex",E07000070,51.725498,0.4935,6640,4330,69659,168225,Local Authority District
+"Cheltenham","Gloucestershire",E07000078,51.898499,-2.08393,5736,3861,50941,115761,Local Authority District
+"Cherwell","Oxfordshire",E07000177,51.965302,-1.2637,8964,4815,56721,141857,Local Authority District
+"Cheshire East","Cheshire",E06000049,53.197102,-2.31211,17529,12037,159454,370182,Unitary Authority
+"Cheshire West and Chester","Cheshire",E06000050,53.2342,-2.79123,17160,10914,141439,329589,Unitary Authority
+"Chesterfield","Derbyshire",E07000034,53.245098,-1.42194,3882,2863,46793,103771,Local Authority District
+"Chichester","West Sussex",E07000225,50.8741,-0.76729,7206,4814,49860,113880,Local Authority District
+"Chorley","Lancashire",E07000118,53.659599,-2.64593,4010,2859,44888,107112,Local Authority District
+"City of Edinburgh","",S12000036,55.944401,-3.21534,19168,13372,222966,476428,Council Area
+"City of London","City of London",E09000001,51.514301,-0.091433,6804,1694,4377,7360,London Borough
+"Clackmannanshire","",S12000005,56.133598,-3.77704,1599,1334,22703,51352,Council Area
+"Colchester","Essex",E07000071,51.8792,0.882282,7468,5177,71632,173057,Local Authority District
+"Conwy","Clwyd",W06000003,53.2612,-3.74986,4960,4117,51177,115232,Unitary Authority
+"Copeland","Cumbria",E07000029,54.471901,-3.50232,2962,2542,30539,70608,Local Authority District
+"Cornwall","Cornwall",E06000052,50.3283,-4.95262,26867,21712,230396,532285,Unitary Authority
+"Cotswold","Gloucestershire",E07000079,51.810001,-1.8771,4492,3637,36242,82877,Local Authority District
+"County Durham","County Durham",E06000047,54.752399,-1.62715,20173,16170,223809,513265,Unitary Authority
+"Coventry","West Midlands",E08000026,52.4128,-1.50632,9150,6307,128739,318884,Metropolitan District
+"Craven","North Yorkshire",E07000163,54.002899,-2.13073,3301,2761,24596,55427,Local Authority District
+"Crawley","West Sussex",E07000226,51.118,-0.183794,4445,2664,42722,106584,Local Authority District
+"Croydon","Greater London",E09000008,51.368301,-0.096617,13234,7014,145047,363450,London Borough
+"Dacorum","Hertfordshire",E07000096,51.761002,-0.511558,6204,3972,59955,144892,Local Authority District
+"Darlington","County Durham",E06000005,54.5299,-1.55032,4288,3127,46660,105532,Unitary Authority
+"Dartford","Kent",E07000107,51.438599,0.241309,3401,2359,40107,97447,Local Authority District
+"Denbighshire","Clwyd",W06000004,53.214001,-3.39898,4317,3383,40514,93676,Unitary Authority
+"Derby","Derbyshire",E06000015,52.9128,-1.47189,12017,5509,102284,248784,Unitary Authority
+"Derbyshire Dales","Derbyshire",E07000035,53.153801,-1.65815,3406,2277,30756,71166,Local Authority District
+"Derry City and Strabane","",N09000005,54.929001,-7.34702,4329,3460,54918,146002,District
+"Doncaster","South Yorkshire",E08000017,53.528702,-1.1182,10332,7917,126483,302386,Metropolitan District
+"Dorset","Dorset",E06000059,50.781101,-2.28641,16791,13061,158765,365224,Unitary Authority
+"Dover","Kent",E07000108,51.1922,1.31779,4853,3856,48313,111676,Local Authority District
+"Dudley","West Midlands",E08000027,52.484798,-2.10995,9927,7233,129881,312982,Metropolitan District
+"Dumfries and Galloway","",S12000006,55.023499,-3.86765,7883,6876,67953,151259,Council Area
+"Dundee City","",S12000042,56.4734,-2.96684,6173,4443,69170,147096,Council Area
+"Ealing","Greater London",E09000009,51.518002,-0.324989,11525,6508,124065,338429,London Borough
+"East Ayrshire","",S12000008,55.566502,-4.42463,4777,3964,53824,122525,Council Area
+"East Cambridgeshire","Cambridgeshire",E07000009,52.3433,0.290359,2884,2089,34625,83842,Local Authority District
+"East Devon","Devon",E07000040,50.727699,-3.2492,8086,6048,59056,132422,Local Authority District
+"East Dunbartonshire","",S12000045,55.9314,-4.23228,4290,3256,43446,104946,Council Area
+"East Hampshire","Hampshire",E07000085,51.070202,-0.929173,5572,4173,47295,115624,Local Authority District
+"East Hertfordshire","Hertfordshire",E07000242,51.840199,0.018043,6567,4495,56603,137736,Local Authority District
+"East Lindsey","Lincolnshire",E07000137,53.250198,0.080482,6372,5197,60882,136377,Local Authority District
+"East Lothian","",S12000010,55.968498,-2.8563,3617,3149,42865,99620,Council Area
+"East Renfrewshire","",S12000011,55.787601,-4.33021,3163,2500,37191,90471,Council Area
+"East Riding of Yorkshire","East Riding of Yorkshire",E06000011,53.869598,-0.492569,15249,10536,143042,334218,Unitary Authority
+"East Staffordshire","Staffordshire",E07000193,52.8353,-1.71145,3799,2939,47249,113569,Local Authority District
+"East Suffolk","Suffolk",E07000244,52.231602,1.47581,11285,8963,104449,239560,Local Authority District
+"Eastbourne","East Sussex",E07000061,50.7798,0.283546,4019,2881,44988,99352,Local Authority District
+"Eastleigh","Hampshire",E07000086,50.9491,-1.34128,7649,3373,52164,125185,Local Authority District
+"Eden","Cumbria",E07000030,54.645302,-2.66986,3079,2655,23023,52504,Local Authority District
+"Elmbridge","Surrey",E07000207,51.371498,-0.397004,6433,3815,52905,130846,Local Authority District
+"Enfield","Greater London",E09000010,51.639801,-0.082857,9965,6276,119898,312450,London Borough
+"Epping Forest","Essex",E07000072,51.681801,0.098136,4985,3550,51971,124633,Local Authority District
+"Epsom and Ewell","Surrey",E07000208,51.342999,-0.261776,2827,1907,29746,74972,Local Authority District
+"Erewash","Derbyshire",E07000036,52.932598,-1.3155,3415,2439,48679,112042,Local Authority District
+"Exeter","Devon",E07000041,50.721901,-3.51554,5441,3593,49251,117808,Local Authority District
+"Falkirk","",S12000014,56.005402,-3.77668,5125,4165,68696,155903,Council Area
+"Fareham","Hampshire",E07000087,50.8536,-1.22233,5265,3280,46583,111590,Local Authority District
+"Fenland","Cambridgeshire",E07000010,52.587002,0.079622,3675,2961,40647,95324,Local Authority District
+"Fermanagh and Omagh","",N09000006,54.4147,-7.50723,6703,5710,39684,108357,District
+"Fife","",S12000047,56.166401,-3.19461,12801,10198,160924,365139,Council Area
+"Flintshire","Clwyd",W06000005,53.203701,-3.11108,5414,4483,63802,152554,Unitary Authority
+"Folkestone and Hythe","Kent",E07000112,51.0676,1.09167,4780,3591,47396,108019,Local Authority District
+"Forest of Dean","Gloucestershire",E07000080,51.805302,-2.52379,4175,3289,34188,81984,Local Authority District
+"Fylde","Lancashire",E07000119,53.764099,-2.96305,3090,2304,34893,75790,Local Authority District
+"Gateshead","Tyne and Wear",E08000037,54.943699,-1.64475,6938,5195,89155,200215,Metropolitan District
+"Gedling","Nottinghamshire",E07000173,52.996899,-1.10899,3445,2643,49413,113736,Local Authority District
+"Glasgow City","",S12000049,55.859299,-4.26239,25580,15515,285533,592799,Council Area
+"Gloucester","Gloucestershire",E07000081,51.8489,-2.23718,5305,3071,50359,121655,Local Authority District
+"Gosport","Hampshire",E07000088,50.803699,-1.15679,2337,1834,35431,82625,Local Authority District
+"Gravesham","Kent",E07000109,51.4245,0.374384,3034,2233,40426,101704,Local Authority District
+"Great Yarmouth","Norfolk",E07000145,52.6134,1.70752,3270,2680,42083,97289,Local Authority District
+"Greenwich","Greater London",E09000011,51.4767,0.051685,7812,5108,101012,254520,London Borough
+"Guildford","Surrey",E07000209,51.248402,-0.576524,6892,4241,53997,137251,Local Authority District
+"Gwynedd","Gwynedd",W06000002,52.969601,-4.14077,6521,5589,52478,121877,Unitary Authority
+"Hackney","Greater London",E09000012,51.549702,-0.069707,6929,4551,101641,246136,London Borough
+"Halton","Cheshire",E06000006,53.351398,-2.72193,4284,3118,53313,125754,Unitary Authority
+"Hambleton","North Yorkshire",E07000164,54.267502,-1.33325,5582,4094,38112,89118,Local Authority District
+"Hammersmith and Fulham","Greater London",E09000013,51.4921,-0.216481,7212,3653,80640,182600,London Borough
+"Harborough","Leicestershire",E07000131,52.512299,-1.04218,3418,2567,34932,85474,Local Authority District
+"Haringey","Greater London",E09000014,51.589802,-0.105756,7907,4384,102093,255333,London Borough
+"Harlow","Essex",E07000073,51.768002,0.104158,2793,1801,34612,81929,Local Authority District
+"Harrogate","North Yorkshire",E07000165,54.033199,-1.51622,7953,5421,67170,157871,Local Authority District
+"Harrow","Greater London",E09000015,51.591801,-0.338057,8657,4956,84256,238931,London Borough
+"Hart","Hampshire",E07000089,51.287899,-0.864813,5609,2901,35524,91022,Local Authority District
+"Hartlepool","County Durham",E06000001,54.681,-1.2249,3417,2642,40428,92014,Unitary Authority
+"Hastings","East Sussex",E07000062,50.865601,0.566195,3124,2010,41162,90260,Local Authority District
+"Havant","Hampshire",E07000090,50.857399,-0.997174,4231,3086,51268,120587,Local Authority District
+"Havering","Greater London",E09000016,51.570702,0.203363,7882,5008,97200,237245,London Borough
+"Herefordshire, County of","Herefordshire",E06000019,52.073502,-2.69632,8308,6754,78312,183482,Unitary Authority
+"Hertsmere","Hertfordshire",E07000098,51.665401,-0.292746,5648,3076,39774,100068,Local Authority District
+"High Peak","Derbyshire",E07000037,53.3652,-1.94085,5176,2861,38937,90864,Local Authority District
+"Highland","",S12000017,57.575401,-4.36452,10261,7843,102041,232029,Council Area
+"Hillingdon","Greater London",E09000017,51.537701,-0.438226,10497,6204,100218,273933,London Borough
+"Hinckley and Bosworth","Leicestershire",E07000132,52.5835,-1.35252,3482,2539,45410,105162,Local Authority District
+"Horsham","West Sussex",E07000227,51.009602,-0.357361,6601,4193,54920,131320,Local Authority District
+"Hounslow","Greater London",E09000018,51.471401,-0.346871,9242,4943,94908,253977,London Borough
+"Huntingdonshire","Cambridgeshire",E07000011,52.3363,-0.186937,10481,5060,69340,169526,Local Authority District
+"Hyndburn","Lancashire",E07000120,53.759399,-2.38102,2588,1977,34328,80711,Local Authority District
+"Inverclyde","",S12000018,55.935699,-4.75165,3020,2319,37418,81442,Council Area
+"Ipswich","Suffolk",E07000202,52.055099,1.1557,4863,3330,57308,133416,Local Authority District
+"Isle of Anglesey","Gwynedd",W06000001,53.286201,-4.38348,3225,2868,30594,69751,Unitary Authority
+"Isle of Wight","Isle of Wight",E06000046,50.688202,-1.25698,6331,5112,61085,138265,Unitary Authority
+"Isles of Scilly","Cornwall",E06000053,49.924099,-6.31431,110,93,989,2203,Unitary Authority
+"Islington","Greater London",E09000019,51.539001,-0.108834,13331,6463,93536,206078,London Borough
+"Kensington and Chelsea","Greater London",E09000020,51.498501,-0.187426,8510,4333,78542,158649,London Borough
+"King's Lynn and West Norfolk","Norfolk",E07000146,52.739101,0.438809,6016,4979,62921,147322,Local Authority District
+"Kingston upon Hull, City of","East Riding of Yorkshire",E06000010,53.758202,-0.341082,8767,5783,112588,256373,Unitary Authority
+"Kingston upon Thames","Greater London",E09000021,51.397999,-0.287272,5917,3520,63624,160017,London Borough
+"Kirklees","West Yorkshire",E08000034,53.655499,-1.73399,16309,11418,173537,422463,Metropolitan District
+"Knowsley","Merseyside",E08000011,53.434101,-2.84764,4715,3653,61331,145914,Metropolitan District
+"Lambeth","Greater London",E09000022,51.4576,-0.120381,10528,6180,130025,303187,London Borough
+"Lancaster","Lancashire",E07000121,54.065899,-2.80802,5477,4230,57815,138362,Local Authority District
+"Leeds","West Yorkshire",E08000035,53.812698,-1.54935,30163,20435,320598,751490,Metropolitan District
+"Leicester","Leicestershire",E06000016,52.636002,-1.12503,9469,6042,123121,329790,Unitary Authority
+"Lewes","East Sussex",E07000063,50.8321,0.031228,4977,3343,42159,97453,Local Authority District
+"Lewisham","Greater London",E09000023,51.452702,-0.024878,8405,4978,116153,275988,London Borough
+"Lichfield","Staffordshire",E07000194,52.6833,-1.84181,4020,2997,41251,100734,Local Authority District
+"Lincoln","Lincolnshire",E07000138,53.2257,-0.548684,3830,2521,39770,93460,Local Authority District
+"Lisburn and Castlereagh","",N09000007,54.529598,-5.98863,4489,3428,52360,134167,District
+"Liverpool","Merseyside",E08000012,53.406399,-2.9386,17570,10528,206485,466344,Metropolitan District
+"Luton","Bedfordshire",E06000032,51.891602,-0.430237,5166,3223,74322,203282,Unitary Authority
+"Maidstone","Kent",E07000110,51.250801,0.542735,6996,5283,63436,155131,Local Authority District
+"Maldon","Essex",E07000074,51.7127,0.730989,2804,1889,25808,61604,Local Authority District
+"Malvern Hills","Worcestershire",E07000235,52.151299,-2.32852,3273,2649,32217,74645,Local Authority District
+"Manchester","Greater Manchester",E08000003,53.461201,-2.23068,26731,14134,204962,503142,Metropolitan District
+"Mansfield","Nottinghamshire",E07000174,53.154598,-1.18517,3348,2625,44898,104386,Local Authority District
+"Medway","Kent",E06000035,51.381199,0.538374,8398,6067,106249,264012,Unitary Authority
+"Melton","Leicestershire",E07000133,52.7869,-0.876027,1909,1507,21478,50349,Local Authority District
+"Mendip","Somerset",E07000187,51.2029,-2.53281,5590,4453,46138,109229,Local Authority District
+"Merthyr Tydfil","Mid Glamorgan",W06000024,51.735001,-3.36322,1979,1621,24270,58819,Unitary Authority
+"Merton","Greater London",E09000024,51.411201,-0.19636,5941,3680,78836,199924,London Borough
+"Mid and East Antrim","",N09000008,54.832901,-6.04584,3830,3372,53595,133567,District
+"Mid Devon","Devon",E07000042,50.870201,-3.51901,4017,3426,32781,77817,Local Authority District
+"Mid Suffolk","Suffolk",E07000203,52.221901,1.05437,4425,4022,40300,96718,Local Authority District
+"Mid Sussex","West Sussex",E07000228,51.0247,-0.09721,6516,4443,57427,139875,Local Authority District
+"Mid Ulster","",N09000009,54.624699,-6.74975,4378,4015,46882,136291,District
+"Middlesbrough","North Yorkshire",E06000002,54.555801,-1.22775,5477,3803,57206,138423,Unitary Authority
+"Midlothian","",S12000019,55.866699,-3.10921,3425,2984,34938,83071,Council Area
+"Milton Keynes","Buckinghamshire",E06000042,52.039001,-0.75117,12007,7559,98582,248811,Unitary Authority
+"Mole Valley","Surrey",E07000210,51.257401,-0.328393,4656,3172,35823,85357,Local Authority District
+"Monmouthshire","Gwent",W06000021,51.716702,-2.81865,6262,3298,38213,91287,Unitary Authority
+"Moray","",S12000020,57.6134,-3.19192,6668,3324,39977,93094,Council Area
+"Na h-Eileanan Siar","",S12000013,57.9785,-6.7008,2009,967,12565,27663,Council Area
+"Neath Port Talbot","West Glamorgan",W06000012,51.66,-3.78639,4592,3670,60393,139813,Unitary Authority
+"New Forest","Hampshire",E07000091,50.837299,-1.55901,10711,5523,76831,176453,Local Authority District
+"Newark and Sherwood","Nottinghamshire",E07000175,53.104698,-0.900643,4145,3560,48801,114896,Local Authority District
+"Newcastle upon Tyne","Tyne and Wear",E08000021,54.9869,-1.63237,10256,6647,117178,280225,Metropolitan District
+"Newcastle-under-Lyme","Staffordshire",E07000195,53.024899,-2.25707,4129,3157,52636,124019,Local Authority District
+"Newham","Greater London",E09000025,51.5313,0.030538,7347,4229,101489,307967,London Borough
+"Newport","Gwent",W06000022,51.5882,-2.99096,10699,3603,61175,145741,Unitary Authority
+"Newry, Mourne and Down","",N09000010,54.233002,-6.07589,5270,4806,61027,169043,District
+"North Ayrshire","",S12000021,55.671001,-4.75325,5046,4205,62437,138010,Council Area
+"North Devon","Devon",E07000043,51.0923,-4.02371,4630,3736,39997,93655,Local Authority District
+"North East Derbyshire","Derbyshire",E07000038,53.248402,-1.41783,4159,2612,43088,99118,Local Authority District
+"North East Lincolnshire","Lincolnshire",E06000012,53.561401,-0.097108,5997,4427,69704,159610,Unitary Authority
+"North Hertfordshire","Hertfordshire",E07000099,51.969398,-0.202345,5641,3864,53445,127207,Local Authority District
+"North Kesteven","Lincolnshire",E07000139,53.100899,-0.476387,3785,3309,46028,107888,Local Authority District
+"North Lanarkshire","",S12000050,55.8559,-3.99073,9830,7942,145930,337545,Council Area
+"North Lincolnshire","Lincolnshire",E06000013,53.585999,-0.607331,5936,4816,70687,167453,Unitary Authority
+"North Norfolk","Norfolk",E07000147,52.853298,1.21067,5166,4515,46073,101557,Local Authority District
+"North Northamptonshire","Northamptonshire",E06000061,52.380402,-0.669603,11408,8249,132638,316853,Unitary Authority
+"North Somerset","Somerset",E06000024,51.3927,-2.83228,10718,6295,88250,202621,Unitary Authority
+"North Tyneside","Tyne and Wear",E08000022,55.0219,-1.50653,7217,5003,91275,200761,Metropolitan District
+"North Warwickshire","Warwickshire",E07000218,52.553501,-1.62436,2389,1965,25774,61898,Local Authority District
+"North West Leicestershire","Leicestershire",E07000134,52.745399,-1.40049,4742,2590,39125,93460,Local Authority District
+"Northumberland","Northumberland",E06000057,55.175201,-1.7991,16116,12874,138521,316000,Unitary Authority
+"Norwich","Norfolk",E07000148,52.632301,1.28441,4105,3357,60321,132513,Local Authority District
+"Nottingham","Nottinghamshire",E06000018,52.961201,-1.1688,10353,6705,126029,305427,Unitary Authority
+"Nuneaton and Bedworth","Warwickshire",E07000219,52.506802,-1.47503,3337,2599,52704,125236,Local Authority District
+"Oadby and Wigston","Leicestershire",E07000135,52.587399,-1.10314,2181,1203,21363,56239,Local Authority District
+"Oldham","Greater Manchester",E08000004,53.543098,-2.10492,7853,5852,89704,224891,Metropolitan District
+"Orkney Islands","",S12000023,58.9916,-3.03335,836,729,9698,21278,Council Area
+"Oxford","Oxfordshire",E07000178,51.747101,-1.23624,6618,3707,55374,151900,Local Authority District
+"Pembrokeshire","Dyfed",W06000009,51.797901,-4.90229,5813,4994,53118,122426,Unitary Authority
+"Pendle","Lancashire",E07000122,53.864201,-2.19407,4261,2918,37353,89464,Local Authority District
+"Perth and Kinross","",S12000048,56.4221,-3.50784,6951,5439,64628,146300,Council Area
+"Peterborough","Cambridgeshire",E06000031,52.587502,-0.267972,7195,4281,74046,183668,Unitary Authority
+"Plymouth","Devon",E06000026,50.385899,-4.12291,8980,6287,109318,256411,Unitary Authority
+"Portsmouth","Hampshire",E06000044,50.809898,-1.07709,6479,4426,85466,205034,Unitary Authority
+"Powys","Powys",W06000023,52.339298,-3.34664,6990,6085,58322,132912,Unitary Authority
+"Preston","Lancashire",E07000123,53.772701,-2.70395,5986,3472,57601,140285,Local Authority District
+"Reading","Berkshire",E06000038,51.453999,-0.983666,8483,3766,62874,155699,Unitary Authority
+"Redbridge","Greater London",E09000026,51.579102,0.066639,7788,4617,99121,278927,London Borough
+"Redcar and Cleveland","North Yorkshire",E06000003,54.572701,-1.06479,5101,4033,59611,135192,Unitary Authority
+"Redditch","Worcestershire",E07000236,52.300701,-1.93533,2488,1672,34722,84186,Local Authority District
+"Reigate and Banstead","Surrey",E07000211,51.249699,-0.188806,6158,3914,55432,137874,Local Authority District
+"Renfrewshire","",S12000038,55.8507,-4.45741,6275,4696,80894,174889,Council Area
+"Rhondda Cynon Taf","Mid Glamorgan",W06000016,51.616798,-3.40536,7192,5379,99656,234383,Unitary Authority
+"Ribble Valley","Lancashire",E07000124,53.849098,-2.43937,2629,1970,24139,57329,Local Authority District
+"Richmond upon Thames","Greater London",E09000027,51.449001,-0.316913,7940,4418,79835,186984,London Borough
+"Richmondshire","North Yorkshire",E07000166,54.382599,-1.77907,3042,2517,20216,51997,Local Authority District
+"Rochdale","Greater Manchester",E08000005,53.600201,-2.172,8026,5696,87543,211677,Metropolitan District
+"Rochford","Essex",E07000075,51.591499,0.663662,2845,2095,33575,83290,Local Authority District
+"Rossendale","Lancashire",E07000125,53.697102,-2.25897,3122,2419,29052,67965,Local Authority District
+"Rother","East Sussex",E07000064,50.912498,0.519481,4213,3102,40874,90577,Local Authority District
+"Rotherham","South Yorkshire",E08000018,53.423199,-1.31083,9380,6426,108273,257222,Metropolitan District
+"Rugby","Warwickshire",E07000220,52.375198,-1.28253,3460,2825,41865,100047,Local Authority District
+"Runnymede","Surrey",E07000212,51.399101,-0.524915,3966,2409,32696,80467,Local Authority District
+"Rushcliffe","Nottinghamshire",E07000176,52.910198,-1.07539,3146,2844,45833,111121,Local Authority District
+"Rushmoor","Hampshire",E07000092,51.272202,-0.76024,3497,2312,36347,93814,Local Authority District
+"Rutland","Rutland",E06000017,52.6591,-0.679837,1590,1267,15004,37380,Unitary Authority
+"Ryedale","North Yorkshire",E07000167,54.180698,-0.869425,3929,2308,22520,51743,Local Authority District
+"Salford","Greater Manchester",E08000006,53.496899,-2.33549,12290,6529,103542,233888,Metropolitan District
+"Sandwell","West Midlands",E08000028,52.512001,-2.00943,9465,6880,121416,307873,Metropolitan District
+"Scarborough","North Yorkshire",E07000168,54.328201,-0.485715,4537,3572,49429,108778,Local Authority District
+"Scottish Borders","",S12000026,55.603199,-2.69631,5217,4501,52386,113571,Council Area
+"Sedgemoor","Somerset",E07000188,51.179401,-2.95715,4876,3996,48811,114628,Local Authority District
+"Sefton","Merseyside",E08000014,53.539299,-2.99881,9592,6654,117934,273815,Metropolitan District
+"Selby","North Yorkshire",E07000169,53.7929,-1.12423,4234,2830,34547,83417,Local Authority District
+"Sevenoaks","Kent",E07000111,51.291801,0.174637,5368,3713,47034,114927,Local Authority District
+"Sheffield","South Yorkshire",E08000019,53.3848,-1.46699,19120,11722,229970,552744,Metropolitan District
+"Shetland Islands","",S12000027,60.219398,-1.19861,752,651,9915,23086,Council Area
+"Shropshire","Shropshire",E06000051,52.690498,-2.71895,15184,12550,129738,306309,Unitary Authority
+"Slough","Berkshire",E06000039,51.5112,-0.592129,4862,2884,50741,140126,Unitary Authority
+"Solihull","West Midlands",E08000029,52.424,-1.77127,6529,4700,86091,206723,Metropolitan District
+"Somerset West and Taunton","Somerset",E07000246,51.058102,-3.22702,6976,5473,62530,144859,Local Authority District
+"South Ayrshire","",S12000028,55.446701,-4.64014,4493,3584,51192,112564,Council Area
+"South Cambridgeshire","Cambridgeshire",E07000012,52.193802,0.083824,7789,3937,59993,148837,Local Authority District
+"South Derbyshire","Derbyshire",E07000039,52.822201,-1.54415,3794,2485,38993,94625,Local Authority District
+"South Gloucestershire","Gloucestershire",E06000025,51.517799,-2.49971,13369,7050,107500,262680,Unitary Authority
+"South Hams","Devon",E07000044,50.361698,-3.79839,4904,4085,36840,83078,Local Authority District
+"South Holland","Lincolnshire",E07000140,52.789902,-0.077784,3276,2642,37254,88263,Local Authority District
+"South Kesteven","Lincolnshire",E07000141,52.821499,-0.528248,5119,4104,57351,133802,Local Authority District
+"South Lakeland","Cumbria",E07000031,54.289001,-2.86723,5812,4719,46543,103642,Local Authority District
+"South Lanarkshire","",S12000029,55.754601,-4.04731,10672,8576,139102,313606,Council Area
+"South Norfolk","Norfolk",E07000149,52.5116,1.2275,5708,4673,52820,124035,Local Authority District
+"South Oxfordshire","Oxfordshire",E07000179,51.625401,-1.06873,8756,5196,54090,134234,Local Authority District
+"South Ribble","Lancashire",E07000126,53.7145,-2.70203,4177,2588,46088,108994,Local Authority District
+"South Somerset","Somerset",E07000189,50.967098,-2.70876,7545,6115,69498,161226,Local Authority District
+"South Staffordshire","Staffordshire",E07000196,52.610699,-2.15457,3439,3009,44454,108095,Local Authority District
+"South Tyneside","Tyne and Wear",E08000023,54.973801,-1.44919,4637,3621,67166,148126,Metropolitan District
+"Southampton","Hampshire",E06000045,50.9175,-1.3986,14272,5833,98244,236855,Unitary Authority
+"Southend-on-Sea","Essex",E06000033,51.5462,0.702914,5884,3651,74728,173767,Unitary Authority
+"Southwark","Greater London",E09000028,51.483501,-0.07863,12368,6950,120458,288265,London Borough
+"Spelthorne","Surrey",E07000213,51.422798,-0.457639,3748,2488,39512,95596,Local Authority District
+"St Albans","Hertfordshire",E07000240,51.7658,-0.330206,6688,4551,56135,140661,Local Authority District
+"St. Helens","Merseyside",E08000013,53.4529,-2.71826,6170,4815,75737,175294,Metropolitan District
+"Stafford","Staffordshire",E07000197,52.8344,-2.13548,4893,3843,55686,130829,Local Authority District
+"Staffordshire Moorlands","Staffordshire",E07000198,53.0667,-2.03994,3520,2992,41764,97080,Local Authority District
+"Stevenage","Hertfordshire",E07000243,51.9035,-0.191684,2912,1893,34911,83999,Local Authority District
+"Stirling","",S12000030,56.1334,-4.04515,3753,2922,37492,90073,Council Area
+"Stockport","Greater Manchester",E08000007,53.3978,-2.15346,10410,6763,121974,283267,Metropolitan District
+"Stockton-on-Tees","County Durham",E06000004,54.566898,-1.32131,7145,5410,79170,191641,Unitary Authority
+"Stoke-on-Trent","Staffordshire",E06000021,53.015701,-2.16655,8841,6522,107558,248962,Unitary Authority
+"Stratford-on-Avon","Warwickshire",E07000221,52.1996,-1.64785,6480,4740,51924,120490,Local Authority District
+"Stroud","Gloucestershire",E07000082,51.730301,-2.26898,5190,4133,47778,112757,Local Authority District
+"Sunderland","Tyne and Wear",E08000024,54.8927,-1.43911,9468,7024,119757,275501,Metropolitan District
+"Surrey Heath","Surrey",E07000214,51.3335,-0.713948,4149,2334,33540,86175,Local Authority District
+"Sutton","Greater London",E09000029,51.364201,-0.181835,6000,3869,78139,190048,London Borough
+"Swale","Kent",E07000113,51.353901,0.788854,5141,3950,55610,135893,Local Authority District
+"Swansea","West Glamorgan",W06000011,51.641998,-3.97863,8517,5830,103491,239013,Unitary Authority
+"Swindon","Wiltshire",E06000030,51.568401,-1.78104,9110,5258,88360,209166,Unitary Authority
+"Tameside","Greater Manchester",E08000008,53.473801,-2.0913,8559,5987,94958,219318,Metropolitan District
+"Tamworth","Staffordshire",E07000199,52.626099,-1.68049,2158,1519,31633,76867,Local Authority District
+"Tandridge","Surrey",E07000215,51.255798,-0.052192,3353,2309,33326,82971,Local Authority District
+"Teignbridge","Devon",E07000045,50.567699,-3.59361,5860,4596,53981,124178,Local Authority District
+"Telford and Wrekin","Shropshire",E06000020,52.6903,-2.46111,7566,5612,66603,166634,Unitary Authority
+"Tendring","Essex",E07000076,51.848499,1.14727,5767,4647,62102,138046,Local Authority District
+"Test Valley","Hampshire",E07000093,51.097301,-1.49025,6256,3804,47698,116523,Local Authority District
+"Tewkesbury","Gloucestershire",E07000083,51.932598,-2.1225,3854,2911,35122,81955,Local Authority District
+"Thanet","Kent",E07000114,51.363098,1.38882,5221,3886,59513,134186,Local Authority District
+"Three Rivers","Hertfordshire",E07000102,51.647099,-0.445887,4461,2518,35146,87460,Local Authority District
+"Thurrock","Essex",E06000034,51.494801,0.339604,4898,3264,62357,157717,Unitary Authority
+"Tonbridge and Malling","Kent",E07000115,51.260601,0.361139,5433,3848,48079,120657,Local Authority District
+"Torbay","Devon",E06000027,50.448101,-3.54589,5299,3778,59033,131001,Unitary Authority
+"Torfaen","Gwent",W06000020,51.6759,-3.03598,4207,2566,38516,91051,Unitary Authority
+"Torridge","Devon",E07000046,50.936901,-4.22544,3185,2710,27983,63852,Local Authority District
+"Tower Hamlets","Greater London",E09000030,51.517799,-0.043539,10346,5766,101227,254074,London Borough
+"Trafford","Greater Manchester",E08000009,53.424,-2.33363,11105,6509,94501,226610,Metropolitan District
+"Tunbridge Wells","Kent",E07000116,51.130699,0.343313,5459,3820,47175,115043,Local Authority District
+"Uttlesford","Essex",E07000077,51.936401,0.267271,3746,2910,31335,79477,Local Authority District
+"Vale of Glamorgan","South Glamorgan",W06000014,51.4244,-3.29361,6594,3072,53498,126318,Unitary Authority
+"Vale of White Horse","Oxfordshire",E07000180,51.649799,-1.37405,5564,4100,49412,120997,Local Authority District
+"Wakefield","West Yorkshire",E08000036,53.6758,-1.42616,12001,9528,140405,325804,Metropolitan District
+"Walsall","West Midlands",E08000030,52.595501,-1.98119,7477,5569,107885,269506,Metropolitan District
+"Waltham Forest","Greater London",E09000031,51.588001,-0.009477,6661,3800,96887,258260,London Borough
+"Wandsworth","Greater London",E09000032,51.455799,-0.176753,10605,6161,130468,306943,London Borough
+"Warrington","Cheshire",E06000007,53.397499,-2.57836,8244,5424,85142,202232,Unitary Authority
+"Warwick","Warwickshire",E07000222,52.2981,-1.56201,5941,4005,58528,135724,Local Authority District
+"Watford","Hertfordshire",E07000103,51.662498,-0.405022,6748,2425,36645,90186,Local Authority District
+"Waverley","Surrey",E07000216,51.169998,-0.680306,6312,4315,49255,121509,Local Authority District
+"Wealden","East Sussex",E07000065,50.947601,0.206764,8057,5937,62690,148954,Local Authority District
+"Welwyn Hatfield","Hertfordshire",E07000241,51.781399,-0.202216,4715,3254,43600,110474,Local Authority District
+"West Berkshire","Berkshire",E06000037,51.427399,-1.26001,10437,5315,62350,153844,Unitary Authority
+"West Devon","Devon",E07000047,50.637299,-4.06698,2989,2510,22711,53509,Local Authority District
+"West Dunbartonshire","",S12000039,55.942299,-4.4949,3085,2390,42083,90515,Council Area
+"West Lancashire","Lancashire",E07000127,53.582401,-2.83768,3730,2768,45357,110632,Local Authority District
+"West Lindsey","Lincolnshire",E07000142,53.381401,-0.538856,3960,3178,38399,89248,Local Authority District
+"West Lothian","",S12000040,55.899799,-3.5791,5169,4113,73284,174848,Council Area
+"West Northamptonshire","Northamptonshire",E06000062,52.2248,-0.96785,15254,9579,155106,375121,Unitary Authority
+"West Oxfordshire","Oxfordshire",E07000181,51.811901,-1.49117,8069,4051,43240,104776,Local Authority District
+"West Suffolk","Suffolk",E07000245,52.250301,0.595559,6944,5252,71170,170745,Local Authority District
+"Westminster","Greater London",E09000033,51.513199,-0.148681,31083,13195,105746,219356,London Borough
+"Wigan","Greater Manchester",E08000010,53.525002,-2.58529,10219,7855,136415,317903,Metropolitan District
+"Wiltshire","Wiltshire",E06000054,51.312199,-1.99144,22421,16976,194175,470954,Unitary Authority
+"Winchester","Hampshire",E07000094,51.017799,-1.2498,6136,4061,46856,116598,Local Authority District
+"Windsor and Maidenhead","Berkshire",E06000040,51.487499,-0.68042,7070,4498,58391,144662,Unitary Authority
+"Wirral","Merseyside",E08000015,53.379299,-3.06119,21008,8652,140591,319805,Metropolitan District
+"Woking","Surrey",E07000217,51.319,-0.560167,4428,2582,39476,99210,Local Authority District
+"Wokingham","Berkshire",E06000041,51.422401,-0.875203,8779,4401,60371,154479,Unitary Authority
+"Wolverhampton","West Midlands",E08000031,52.587898,-2.1191,8690,5736,102227,249579,Metropolitan District
+"Worcester","Worcestershire",E07000237,52.1987,-2.20931,3906,2556,42071,98840,Local Authority District
+"Worthing","West Sussex",E07000229,50.820099,-0.388963,4518,3041,47045,104642,Local Authority District
+"Wrexham","Clwyd",W06000006,53.0355,-3.00588,5220,4324,57003,134757,Unitary Authority
+"Wychavon","Worcestershire",E07000238,52.151798,-2.03372,5572,3834,49410,116793,Local Authority District
+"Wyre","Lancashire",E07000128,53.8867,-2.95825,3981,3181,47222,107581,Local Authority District
+"Wyre Forest","Worcestershire",E07000239,52.375301,-2.26486,4253,3255,42992,97977,Local Authority District
+"York","North Yorkshire",E06000014,53.9655,-1.08296,12686,5405,83560,198067,Unitary Authority
