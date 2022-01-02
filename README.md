@@ -6,11 +6,11 @@ By Fardowsa, Isabelle, Kim, Lydia, Wendy & Yehjoon
 
 **Full details of our project aims, implementation and analysis can be found in the pdf report:**
 
-*FILE NAME HERE*
+*Broadband Variations Report*
 
 **The source code is located in the Jupyter Notebook:**
 
-*FILE NAME HERE*
+*Broadband Variations Project*
 
 **The relevant source data files needed to run the code are located in the main directory:**
 
